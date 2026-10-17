@@ -248,7 +248,8 @@ for (const m of modules) {
     const ctx = {};
     l.html = md(l.body, ctx);
     l.toc = ctx.toc || [];
-    l.minutes = readingMinutes(l.html);
+    // Cada lección se diseña como una sesión de 60 minutos (lectura guiada + práctica).
+    l.minutes = 60;
   }
   m.introHtml = md(m.intro, {});
   m.minutes = m.lessons.reduce((a, l) => a + l.minutes, 0);
@@ -462,7 +463,7 @@ function moduleCard(m, headingLevel = 3) {
   <div class="module-card__top"><span class="module-card__icon" aria-hidden="true">${icon(m.icon || 'book')}</span><span class="module-card__num">Módulo ${m.number}</span></div>
   <h${headingLevel} class="module-card__title"><a href="/${m.route}">${esc(m.title)}</a></h${headingLevel}>
   <p>${esc(m.summary)}</p>
-  <p class="module-card__meta">${m.lessons.length} lecciones · ≈ ${m.minutes} min de lectura</p>
+  <p class="module-card__meta">${m.lessons.length} lecciones de 60 min · ≈ ${m.lessons.length} h de estudio</p>
   <div class="progress" data-progress="${esc(m.lessons.map((l) => l.id).join('|'))}" aria-hidden="true"><span class="progress__bar"></span></div>
   <p class="progress__label small" data-progress-label="${esc(m.lessons.map((l) => l.id).join('|'))}"></p>
 </article>`;
@@ -642,7 +643,7 @@ modules.forEach((m, mi) => {
   <header class="page-head module-head">
     <span class="module-head__icon" aria-hidden="true">${icon(m.icon || 'book')}</span>
     <div><p class="eyebrow">Módulo ${m.number} de ${modules.length}</p><h1>${esc(m.title)}</h1><p class="lead">${esc(m.summary)}</p>
-    <p class="meta-row">${tagList(m.levels, 'tag--level')} ${tagList(m.ages, 'tag--age')} <span class="tag tag--time">${icon('clock')} ≈ ${m.hours} h de estudio y práctica</span></p></div>
+    <p class="meta-row">${tagList(m.levels, 'tag--level')} ${tagList(m.ages, 'tag--age')} <span class="tag tag--time">${icon('clock')} ≈ ${m.lessons.length} h (${m.lessons.length} lecciones de 60 min)</span></p></div>
   </header>
   <div class="module-layout">
     <div class="prose">
@@ -688,7 +689,7 @@ modules.forEach((m, mi) => {
     const body = `<div class="container lesson-layout">
   <aside class="lesson-aside">${sidebar}</aside>
   <article class="lesson" aria-labelledby="titulo">
-    <header class="page-head page-head--lesson"><p class="eyebrow">Módulo ${m.number} · Lección ${l.index} de ${m.lessons.length}</p><h1 id="titulo">${esc(l.title)}</h1><p class="meta-row"><span class="tag tag--time">${icon('clock')} ${l.minutes} min de lectura</span></p></header>
+    <header class="page-head page-head--lesson"><p class="eyebrow">Módulo ${m.number} · Lección ${l.index} de ${m.lessons.length}</p><h1 id="titulo">${esc(l.title)}</h1><p class="meta-row"><span class="tag tag--time">${icon('clock')} ${l.minutes} min de duración</span></p></header>
     ${tocBlock(l.toc)}
     <div class="prose">${l.html}</div>
     <div class="complete-box"><button type="button" class="btn btn--complete" data-complete="${esc(l.id)}" aria-pressed="false">${icon('check')} <span>Marcar lección como completada</span></button><p class="small">Tu progreso se guarda solo en este navegador. No necesitas cuenta.</p></div>

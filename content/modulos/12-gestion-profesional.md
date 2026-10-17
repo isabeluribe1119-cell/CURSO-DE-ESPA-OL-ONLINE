@@ -37,6 +37,16 @@ La calidad de una clase online no depende solo de la pedagogía: un audio defect
 > [!CONSEJO] Tu espacio es parte de tu marca
 > Si grabas tu vídeo de presentación en el mismo espacio en que das clase, el estudiante reconoce el entorno al llegar. Coherencia = confianza.
 
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Mira tu espacio de trabajo desde la cámara de un estudiante. ¿Qué ve? |
+| 8–22 | Lectura guiada | Lee los elementos básicos: fondo, silencio, ergonomía, materiales y plan B. |
+| 22–38 | Práctica | Reorganiza el espacio según la lista y haz una captura desde la cámara. |
+| 38–52 | Aplicación con tu estudiante | Prueba una clase con esa configuración y anota distracciones. |
+| 52–60 | Cierre | Escribe el cambio que harás antes de la primera clase de la semana. |
+
 ## Audio, cámara, iluminación y conexión
 
 > **Objetivo de la lección:** priorizar las inversiones técnicas que más afectan al aprendizaje.
@@ -55,6 +65,16 @@ La calidad de una clase online no depende solo de la pedagogía: un audio defect
 - [ ] Cámara encuadrada y luz encendida.
 - [ ] Materiales de la clase abiertos en pestañas.
 - [ ] Notificaciones del ordenador y del móvil silenciadas.
+
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Haz una grabación de 10 segundos de tu voz y escúchala como lo haría un estudiante. |
+| 8–22 | Lectura guiada | Lee las prioridades (audio, conexión, luz, cámara) y la lista de comprobación previa. |
+| 22–38 | Práctica | Compara dos configuraciones de audio y elige la que más se entiende. |
+| 38–52 | Aplicación con tu estudiante | Haz una clase de prueba de cinco minutos con esa configuración y pide la opinión de un colega. |
+| 52–60 | Cierre | Escribe la lista de comprobación que seguirás antes de cada jornada. |
 
 ## Zoom, Google Meet y otras plataformas
 
@@ -83,6 +103,16 @@ Plataformas como Preply o italki ofrecen o recomiendan sus propias aulas virtual
 
 Un documento por estudiante (Google Docs, documentos de código abierto u otros) con: fecha, vocabulario nuevo, correcciones, tareas. Se convierte en su cuaderno de clase y en tu registro de seguimiento.
 
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Escribe las funciones de videollamada que usas en clase y para qué. |
+| 8–22 | Lectura guiada | Lee la tabla de funciones y su uso pedagógico, y el aviso sobre cambios de condiciones. |
+| 22–38 | Práctica | Prepara una clase con compartir pantalla, pizarra y chat para una misma actividad. |
+| 38–52 | Aplicación con tu estudiante | Haz la actividad con un colega y anota los pasos que te costaron. |
+| 52–60 | Cierre | Escribe el documento compartido de cada estudiante con sus apartados. |
+
 ## Protección de datos personales
 
 > **Objetivo de la lección:** tratar los datos de los estudiantes con responsabilidad y conocer las obligaciones generales.
@@ -99,6 +129,16 @@ Un documento por estudiante (Google Docs, documentos de código abierto u otros)
 - **Transparencia:** informa al estudiante de qué datos guardas y para qué.
 - **Grabaciones:** solo con consentimiento explícito, informando para qué se usarán, durante cuánto tiempo y cómo pueden pedir su eliminación.
 - **Materiales y redes:** nunca publiques producciones, nombres, imágenes o testimonios de estudiantes sin su permiso explícito (y el de su familia si son menores).
+
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Revisa qué datos de tus estudiantes tienes guardados ahora y para qué los usas. |
+| 8–22 | Lectura guiada | Lee los principios de minimización, finalidad, seguridad y conservación limitada. |
+| 22–38 | Práctica | Haz una lista de los datos que pides en el formulario de inicio y elimina los que no necesitas. |
+| 38–52 | Aplicación con tu estudiante | Redacta la información de datos que enviarás a tus estudiantes con esos cambios. |
+| 52–60 | Cierre | Escribe cómo y cuándo borrarás las grabaciones que tengas. |
 
 ## Consentimiento y seguridad en clases con menores
 
@@ -117,6 +157,16 @@ Un documento por estudiante (Google Docs, documentos de código abierto u otros)
 
 > [!NOTA] Requisitos de las plataformas
 > Algunas plataformas tienen políticas específicas para clases con menores (verificación de antecedentes, presencia de adultos, prohibición de compartir datos de contacto). Consulta las normas de cada plataforma y cúmplelas.
+
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Recuerda una situación con un menor en la que no supiste qué canal usar. ¿Qué hiciste? |
+| 8–22 | Lectura guiada | Lee las medidas básicas: adulto responsable, canales profesionales y consentimiento por escrito. |
+| 22–38 | Práctica | Escribe el protocolo de comunicación con la familia de un menor en cinco puntos. |
+| 38–52 | Aplicación con tu estudiante | Presenta el protocolo a una familia y registra sus dudas. |
+| 52–60 | Cierre | Escribe qué harás si un menor revela algo que te preocupa. |
 
 ## Políticas de cancelación y reprogramación
 
@@ -141,6 +191,16 @@ Si trabajas en una plataforma, sus políticas de cancelación suelen prevalecer;
 > - Si hay problemas técnicos de mi parte, recuperamos el tiempo perdido.
 > - Los paquetes de 10 clases son válidos durante 3 meses.
 
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Recuerda un caso de cancelación que te dejó mal. ¿Qué no estaba escrito? |
+| 8–22 | Lectura guiada | Lee los elementos de una política y el ejemplo de política breve. |
+| 22–38 | Práctica | Redacta tu política con plazos, excepciones y qué pasa si cancelas tú. |
+| 38–52 | Aplicación con tu estudiante | Revisa la política con un colega y pide que la explique con sus palabras. |
+| 52–60 | Cierre | Publica la política en tu perfil o en tu documento de bienvenida. |
+
 ## Puntualidad y comunicación profesional
 
 > **Objetivo de la lección:** establecer hábitos de comunicación que generen confianza.
@@ -153,6 +213,16 @@ Si trabajas en una plataforma, sus políticas de cancelación suelen prevalecer;
 
 > [!EJEMPLO] Mensaje de seguimiento tras la clase
 > «¡Hola, Mark! Gracias por la clase de hoy. Te dejo en el documento compartido las 8 expresiones para pedir aclaraciones que practicamos. Para el jueves: graba un audio de 1 minuto resumiendo la última reunión con tu equipo usando al menos tres de ellas. ¡Buen trabajo con la simulación! Isabel»
+
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Escribe el último mensaje que enviaste a un estudiante. ¿Tenía fecha y hora claras? |
+| 8–22 | Lectura guiada | Lee los hábitos de puntualidad, el tiempo de respuesta y las zonas horarias. |
+| 22–38 | Práctica | Escribe tres plantillas: bienvenida, recordatorio y seguimiento tras la clase. |
+| 38–52 | Aplicación con tu estudiante | Envía una plantilla a un estudiante real o simulado y revisa la respuesta. |
+| 52–60 | Cierre | Anota tu horario de respuesta y comunícalo en tu perfil. |
 
 ## Agenda, seguimiento y prevención de la sobrecarga
 
@@ -180,6 +250,16 @@ La enseñanza online puede llevar a jornadas largas, horarios nocturnos por las 
 
 > [!CONSEJO] Calcula tus horas reales
 > Una hora de clase implica tiempo de preparación, mensajes, administración y formación. Si das 30 horas de clase y dedicas 15 más a todo lo demás, tu semana es de 45 horas. Ten en cuenta este dato al fijar precios ([Módulo 15](/modulos/15-precios-ingresos/)).
+
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Cuenta las horas que trabajaste la semana pasada, incluida la preparación. |
+| 8–22 | Lectura guiada | Lee la gestión de agenda y la tabla de señales de sobrecarga con sus medidas. |
+| 22–38 | Práctica | Define tu límite de horas de clase semanales y tus bloques de preparación. |
+| 38–52 | Aplicación con tu estudiante | Aplica el calendario tipo durante una semana y registra las horas reales. |
+| 52–60 | Cierre | Escribe la señal de alerta que vas a vigilar y la medida que tomarás. |
 
 ## Sesión de 60 minutos: montar tu kit profesional {#sesion-60}
 
@@ -233,3 +313,14 @@ La enseñanza online puede llevar a jornadas largas, horarios nocturnos por las 
 - [ ] El texto de datos personales indica qué datos, para qué y durante cuánto tiempo.
 - [ ] El protocolo con menores canaliza la comunicación a través del adulto responsable.
 - [ ] Has definido tu límite de horas semanales.
+
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Revisa tu lista de comprobación técnica y tus políticas. |
+| 8–22 | Lectura guiada | Lee la tarea práctica y la lista de comprobación del kit profesional. |
+| 22–38 | Práctica | Responde el cuestionario y revisa las retroalimentaciones. |
+| 38–52 | Aplicación con tu estudiante | Completa el kit: lista técnica, política de cancelación, texto de datos, protocolo con menores y tres plantillas. |
+| 52–60 | Cierre | Marca la lista y anota lo que falta por publicar. |
+

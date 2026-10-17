@@ -65,6 +65,16 @@ La diferencia no es solo terminológica: **cambia lo que necesita el estudiante*
 > [!ACTIVIDAD] Tu perfil lingüístico como docente
 > Escribe un párrafo breve respondiendo: ¿qué variedad de español hablas?, ¿qué otras lenguas conoces y a qué nivel?, ¿qué parte de la gramática del español te costaría más explicar? Guárdalo: lo usarás en el Módulo 14 para definir tu propuesta de valor.
 
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Pregúntate: ¿qué sabes de español sin haberlo estudiado? Anótalo en dos columnas: intuiciones de hablante y explicaciones que no sabrías dar. |
+| 8–22 | Lectura guiada | Lee la sección sobre ELE, EL2, ELH y EFE. Marca en la tabla el contexto de tu estudiante y explica con tus palabras la diferencia de necesidades. |
+| 22–38 | Práctica | Escribe tus dos versiones de una misma clase, como en el ejemplo A y B, para una pregunta cotidiana de tu propio país. |
+| 38–52 | Aplicación con tu estudiante | Describe el perfil lingüístico que escribiste en la actividad, y señala la parte del español que más te costaría explicar. |
+| 52–60 | Cierre | Resume en tres frases qué cambia cuando no es tu lengua materna. Guarda el párrafo para tu propuesta de valor. |
+
 ## Tutor, profesor, facilitador y creador de materiales
 
 > **Objetivo de la lección:** diferenciar los roles profesionales más comunes y decidir qué combinación quieres asumir.
@@ -91,6 +101,16 @@ Independientemente de la etiqueta, al cobrar por enseñar te comprometes a:
 
 > [!CONSEJO] Elige un rol principal para tu perfil
 > Es más fácil comunicar tu valor si el estudiante entiende qué recibirá. «Te acompaño a practicar conversación con corrección sistemática y un informe mensual» es más claro que «clases de todo para todos».
+
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Piensa en una plataforma en la que te anunciaste y di qué rol aparece en el título de tu perfil. |
+| 8–22 | Lectura guiada | Compara la tabla de roles con tu caso y lee los riesgos de cada rol. Anota cuál asumes en cada clase. |
+| 22–38 | Práctica | Escribe el rol principal de tu perfil y dos frases que lo expliquen a un estudiante. |
+| 38–52 | Aplicación con tu estudiante | Revisa tu próxima semana de clases: ¿qué rol ejerces en cada una? Ajusta una sesión para que coincida con tu rol principal. |
+| 52–60 | Cierre | Escribe el compromiso ético que más te cuesta cumplir y cómo lo vas a vigilar. |
 
 ## Competencias profesionales del tutor online
 
@@ -132,6 +152,16 @@ Puntúa cada competencia de 1 (necesito formarme) a 4 (la domino y podría ense�
 | Comunidad profesional | | | | | 17 |
 | Tecnologías | | | | | 9, 12, 16 |
 
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Cuenta una clase reciente que te haya salido mal. ¿Qué competencia fallaba? |
+| 8–22 | Lectura guiada | Lee las ocho competencias y las específicas del entorno online. Marca las que consideras más débiles. |
+| 22–38 | Práctica | Completa la autoevaluación de 1 a 4 de la tabla, sin mirar las respuestas anteriores. |
+| 38–52 | Aplicación con tu estudiante | Elige la competencia más baja y diseña una acción concreta para la próxima semana (una práctica, un tutorial, una grabación). |
+| 52–60 | Cierre | Anota las dos competencias prioritarias y la fecha de revisión. |
+
 ## Necesidades, objetivos y motivaciones del estudiante
 
 > **Objetivo de la lección:** realizar un análisis de necesidades que distinga entre lo que el estudiante dice querer, lo que necesita y lo que le motiva.
@@ -169,6 +199,16 @@ A veces las tres coinciden. A menudo no: alguien puede *querer* conversar sin co
 
 Usa la [plantilla de análisis de necesidades](/recursos/analisis-necesidades/) para estructurar la entrevista.
 
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Recuerda una vez en que te explicaron para qué necesitaban una lengua. ¿Qué te dijo esa persona que no te habrías imaginado? |
+| 8–22 | Lectura guiada | Lee la diferencia entre necesidad objetiva, deseo y motivación. Revisa el ejemplo de Mark y su análisis. |
+| 22–38 | Práctica | Haz una entrevista simulada de 10 minutos con un colega usando las preguntas de la lección y anota respuestas en tres columnas. |
+| 38–52 | Aplicación con tu estudiante | Con el análisis de tu entrevista, escribe una decisión de enseñanza que concilie deseo y necesidad. |
+| 52–60 | Cierre | Revisa si tus notas separan los tres niveles. Guarda la ficha en la plantilla de análisis de necesidades. |
+
 ## Cómo realizar una evaluación diagnóstica
 
 > **Objetivo de la lección:** diseñar y aplicar un diagnóstico breve que permita estimar el nivel aproximado y detectar prioridades.
@@ -205,6 +245,16 @@ Los descriptores completos están en el MCER y su volumen complementario (ver [M
 - **C2:** comprende prácticamente todo; matiza con precisión en situaciones complejas.
 
 Descarga la [ficha de diagnóstico](/recursos/ficha-diagnostico/) para registrar tus observaciones.
+
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Escribe qué quieres saber de un estudiante en los primeros 20 minutos y por qué. |
+| 8–22 | Lectura guiada | Lee la estructura de 25–30 minutos y la idea de «buscar el techo». Revisa los indicadores por nivel. |
+| 22–38 | Práctica | Diseña un diagnóstico de cuatro tareas de subida de dificultad para un perfil simulado. |
+| 38–52 | Aplicación con tu estudiante | Aplica el diagnóstico a un colega o a ti mismo grabando la conversación y registra el punto en el que empiezas a fallar. |
+| 52–60 | Cierre | Escribe tres fortalezas y tres prioridades a partir del registro y decide la primera tarea de enseñanza. |
 
 ## Objetivos de aprendizaje medibles
 
@@ -246,6 +296,16 @@ Los objetivos de clase deben **sumar** hacia los de unidad, y estos hacia el de 
 
 Usa la [plantilla de objetivos SMART](/recursos/objetivos-smart/).
 
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Escribe un objetivo que tengas para un estudiante y léelo en voz alta: ¿es observable? |
+| 8–22 | Lectura guiada | Lee la fórmula de cuatro preguntas y la tabla SMART. Repasa los tres ejemplos de reescritura. |
+| 22–38 | Práctica | Reescribe cinco objetivos vagos de tu práctica en formato SMART con criterio de logro. |
+| 38–52 | Aplicación con tu estudiante | Redacta un objetivo general, dos de unidad y uno de clase para tu estudiante del caso práctico. |
+| 52–60 | Cierre | Comprueba la cadena: ¿el objetivo de clase lleva al de unidad y este al general? |
+
 ## Cómo crear un plan individual de aprendizaje
 
 > **Objetivo de la lección:** construir un plan de 8 a 12 semanas que conecte diagnóstico, objetivos, contenidos, tareas y evaluación.
@@ -280,6 +340,16 @@ Usa la [plantilla de objetivos SMART](/recursos/objetivos-smart/).
 
 Descarga la [plantilla de plan individual](/recursos/plan-individual/).
 
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Imagina a un estudiante que tiene seis semanas para un objetivo concreto. ¿Qué harías primero? |
+| 8–22 | Lectura guiada | Lee los componentes del plan y el ejemplo de Aiko de ocho semanas. Identifica qué tarea final cierra cada unidad. |
+| 22–38 | Práctica | Completa la tabla de unidades de tu caso con contenidos, funciones y tarea final. |
+| 38–52 | Aplicación con tu estudiante | Añade el trabajo autónomo (15 minutos diarios) y la fecha de revisión en la semana 4. |
+| 52–60 | Cierre | Revisa el plan con un criterio: ¿responde a las necesidades detectadas, no a un libro genérico? |
+
 ## Errores frecuentes de los tutores principiantes
 
 > **Objetivo de la lección:** reconocer los errores más habituales al empezar y conocer alternativas concretas.
@@ -299,6 +369,16 @@ Descarga la [plantilla de plan individual](/recursos/plan-individual/).
 
 > [!ACTIVIDAD] Analiza una clase propia
 > Graba (con permiso explícito del estudiante) o recuerda con detalle una clase reciente. Estima qué porcentaje del tiempo hablaste tú. Identifica en la tabla anterior un error que cometiste y escribe qué harás diferente en la próxima clase.
+
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Recuerda tu primera clase. ¿Qué error cometiste que todavía te incomoda? |
+| 8–22 | Lectura guiada | Lee la tabla de errores frecuentes y sus alternativas. Señala los dos que te describen. |
+| 22–38 | Práctica | Graba (con permiso) cinco minutos de una clase y calcula qué porcentaje del tiempo hablas tú. |
+| 38–52 | Aplicación con tu estudiante | Diseña para tu próxima clase una alternativa concreta a cada error que te describe. |
+| 52–60 | Cierre | Escribe el cambio que vas a notar primero y cómo lo vas a medir. |
 
 ## Sesión de 60 minutos: primera clase con un estudiante nuevo {#sesion-60}
 
@@ -356,3 +436,14 @@ Descarga la [plantilla de plan individual](/recursos/plan-individual/).
 - [ ] Los objetivos de unidad conducen al objetivo de curso.
 - [ ] El plan incluye trabajo autónomo realista y fechas de evaluación.
 - [ ] El plan responde a las necesidades detectadas, no a un libro de texto genérico.
+
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Repasa los objetivos que escribiste en las actividades anteriores. |
+| 8–22 | Lectura guiada | Lee el caso de la tarea práctica y la lista de criterios de autoevaluación. |
+| 22–38 | Práctica | Responde el cuestionario de la lección sin mirar la retroalimentación y después compara. |
+| 38–52 | Aplicación con tu estudiante | Completa la tarea práctica: diagnóstico, objetivos SMART y plan de 8 semanas para tu estudiante o perfil simulado. |
+| 52–60 | Cierre | Marca cada criterio de la lista de comprobación y anota lo que falta. |
+

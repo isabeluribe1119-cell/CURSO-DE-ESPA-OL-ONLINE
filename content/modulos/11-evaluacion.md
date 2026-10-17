@@ -23,25 +23,6 @@ objectives:
 
 Evaluar no es poner notas. En una clase de idiomas, evaluar es **recoger información para tomar decisiones**: qué enseñar, cómo ayudar al estudiante y cómo mostrarle su progreso. En la enseñanza online individual, la evaluación es además una de las mejores herramientas para **retener estudiantes**: quien ve su progreso, continúa.
 
-## Sesión de 60 minutos: evaluar una tarea oral con rúbrica y dar retroalimentación {#sesion-60}
-
-> **Objetivo de la sesión:** evaluar una grabación de 3 minutos con la rúbrica, registrar errores y redactar un informe breve.
-
-**Antes de empezar:** reserva la hora completa, ten a mano los materiales de la tabla y, si practicas con un estudiante real o simulado, avisa de que la sesión tiene un objetivo de trabajo. Cronometra cada bloque; si uno se alarga, reduce el siguiente en lugar de saltarte el cierre.
-
-| Min. | Bloque | Qué hacer | Producto |
-|---|---|---|---|
-| 0–5 | Preparación | Leer los descriptores y ajustarlos al nivel del estudiante (lección 11.2) | Rúbrica ajustada |
-| 5–20 | Escucha | Escuchar la grabación una vez sin puntuar y una segunda con la rúbrica | Notas por criterio |
-| 20–32 | Puntuación | Asignar nivel por criterio con un ejemplo textual de cada uno | Tabla de puntuación |
-| 32–42 | Errores | Completar cinco entradas del registro de errores y marcar los recurrentes (lección 11.5) | Registro |
-| 42–54 | Informe | Redactar 150–200 palabras con lo que puede hacer, prioridades y recomendaciones (lección 11.8) | Informe |
-| 54–60 | Control | Comprobar que el informe aclara que no es una certificación | Lista marcada |
-
-**Preguntas para cerrar la sesión:** ¿qué bloque se alargó más de lo previsto? ¿Qué parte te resultó más útil para tu práctica? ¿Qué harás de forma distinta la próxima vez?
-
-**Evaluación de la sesión:** cada puntuación tiene un ejemplo de la grabación, y el informe no presenta el resultado como certificación.
-
 ## Evaluación diagnóstica, formativa y sumativa
 
 > **Objetivo de la lección:** distinguir los propósitos de la evaluación y planificarlos en un curso.
@@ -62,6 +43,16 @@ Evaluar no es poner notas. En una clase de idiomas, evaluar es **recoger informa
 - **Transparencia:** el estudiante conoce los criterios antes de la tarea.
 - **Utilidad:** el resultado sirve para decidir qué hacer después.
 - **Impacto positivo:** la evaluación motiva y orienta, no solo clasifica.
+
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Escribe una evaluación que hiciste sin saber para qué servía. |
+| 8–22 | Lectura guiada | Lee los tres tipos de evaluación con sus propósitos y ejemplos en tutoría online. |
+| 22–38 | Práctica | Asigna a un mismo contenido una prueba diagnóstica, una formativa y una sumativa. |
+| 38–52 | Aplicación con tu estudiante | Aplica la formativa con el estudiante y anota la decisión de enseñanza que cambió. |
+| 52–60 | Cierre | Escribe el calendario de evaluaciones de su próximo mes. |
 
 ## Rúbricas de expresión oral y escrita
 
@@ -94,6 +85,16 @@ Ajusta los descriptores al nivel del estudiante: un «4» en A2 no es lo mismo q
 4. **Pide al estudiante que se autoevalúe** con la misma rúbrica antes de darle tu valoración.
 5. **Convierte la rúbrica en objetivos**: «para pasar de 2 a 3 en cohesión, practicaremos estos 5 conectores».
 
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Lee la rúbrica oral en voz alta y di qué descriptor te parece más ambiguo. |
+| 8–22 | Lectura guiada | Lee la diferencia entre rúbrica holística y analítica, y la rúbrica oral por criterios. |
+| 22–38 | Práctica | Ajusta tres descriptores de la rúbrica oral para un nivel concreto. |
+| 38–52 | Aplicación con tu estudiante | Usa la rúbrica para evaluar una grabación de tu estudiante con dos criterios. |
+| 52–60 | Cierre | Pide al estudiante que se autoevalúe con la misma rúbrica y compara. |
+
 ## Evaluación de la comprensión auditiva y lectora
 
 > **Objetivo de la lección:** diseñar tareas de comprensión que midan lo que el estudiante entiende.
@@ -119,6 +120,16 @@ Ajusta los descriptores al nivel del estudiante: un «4» en A2 no es lo mismo q
 
 > [!CONSEJO] Distractores plausibles
 > En las preguntas de opción múltiple, las opciones incorrectas deben ser **plausibles**: deben aparecer en el texto o ser lógicas, de forma que solo quien comprende de verdad elija la correcta.
+
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Escribe una pregunta de comprensión que se pueda responder sin escuchar el audio. |
+| 8–22 | Lectura guiada | Lee los principios de la evaluación de comprensión y los tipos de ítems. |
+| 22–38 | Práctica | Diseña cuatro ítems de tipos distintos para un mismo texto con distractores plausibles. |
+| 38–52 | Aplicación con tu estudiante | Aplícalos con el estudiante y revisa los distractores que más eligió. |
+| 52–60 | Cierre | Escribe cuál ítem mejoraste y por qué. |
 
 ## Corrección inmediata y diferida
 
@@ -147,6 +158,16 @@ Recuerda los tipos de retroalimentación oral del [Módulo 6](/modulos/06-adoles
 > [!DEBATE] ¿Corrección escrita exhaustiva o selectiva?
 > La investigación sobre la corrección escrita ha sido objeto de un debate prolongado (Truscott, 1996, cuestionó su eficacia; Ferris y otros respondieron con evidencia a favor). Estudios posteriores sugieren que la **retroalimentación focalizada** puede ayudar al desarrollo de la precisión en estructuras concretas. En la práctica, la corrección selectiva y la reescritura son opciones sensatas.
 
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Recuerda una corrección que hiciste en un debate y que cortó al estudiante. |
+| 8–22 | Lectura guiada | Lee la matriz de decisión y la retroalimentación escrita selectiva. |
+| 22–38 | Práctica | Clasifica diez situaciones de tu clase como corrección inmediata o diferida. |
+| 38–52 | Aplicación con tu estudiante | Aplica una corrección diferida en una conversación y registra la respuesta del estudiante. |
+| 52–60 | Cierre | Escribe la regla de corrección que aplicarás en la próxima semana. |
+
 ## Registro de errores recurrentes y seguimiento del progreso
 
 > **Objetivo de la lección:** documentar errores y logros para planificar y para mostrar progreso.
@@ -168,6 +189,16 @@ Una tabla sencilla, compartida con el estudiante:
 - **Grabaciones periódicas** de la misma tarea para comparar.
 - **Hitos**: «Primera conversación telefónica completa en español», «primer correo formal sin ayuda».
 
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Abre tus notas de la última semana y busca un error que se repite. |
+| 8–22 | Lectura guiada | Lee el modelo del registro de errores y la hoja de seguimiento. |
+| 22–38 | Práctica | Completa cinco entradas de registro con un error recurrente y su forma adecuada. |
+| 38–52 | Aplicación con tu estudiante | Revisa el registro con el estudiante y pide que identifique el patrón. |
+| 52–60 | Cierre | Anota el error que sale de la lista de recurrentes este mes. |
+
 ## Fluidez, precisión, complejidad e inteligibilidad
 
 > **Objetivo de la lección:** distinguir dimensiones del rendimiento oral para evaluar y dar retroalimentación con precisión.
@@ -186,6 +217,16 @@ La investigación en ASL describe el rendimiento lingüístico con el modelo **C
 
 > [!CONSEJO] Inteligibilidad antes que acento nativo
 > El objetivo de pronunciación razonable para la mayoría de estudiantes es ser **inteligible** sin esfuerzo para el oyente, no eliminar el acento extranjero. Prioriza los rasgos que afectan a la comprensión (vocales, acento de palabra en formas verbales como *hablo/habló*, la vibrante en pares como *pero/perro*).
+
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Escucha una grabación tuya y di si te pareces más fluido, preciso o complejo. |
+| 8–22 | Lectura guiada | Lee el modelo CAF, la tabla de dimensiones y las compensaciones entre ellas. |
+| 22–38 | Práctica | Compara dos grabaciones del estudiante y anota la dimensión que mejoró. |
+| 38–52 | Aplicación con tu estudiante | Diseña una práctica para la dimensión más débil sin exigir las demás a la vez. |
+| 52–60 | Cierre | Escribe qué dimensión priorizarás en el próximo mes. |
 
 ## Autoevaluación y evaluación entre pares
 
@@ -206,6 +247,16 @@ Aunque las clases sean individuales, puedes:
 - Organizar **intercambios ocasionales** entre dos estudiantes del mismo nivel (con su consentimiento y, en menores, el de sus familias).
 - Usar **textos anónimos** de otros estudiantes (con permiso) para que el estudiante evalúe con la rúbrica.
 - Pedir al estudiante que **evalúe tu producción** cuando simulas errores típicos.
+
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Pregunta al estudiante cómo cree que le fue la última tarea. Anota su respuesta. |
+| 8–22 | Lectura guiada | Lee las herramientas de autoevaluación y las formas de evaluación entre pares en clase individual. |
+| 22–38 | Práctica | Prepara una lista «puedo…» de cinco descriptores para una unidad. |
+| 38–52 | Aplicación con tu estudiante | Pide al estudiante que la use al final de la unidad y compara con tu valoración. |
+| 52–60 | Cierre | Escribe las diferencias y acuerda cómo las vais a discutir. |
 
 ## Informes de progreso para estudiantes y familias
 
@@ -230,6 +281,35 @@ Aunque las clases sean individuales, puedes:
 ### Informes para familias (niños)
 
 Más breves, positivos y concretos; sin jerga; con sugerencias para casa. Ver el [modelo de informe para padres](/recursos/informe-padres/).
+
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Escribe una frase de progreso sobre tu estudiante que sea concreta y no genérica. |
+| 8–22 | Lectura guiada | Lee la estructura del informe y el fragmento de ejemplo con sus aclaraciones. |
+| 22–38 | Práctica | Redacta un informe de 150 palabras para un adulto con lo que puede hacer, prioridades y próximos pasos. |
+| 38–52 | Aplicación con tu estudiante | Revísalo con el estudiante y ajusta lo que no entendió. |
+| 52–60 | Cierre | Verifica que el informe no afirma un nivel oficial. |
+
+## Sesión de 60 minutos: evaluar una tarea oral con rúbrica y dar retroalimentación {#sesion-60}
+
+> **Objetivo de la sesión:** evaluar una grabación de 3 minutos con la rúbrica, registrar errores y redactar un informe breve.
+
+**Antes de empezar:** reserva la hora completa, ten a mano los materiales de la tabla y, si practicas con un estudiante real o simulado, avisa de que la sesión tiene un objetivo de trabajo. Cronometra cada bloque; si uno se alarga, reduce el siguiente en lugar de saltarte el cierre.
+
+| Min. | Bloque | Qué hacer | Producto |
+|---|---|---|---|
+| 0–5 | Preparación | Leer los descriptores y ajustarlos al nivel del estudiante (lección 11.2) | Rúbrica ajustada |
+| 5–20 | Escucha | Escuchar la grabación una vez sin puntuar y una segunda con la rúbrica | Notas por criterio |
+| 20–32 | Puntuación | Asignar nivel por criterio con un ejemplo textual de cada uno | Tabla de puntuación |
+| 32–42 | Errores | Completar cinco entradas del registro de errores y marcar los recurrentes (lección 11.5) | Registro |
+| 42–54 | Informe | Redactar 150–200 palabras con lo que puede hacer, prioridades y recomendaciones (lección 11.8) | Informe |
+| 54–60 | Control | Comprobar que el informe aclara que no es una certificación | Lista marcada |
+
+**Preguntas para cerrar la sesión:** ¿qué bloque se alargó más de lo previsto? ¿Qué parte te resultó más útil para tu práctica? ¿Qué harás de forma distinta la próxima vez?
+
+**Evaluación de la sesión:** cada puntuación tiene un ejemplo de la grabación, y el informe no presenta el resultado como certificación.
 
 ## Evaluación y tarea del módulo {#evaluacion}
 
@@ -265,3 +345,14 @@ Más breves, positivos y concretos; sin jerga; con sugerencias para casa. Ver el
 - [ ] El registro de errores identifica los recurrentes.
 - [ ] El informe incluye lo que el estudiante puede hacer, prioridades y recomendaciones.
 - [ ] El informe aclara que no es una certificación oficial.
+
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Repasa tus criterios de evaluación de la última unidad. |
+| 8–22 | Lectura guiada | Lee la tarea práctica y la lista de comprobación del módulo. |
+| 22–38 | Práctica | Responde el cuestionario y revisa las retroalimentaciones. |
+| 38–52 | Aplicación con tu estudiante | Evalúa una tarea oral de tres minutos con la rúbrica, completa el registro y redacta el informe. |
+| 52–60 | Cierre | Marca la lista de comprobación y confirma que el informe aclara que no es certificación. |
+

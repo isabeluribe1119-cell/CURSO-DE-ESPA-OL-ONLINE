@@ -36,6 +36,16 @@ No existe «el mejor método». La investigación en didáctica de lenguas ha ab
 
 **Ejemplo:** en lugar de un ejercicio de imperativo, el estudiante escribe instrucciones para que el tutor prepare una arepa siguiendo un vídeo sin sonido; el tutor sigue las instrucciones literalmente (y comete errores si no son claras).
 
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Recuerda una clase que, para ti, fue comunicativa. ¿Qué la hacía así? |
+| 8–22 | Lectura guiada | Lee la definición de enseñanza comunicativa, sus límites y el ejemplo de la arepa. |
+| 22–38 | Práctica | Diseña una actividad comunicativa con un objetivo lingüístico y un criterio de logro. |
+| 38–52 | Aplicación con tu estudiante | Aplícala con el estudiante y anota si la forma objetivo apareció en contexto. |
+| 52–60 | Cierre | Escribe qué añadirías para que no se convierta en conversación libre. |
+
 ## Enseñanza basada en tareas
 
 > **Objetivo de la lección:** organizar clases en torno a tareas con resultado.
@@ -51,6 +61,16 @@ No existe «el mejor método». La investigación en didáctica de lenguas ha ab
 - La evaluación requiere rúbricas claras.
 
 **Ejemplo (B1):** *«Organizad una cena para seis personas con restricciones alimentarias distintas y un presupuesto de 150 000 pesos»*. Pretarea: léxico de alimentos y de restricciones; tarea: negociar el menú; informe: presentar el menú; análisis: estructuras de propuesta y acuerdo que faltaron; práctica: repetir la negociación con otra restricción.
+
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Recuerda una tarea que pusiste y que solo requería repetir frases. ¿Qué le faltó? |
+| 8–22 | Lectura guiada | Lee el ciclo de clase por tareas y el ejemplo de la cena con restricciones. |
+| 22–38 | Práctica | Diseña una tarea B1 con resultado, vacío de información y fase de análisis de lengua. |
+| 38–52 | Aplicación con tu estudiante | Haz la tarea con el estudiante y registra las formas que surgieron espontáneamente. |
+| 52–60 | Cierre | Escribe la forma que trabajarás en el análisis de la siguiente clase. |
 
 ## TPRS y narración comprensible
 
@@ -75,6 +95,16 @@ No existe «el mejor método». La investigación en didáctica de lenguas ha ab
 
 **Ejemplo (A1–A2):** estructuras *quiere, no tiene, va a*. *«Hay un gato. El gato se llama Pancho. Pancho quiere un sombrero. ¿Pancho quiere un sombrero o una bicicleta? ¡Un sombrero! ¿Pancho tiene un sombrero? No, Pancho no tiene un sombrero. ¿Pancho va a Cartagena o va a Lima?…»*. El estudiante elige detalles y la historia se construye entre los dos. Ver la [clase modelo de vocabulario con narración comprensible](/clases/vocabulario-narracion-comprensible/).
 
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Escribe una historia de cuatro frases con una sola estructura repetida. ¿Se entiende? |
+| 8–22 | Lectura guiada | Lee los pasos de TPR, TPRS y las técnicas de circling, con sus limitaciones. |
+| 22–38 | Práctica | Prepara una historia corta con tres estructuras objetivo y diez preguntas de sí/no. |
+| 38–52 | Aplicación con tu estudiante | Narra la historia al estudiante y deja que elija detalles, anotando cuántas veces aparece cada estructura. |
+| 52–60 | Cierre | Escribe la lectura posterior de la historia y su pregunta de comprensión. |
+
 ## Aprendizaje basado en problemas
 
 > **Objetivo de la lección:** usar problemas abiertos para integrar lengua, pensamiento y contenido.
@@ -90,6 +120,16 @@ No existe «el mejor método». La investigación en didáctica de lenguas ha ab
 - Es difícil asegurar el trabajo con formas concretas si no se planifica.
 
 **Ejemplo (B2):** *«Una pequeña ciudad colombiana quiere atraer turismo sostenible sin perjudicar a sus habitantes. Propón un plan de tres medidas»*. Clase 1: análisis del problema y lectura de fuentes. Clase 2: elaboración de propuestas (condicionales, subjuntivo en finales). Clase 3: presentación y defensa ante el tutor, que interpreta a un concejal escéptico.
+
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Escribe un problema real que tu estudiante tenga que resolver en español. |
+| 8–22 | Lectura guiada | Lee las características del aprendizaje basado en problemas y su ejemplo sobre turismo sostenible. |
+| 22–38 | Práctica | Define el problema, las preguntas guía y el producto final de una secuencia de tres clases. |
+| 38–52 | Aplicación con tu estudiante | Aplica la primera clase del problema con el estudiante y registra sus preguntas. |
+| 52–60 | Cierre | Escribe qué estructura necesitará en la segunda clase. |
 
 ## Práctica de recuperación
 
@@ -120,6 +160,16 @@ No existe «el mejor método». La investigación en didáctica de lenguas ha ab
 > [!CONSEJO] Anota lo que no se recupera
 > Las expresiones que el estudiante no consigue recordar son candidatas a reciclar en esa misma clase y a incluir en sus tarjetas de repaso.
 
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Pregunta a un estudiante tres cosas de la clase anterior sin avisarle. ¿Cuántas recuerda? |
+| 8–22 | Lectura guiada | Lee el efecto de la recuperación y los ejemplos de «cinco en cinco» y las pistas graduadas. |
+| 22–38 | Práctica | Diseña tres preguntas de recuperación con pistas graduadas para un mismo contenido. |
+| 38–52 | Aplicación con tu estudiante | Haz el calentamiento de cinco minutos y anota lo que no se recuerda. |
+| 52–60 | Cierre | Reserva lo que no se recuperó para la clase siguiente. |
+
 ## Repetición espaciada
 
 > **Objetivo de la lección:** organizar el repaso en el tiempo para la retención a largo plazo.
@@ -148,6 +198,16 @@ No existe «el mejor método». La investigación en didáctica de lenguas ha ab
 
 Los intervalos exactos no son una regla fija: las aplicaciones de repetición espaciada los ajustan según si el estudiante recuerda o no cada elemento. Lo importante es **distribuir** los repasos y **combinarlos con el uso** en contexto.
 
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Escribe seis expresiones de tu última clase y pregúntate cuándo las repasarás. |
+| 8–22 | Lectura guiada | Lee el calendario de repaso orientativo y los límites de las tarjetas aisladas. |
+| 22–38 | Práctica | Crea seis tarjetas con una frase de ejemplo propia para cada expresión. |
+| 38–52 | Aplicación con tu estudiante | Programa los repasos con el estudiante y comprueba al día siguiente cuántas recuerda. |
+| 52–60 | Cierre | Escribe el criterio para decidir cuándo una expresión ya está aprendida. |
+
 ## Gamificación con propósito pedagógico
 
 > **Objetivo de la lección:** usar elementos de juego cuando refuerzan el aprendizaje.
@@ -163,6 +223,16 @@ Los intervalos exactos no son una regla fija: las aplicaciones de repetición es
 - La competición genera ansiedad en algunos estudiantes.
 
 **Ejemplo con propósito:** «El pasaporte del viajero» para un adulto A2: cada unidad es un país; para «sellar el pasaporte» debe completar una misión comunicativa (pedir en un restaurante de Lima, reservar un hotel en Cusco). El juego estructura el curso y las misiones son tareas reales.
+
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Recuerda un juego en clase que no te aportó lengua. ¿Por qué? |
+| 8–22 | Lectura guiada | Lee las diferencias entre gamificación y aprendizaje basado en juegos, y el ejemplo del pasaporte del viajero. |
+| 22–38 | Práctica | Diseña una misión de juego en la que cada reto sea una tarea comunicativa real. |
+| 38–52 | Aplicación con tu estudiante | Juega una misión con el estudiante y registra las expresiones que usó. |
+| 52–60 | Cierre | Escribe la regla de competición que evitas para no generar ansiedad. |
 
 ## Andamiaje y retirada progresiva de ayudas
 
@@ -187,6 +257,16 @@ Los intervalos exactos no son una regla fija: las aplicaciones de repetición es
 
 **Ejemplo de retirada:** primera ronda de un juego de rol con tarjetas de expresiones; segunda ronda, tarjetas con solo la primera palabra de cada expresión; tercera ronda, sin tarjetas.
 
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Recuerda una ayuda que diste y que nunca retiraste. ¿Qué pasó después? |
+| 8–22 | Lectura guiada | Lee el concepto de andamiaje, los tipos de ayuda y el ejemplo de retirada en tres rondas. |
+| 22–38 | Práctica | Diseña un juego de rol con tres rondas: tarjetas completas, parciales y sin tarjetas. |
+| 38–52 | Aplicación con tu estudiante | Haz el juego con el estudiante y anota en qué ronda falla. |
+| 52–60 | Cierre | Escribe qué ayuda retirarás primero en la próxima sesión. |
+
 ## Enseñanza inductiva y deductiva
 
 > **Objetivo de la lección:** elegir entre descubrir la regla o recibirla según el contenido y el estudiante.
@@ -202,6 +282,16 @@ Los intervalos exactos no son una regla fija: las aplicaciones de repetición es
 
 > [!EVIDENCIA] ¿Cuál es mejor?
 > La investigación comparativa no ofrece una respuesta única: los resultados dependen de la estructura, el nivel, el tipo de prueba y las características del estudiante. Muchos docentes usan un **descubrimiento guiado** (inductivo con apoyo y sistematización final), que combina ambas ventajas.
+
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Escribe una regla que enseñaste de forma deductiva. ¿Qué pasó con los ejemplos? |
+| 8–22 | Lectura guiada | Lee la comparación entre inductiva y deductiva, sus usos y el descubrimiento guiado. |
+| 22–38 | Práctica | Prepara dos versiones de la misma explicación: una deductiva y otra inductiva. |
+| 38–52 | Aplicación con tu estudiante | Presenta la versión inductiva al estudiante y pide que formule la regla. |
+| 52–60 | Cierre | Escribe cuál funcionó mejor y para qué tipo de regla. |
 
 ## Combinar métodos sin caer en el eclecticismo arbitrario
 
@@ -229,6 +319,16 @@ Los intervalos exactos no son una regla fija: las aplicaciones de repetición es
 | Práctica | Andamiaje: línea del tiempo y banco de conectores | Apoyo para la tarea |
 | Producción | Tarea: contar una anécdota con un «antes» relevante | Uso comunicativo |
 | Cierre | Tarjetas para repetición espaciada con 6 expresiones | Retención a largo plazo |
+
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Repasa tus últimas tres clases y escribe qué técnica usaste y por qué. |
+| 8–22 | Lectura guiada | Lee la diferencia entre eclecticismo arbitrario y fundamentado y el ejemplo de clase combinada. |
+| 22–38 | Práctica | Diseña una clase de 50 minutos con cuatro técnicas, cada una con su razón. |
+| 38–52 | Aplicación con tu estudiante | Ensaya la clase con un colega y comprueba que cada fase lleva a la siguiente. |
+| 52–60 | Cierre | Escribe la justificación de la combinación en tres frases. |
 
 ## Sesión de 60 minutos: diseñar una clase con tres metodologías combinadas {#sesion-60}
 
@@ -282,3 +382,14 @@ Los intervalos exactos no son una regla fija: las aplicaciones de repetición es
 - [ ] Se identifica al menos una limitación y cómo compensarla.
 - [ ] La clase incluye recuperación y producción.
 - [ ] El andamiaje se retira a lo largo de la clase.
+
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Revisa las notas de las metodologías y elige la que menos usas. |
+| 8–22 | Lectura guiada | Lee la tarea práctica y la lista de comprobación del módulo. |
+| 22–38 | Práctica | Responde el cuestionario y revisa las retroalimentaciones. |
+| 38–52 | Aplicación con tu estudiante | Justifica las técnicas de tu plan de clase del Módulo 4 y sustituye una por otra con su límite. |
+| 52–60 | Cierre | Marca la lista de comprobación y anota la técnica que compensarás. |
+

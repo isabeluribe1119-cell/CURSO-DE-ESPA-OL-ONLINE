@@ -50,6 +50,16 @@ El proyecto final integra todo el curso en un producto que puedes usar de inmedi
 
 Descarga la [plantilla del proyecto final](/recursos/proyecto-final/).
 
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Escribe el nombre de tu estudiante (o perfil simulado) y su objetivo principal. |
+| 8–22 | Lectura guiada | Lee los nueve componentes obligatorios y la tabla de extensión orientativa. |
+| 22–38 | Práctica | Marca qué módulos usarás para cada componente. |
+| 38–52 | Aplicación con tu estudiante | Redacta el índice del proyecto con las secciones y la extensión prevista. |
+| 52–60 | Cierre | Escribe la fecha de entrega de cada componente. |
+
 ## Perfil, diagnóstico y objetivos
 
 > **Objetivo de la lección:** elaborar los tres primeros componentes del proyecto.
@@ -73,6 +83,16 @@ Incluye: edad, lenguas que habla y nivel, profesión o estudios, contexto de uso
 
 > [!CONSEJO] Comprueba la cadena
 > Lee tus objetivos de abajo arriba: ¿los objetivos de clase llevan al de unidad? ¿Los de unidad llevan al general? ¿El general responde a las necesidades del perfil?
+
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Escribe lo que sabes del perfil de tu estudiante en cinco líneas. |
+| 8–22 | Lectura guiada | Lee las instrucciones de perfil, diagnóstico y objetivos. |
+| 22–38 | Práctica | Redacta el perfil y el diagnóstico por destrezas con la ficha. |
+| 38–52 | Aplicación con tu estudiante | Escribe el objetivo general y los tres objetivos de unidad en formato SMART. |
+| 52–60 | Cierre | Comprueba la cadena de objetivos de abajo arriba. |
 
 ## Secuencia de tres clases y material original
 
@@ -100,24 +120,15 @@ Al menos un material completo creado por ti (ficha, presentación, juego, lectur
 - Registro de fuentes y licencias de cualquier elemento de terceros.
 - Si usaste IA: indicación de cómo la usaste y qué revisaste.
 
-## Sesión de 60 minutos: esquema del proyecto final {#sesion-60}
+### Plan de 60 minutos
 
-> **Objetivo de la sesión:** tener el esquema completo del proyecto final, con cada componente asignado a un bloque de trabajo.
-
-**Antes de empezar:** reserva la hora completa, ten a mano los materiales de la tabla y, si practicas con un estudiante real o simulado, avisa de que la sesión tiene un objetivo de trabajo. Cronometra cada bloque; si uno se alarga, reduce el siguiente en lugar de saltarte el cierre.
-
-| Min. | Bloque | Qué hacer | Producto |
-|---|---|---|---|
-| 0–8 | Perfil | Elegir estudiante real (con consentimiento) o simulado y redactar su perfil | Perfil |
-| 8–18 | Diagnóstico y objetivos | Resultados del diagnóstico y objetivo general con tres de unidad | Diagnóstico y objetivos |
-| 18–30 | Secuencia | Esquema de tres clases con su objetivo y la tarea final | Esquema de clases |
-| 30–40 | Material y evaluación | Elegir el material original y la tarea de evaluación con su rúbrica | Lista de entregables |
-| 40–50 | Reflexión y seguimiento | Preguntas de la reflexión y fechas del plan de seguimiento | Esquema de reflexión |
-| 50–60 | Autoevaluación | Pasar la lista de comprobación final del módulo | Lista marcada y próximos pasos |
-
-**Preguntas para cerrar la sesión:** ¿qué bloque se alargó más de lo previsto? ¿Qué parte te resultó más útil para tu práctica? ¿Qué harás de forma distinta la próxima vez?
-
-**Evaluación de la sesión:** el esquema tiene los nueve componentes obligatorios y cada uno tiene una fecha de entrega.
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Escribe el objetivo de cada una de las tres clases en una línea. |
+| 8–22 | Lectura guiada | Lee la estructura de las tres clases y las exigencias del material original. |
+| 22–38 | Práctica | Diseña las tres clases con la plantilla de planificación y al menos una secuencia integrada. |
+| 38–52 | Aplicación con tu estudiante | Crea el material original con su clave y su registro de fuentes. |
+| 52–60 | Cierre | Revisa la secuencia con la guía de integración y marca lo que falta. |
 
 ## Evaluación, rúbrica y seguimiento
 
@@ -152,6 +163,16 @@ Una rúbrica analítica para la tarea final, con 4–6 criterios y 3–4 niveles
 | Si no avanza | Revisar carga de trabajo autónomo, ansiedad y adecuación de las tareas; reducir objetivos o ampliar plazos de forma consensuada |
 | Trabajo autónomo | 15 minutos diarios: pódcast graduado + tarjetas; un audio semanal de 1 minuto |
 
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Escribe cómo sabrás que el estudiante avanza entre dos clases. |
+| 8–22 | Lectura guiada | Lee las actividades de evaluación, la rúbrica y el plan de seguimiento. |
+| 22–38 | Práctica | Diseña la tarea final con su rúbrica de cuatro criterios. |
+| 38–52 | Aplicación con tu estudiante | Escribe el plan de seguimiento con fechas, herramientas y qué harás si no avanza. |
+| 52–60 | Cierre | Revisa la alineación entre tarea final, objetivo y rúbrica. |
+
 ## Reflexión sobre decisiones metodológicas
 
 > **Objetivo de la lección:** redactar una reflexión fundamentada sobre tu propio diseño.
@@ -172,6 +193,16 @@ Responde a estas preguntas con referencias a los conceptos del curso:
 > [!EJEMPLO] Fragmento de reflexión
 > «Elegí trabajar la mediación porque el diagnóstico mostró que Mark comprende bien las reuniones (B1+) pero no consigue resumir los acuerdos para su jefe, que no habla español. Por eso la tarea final consiste en un resumen oral en español de una reunión simulada seguido de un correo en el que explica los acuerdos. La secuencia de la clase 2 combina la presentación del significado de los conectores de consecuencia (perspectiva cognitiva: relación causa-efecto que el hablante quiere destacar) con su sistematización formal y una práctica en la que Mark debe elegir el conector según lo que quiere enfatizar…»
 
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Escribe la decisión metodológica de tu secuencia de la que estés menos seguro. |
+| 8–22 | Lectura guiada | Lee las preguntas guía y el fragmento de reflexión de ejemplo. |
+| 22–38 | Práctica | Responde tres de las ocho preguntas con referencias a conceptos del curso. |
+| 38–52 | Aplicación con tu estudiante | Pide a un colega que señale una decisión que no esté justificada. |
+| 52–60 | Cierre | Completa la reflexión con los límites y las alternativas de tus decisiones. |
+
 ## Rúbrica de evaluación del proyecto final
 
 > **Objetivo de la lección:** conocer los criterios con los que se valora el proyecto.
@@ -189,6 +220,16 @@ Responde a estas preguntas con referencias a los conceptos del curso:
 | **Ética y calidad** | Problemas de derechos o datos | Algunos descuidos | Respeto de derechos y privacidad | Ejemplar: fuentes, licencias, privacidad y accesibilidad cuidadas |
 
 **Interpretación orientativa:** 9 criterios × 4 puntos = 36. Un proyecto con 27 puntos o más y ningún criterio en nivel 1 puede considerarse sólido. Esta valoración es formativa: sirve para mejorar el proyecto, no para certificar.
+
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Lee la rúbrica del proyecto e identifica el criterio que más te preocupa. |
+| 8–22 | Lectura guiada | Lee los nueve criterios y la interpretación orientativa. |
+| 22–38 | Práctica | Autoevalúa tu proyecto en cada criterio con una evidencia concreta. |
+| 38–52 | Aplicación con tu estudiante | Mejora el criterio con la puntuación más baja. |
+| 52–60 | Cierre | Anota la puntuación total y lo que mejoraste. |
 
 ## Lista de autoevaluación y próximos pasos
 
@@ -237,3 +278,32 @@ Puedes proponer tu proyecto (anonimizado) como recurso para la comunidad mediant
 2. **Daniel, 45 años, Alemania.** Ingeniero; trabajará 6 meses en un proyecto en Medellín dentro de 4 meses. Nivel estimado A2 (comprensión) y A1+ (expresión). Ansioso al hablar. Tres clases de 50 minutos por semana.
 3. **Mei, 26 años, Taiwán.** Estudiante de máster; prepara el DELE B2 para una beca en España. Comprensión lectora B2, expresión oral B1. Le cuesta el subjuntivo y la interacción espontánea. Dos clases de 60 minutos por semana.
 4. **Ahmed, 34 años, Marruecos, vive en Bogotá.** Habla árabe, francés e inglés. Usa el español a diario (B1) pero quiere mejorar su escritura profesional para emprender un negocio. Una clase de 60 minutos por semana.
+
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Escribe el próximo paso de tu desarrollo profesional. |
+| 8–22 | Lectura guiada | Lee la lista de comprobación final y los desarrollos profesionales continuos. |
+| 22–38 | Práctica | Marca cada punto de la lista con una evidencia en tu proyecto. |
+| 38–52 | Aplicación con tu estudiante | Decide si compartes el proyecto anonimizado como contribución, siguiendo la guía de contribución. |
+| 52–60 | Cierre | Escribe el plan de los próximos tres meses para tu práctica. |
+
+## Sesión de 60 minutos: esquema del proyecto final {#sesion-60}
+
+> **Objetivo de la sesión:** tener el esquema completo del proyecto final, con cada componente asignado a un bloque de trabajo.
+
+**Antes de empezar:** reserva la hora completa, ten a mano los materiales de la tabla y, si practicas con un estudiante real o simulado, avisa de que la sesión tiene un objetivo de trabajo. Cronometra cada bloque; si uno se alarga, reduce el siguiente en lugar de saltarte el cierre.
+
+| Min. | Bloque | Qué hacer | Producto |
+|---|---|---|---|
+| 0–8 | Perfil | Elegir estudiante real (con consentimiento) o simulado y redactar su perfil | Perfil |
+| 8–18 | Diagnóstico y objetivos | Resultados del diagnóstico y objetivo general con tres de unidad | Diagnóstico y objetivos |
+| 18–30 | Secuencia | Esquema de tres clases con su objetivo y la tarea final | Esquema de clases |
+| 30–40 | Material y evaluación | Elegir el material original y la tarea de evaluación con su rúbrica | Lista de entregables |
+| 40–50 | Reflexión y seguimiento | Preguntas de la reflexión y fechas del plan de seguimiento | Esquema de reflexión |
+| 50–60 | Autoevaluación | Pasar la lista de comprobación final del módulo | Lista marcada y próximos pasos |
+
+**Preguntas para cerrar la sesión:** ¿qué bloque se alargó más de lo previsto? ¿Qué parte te resultó más útil para tu práctica? ¿Qué harás de forma distinta la próxima vez?
+
+**Evaluación de la sesión:** el esquema tiene los nueve componentes obligatorios y cada uno tiene una fecha de entrega.

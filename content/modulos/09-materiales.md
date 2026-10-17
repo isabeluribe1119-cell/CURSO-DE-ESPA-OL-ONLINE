@@ -49,6 +49,16 @@ Crear tus propios materiales te permite **adaptarte a cada estudiante** y constr
 > [!EVIDENCIA] Carga cognitiva y aprendizaje multimedia
 > La investigación sobre aprendizaje multimedia (Mayer y colaboradores) sugiere principios útiles: eliminar elementos decorativos irrelevantes (*coherencia*), situar el texto cerca de la imagen a la que se refiere (*contigüidad espacial*) y señalar lo importante (*señalización*). Aplicados a una ficha: menos adornos, etiquetas junto a las imágenes y negrita en la información clave.
 
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Abre un material tuyo y pregúntate: ¿qué hace el estudiante con él? |
+| 8–22 | Lectura guiada | Lee las siete preguntas de calidad y los principios de diseño visual. |
+| 22–38 | Práctica | Evalúa un material existente con las siete preguntas y anota las respuestas. |
+| 38–52 | Aplicación con tu estudiante | Mejora ese material según la evaluación y comparte la versión nueva con el estudiante. |
+| 52–60 | Cierre | Escribe la pregunta que más te cambió la forma de diseñar. |
+
 ## Fichas, presentaciones y juegos
 
 > **Objetivo de la lección:** diseñar los formatos más usados en clases online.
@@ -88,6 +98,16 @@ Crear tus propios materiales te permite **adaptarte a cada estudiante** y constr
 > [!CONSEJO] Gamificación con propósito
 > Antes de añadir un juego, pregúntate: ¿qué lengua usará el estudiante para jugar? Si la respuesta es «pocas palabras sueltas» y tu objetivo es fluidez, el juego no está alineado. Ver el [Módulo 10](/modulos/10-metodologias/).
 
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Recuerda una presentación en clase que tuvo demasiado texto. ¿Qué pasó? |
+| 8–22 | Lectura guiada | Lee la estructura de la ficha, las presentaciones para clase online y los juegos con propósito. |
+| 22–38 | Práctica | Diseña una ficha de ocho elementos para un objetivo concreto. |
+| 38–52 | Aplicación con tu estudiante | Usa la ficha con el estudiante y observa en qué paso se detiene. |
+| 52–60 | Cierre | Escribe el juego que adaptarías para la ficha y su objetivo lingüístico. |
+
 ## Materiales para niños y para adultos
 
 > **Objetivo de la lección:** adaptar el diseño de los materiales a la edad.
@@ -103,6 +123,16 @@ Crear tus propios materiales te permite **adaptarte a cada estudiante** y constr
 
 > [!ATENCION] No infantilices a los adultos principiantes
 > Un adulto A1 tiene un nivel de lengua bajo, no una capacidad cognitiva baja. Usa temas adultos (trabajo, viajes, vivienda) con lengua sencilla, en lugar de dibujos infantiles.
+
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Compara dos materiales, uno para un niño y otro para un adulto, y anota sus diferencias. |
+| 8–22 | Lectura guiada | Lee la tabla de diferencias por edad: texto, imágenes, instrucciones, tono. |
+| 22–38 | Práctica | Adapta un material para adultos a un niño de 7 años sin cambiar el objetivo. |
+| 38–52 | Aplicación con tu estudiante | Prueba la versión infantil con un niño o con un adulto que haga de niño. |
+| 52–60 | Cierre | Escribe qué aspecto de la adaptación fue lo más difícil. |
 
 ## Tarjetas de vocabulario
 
@@ -132,6 +162,16 @@ Crear tus propios materiales te permite **adaptarte a cada estudiante** y constr
 
 > [!ACTIVIDAD] Crea tus tarjetas
 > Al final de tu próxima clase, elige con el estudiante 6 expresiones. Para cada una, escribid juntos una frase con hueco basada en algo que el estudiante dijo en clase. Así la tarjeta conecta con su experiencia y la recuperación es más significativa.
+
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Escribe una tarjeta de vocabulario que tengas y pregúntate si pide recordar o solo reconocer. |
+| 8–22 | Lectura guiada | Lee las pautas para una tarjeta eficaz: contexto, producción, colocaciones y repetición. |
+| 22–38 | Práctica | Diseña tres tarjetas de un mismo campo léxico con colocaciones. |
+| 38–52 | Aplicación con tu estudiante | Usa las tarjetas en una recuperación de cinco minutos con el estudiante. |
+| 52–60 | Cierre | Escribe qué tarjeta necesita revisarse por ser demasiado fácil o difícil. |
 
 ## Historias, diálogos y lecturas graduadas
 
@@ -174,6 +214,16 @@ Para adaptar o escribir textos por nivel:
 > [!CONSEJO] Comprueba la frecuencia del vocabulario
 > Para decidir si una palabra es adecuada al nivel, puedes consultar el inventario de nociones del PCIC o los corpus de la RAE (CREA, CORPES XXI) para hacerte una idea de su frecuencia.
 
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Lee un diálogo de un libro y di si suena como una conversación real. |
+| 8–22 | Lectura guiada | Lee el diálogo de Bogotá, las pautas para diálogos y la tabla de lecturas por nivel. |
+| 22–38 | Práctica | Escribe un diálogo de 10 intervenciones para un nivel concreto. |
+| 38–52 | Aplicación con tu estudiante | Léelo en voz alta con el estudiante y ajusta lo que suene artificial. |
+| 52–60 | Cierre | Anota las tres palabras nuevas que incluirás en la lectura. |
+
 ## Actividades interactivas y herramientas digitales
 
 > **Objetivo de la lección:** usar herramientas digitales, incluido Canva, al servicio de los objetivos.
@@ -201,6 +251,16 @@ Canva es muy útil para diseñar con rapidez, pero:
 > [!VERIFICAR]
 > Las condiciones de uso, precios y licencias de herramientas como Canva, Kahoot o Miro cambian con frecuencia. Consulta siempre sus páginas oficiales antes de basar tu negocio en ellas.
 
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Escribe una herramienta digital que usas y para qué la usas realmente. |
+| 8–22 | Lectura guiada | Lee la tabla de herramientas, el uso pedagógico de Canva y el aviso de condiciones. |
+| 22–38 | Práctica | Diseña una tarjeta o ficha en la herramienta que elijas, cuidando el contraste. |
+| 38–52 | Aplicación con tu estudiante | Comparte la ficha con el estudiante por el canal acordado y pide su opinión. |
+| 52–60 | Cierre | Anota la licencia de cada elemento que usaste. |
+
 ## Crear materiales originales con IA
 
 > **Objetivo de la lección:** usar la IA como asistente para crear borradores y adaptar materiales, con revisión humana.
@@ -220,6 +280,16 @@ La IA generativa puede ayudarte a **producir borradores** de diálogos, lecturas
 5. **Prueba** el material en clase y ajústalo.
 
 Lo desarrollamos en el [Módulo 16](/modulos/16-inteligencia-artificial/).
+
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Escribe el último prompt que usaste con una herramienta de IA y evalúa su resultado. |
+| 8–22 | Lectura guiada | Lee el flujo de trabajo recomendado y los errores típicos de la IA en materiales. |
+| 22–38 | Práctica | Pide a una IA un diálogo con un nivel, una variedad y unas estructuras, y revisa el resultado. |
+| 38–52 | Aplicación con tu estudiante | Corrige el diálogo con la lista de revisión y compara el texto final con el original. |
+| 52–60 | Cierre | Escribe qué comprobación no puede hacer la IA por ti. |
 
 ## Revisión de errores lingüísticos y didácticos
 
@@ -248,6 +318,16 @@ Lo desarrollamos en el [Módulo 16](/modulos/16-inteligencia-artificial/).
 - [ ] El material es accesible (contraste, tamaño, alternativas).
 
 Encontrarás una versión ampliada en la [lista de comprobación de calidad docente](/recursos/lista-calidad-docente/).
+
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Recuerda un material que enviaste con un error. ¿Cómo lo descubriste? |
+| 8–22 | Lectura guiada | Lee las listas de revisión lingüística y didáctica. |
+| 22–38 | Práctica | Revisa un material con ambas listas y anota cada hallazgo. |
+| 38–52 | Aplicación con tu estudiante | Corrige el material y pásalo a un colega para una segunda revisión. |
+| 52–60 | Cierre | Escribe el hábito de revisión que incorporarás a cada material. |
 
 ## Derechos de autor, licencias abiertas y atribución
 
@@ -289,6 +369,16 @@ Los contenidos de Aula Abierta ELE se publican con **CC BY-SA 4.0** (ver [licenc
 - **Bancos de imágenes con licencias propias** (como Unsplash o Pixabay): **lee sus licencias**, que no son Creative Commons y tienen restricciones específicas.
 - **Imágenes generadas con IA:** revisa los términos de la herramienta y la situación legal en tu país, que está en evolución.
 
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Busca una imagen en internet y comprueba su licencia antes de usarla. ¿Qué encontraste? |
+| 8–22 | Lectura guiada | Lee las licencias Creative Commons, el modelo TASL y las fuentes de imágenes con licencia abierta. |
+| 22–38 | Práctica | Atribuye correctamente un material de ejemplo con el modelo TASL. |
+| 38–52 | Aplicación con tu estudiante | Crea el registro de fuentes para los materiales que usas en tu práctica. |
+| 52–60 | Cierre | Escribe la atribución de tu próximo material, con la licencia que elijas. |
+
 ## Organizar una biblioteca digital de recursos
 
 > **Objetivo de la lección:** organizar tus materiales para encontrarlos y reutilizarlos fácilmente.
@@ -322,6 +412,16 @@ Biblioteca ELE/
 
 > [!CONSEJO] Registra las fuentes desde el primer día
 > Anota de dónde viene cada imagen o texto de terceros y su licencia. Si un día quieres vender o publicar tus materiales, tendrás que saberlo, y reconstruirlo después es casi imposible.
+
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Abre la carpeta de tus materiales y cuenta cuántos archivos tienes sin nombre claro. |
+| 8–22 | Lectura guiada | Lee la estructura de carpetas, la convención de nombres y los metadatos mínimos. |
+| 22–38 | Práctica | Crea la estructura de carpetas y renombra diez archivos con la convención. |
+| 38–52 | Aplicación con tu estudiante | Crea la hoja de metadatos con los diez archivos y añade su nivel y su licencia. |
+| 52–60 | Cierre | Escribe la rutina mensual de mantenimiento de la biblioteca. |
 
 ## Sesión de 60 minutos: crear y revisar una ficha original {#sesion-60}
 
@@ -376,3 +476,14 @@ Biblioteca ELE/
 - [ ] Hay progresión y una tarea final comunicativa.
 - [ ] No hay errores lingüísticos.
 - [ ] Todas las fuentes y licencias están documentadas.
+
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Repasa tus materiales de las últimas semanas y elige el que más quisieras mejorar. |
+| 8–22 | Lectura guiada | Lee la tarea práctica y los criterios de evaluación. |
+| 22–38 | Práctica | Responde el cuestionario y revisa las retroalimentaciones. |
+| 38–52 | Aplicación con tu estudiante | Crea la ficha original con objetivo, input, actividades, tarea, clave y registro de fuentes. |
+| 52–60 | Cierre | Revisa la ficha con las dos listas y registra lo que cambiaste. |
+

@@ -54,6 +54,16 @@ Llamamos aquí «gramática tradicional» a la descripción formal de la lengua 
 > «El pretérito imperfecto se usa para acciones habituales en el pasado, descripciones, acciones en desarrollo y acciones interrumpidas.»
 > Es útil como inventario, pero el estudiante pregunta: *«¿Y por qué se dice "ayer llovía cuando salí" y también "ayer llovió todo el día"?»*. La lista no responde; la perspectiva del hablante, sí.
 
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Escribe la conjugación del presente de un verbo irregular sin mirar. ¿Qué memorizaste y qué entendiste? |
+| 8–22 | Lectura guiada | Lee el apartado sobre lo que aporta la gramática tradicional y dónde se queda corta. |
+| 22–38 | Práctica | Elabora una tabla de paradigma para un verbo irregular, con una nota de significado para cada forma. |
+| 38–52 | Aplicación con tu estudiante | Usa la tabla con un estudiante para explicar una forma que nunca usa bien. |
+| 52–60 | Cierre | Escribe un límite de la gramática tradicional que hayas observado en tu clase. |
+
 ## La gramática cognitiva: significado, perspectiva y conceptualización
 
 > **Objetivo de la lección:** comprender los principios de la gramática cognitiva y su aplicación pedagógica, evitando simplificaciones.
@@ -85,6 +95,16 @@ En la didáctica del español, autores como José Plácido Ruiz Campillo, Alejan
 > - **Abusar del metalenguaje cognitivo** («perfectividad», «perfil», «trayector») con estudiantes que no lo necesitan. La idea debe transmitirse con ejemplos y preguntas.
 > - **Olvidar la práctica.** Comprender el significado no automatiza la forma (ver Módulo 2).
 
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Describe una misma escena con dos frases distintas. ¿Cambia la información o cambia la perspectiva? |
+| 8–22 | Lectura guiada | Lee los principios básicos y los errores de aplicación de la gramática cognitiva. |
+| 22–38 | Práctica | Escribe tres preguntas de significado para una forma que quieras enseñar, sin usar metalenguaje. |
+| 38–52 | Aplicación con tu estudiante | Presenta esas preguntas a un estudiante con dos escenas y observa cómo responde. |
+| 52–60 | Cierre | Anota qué preguntas funcionaron y cuáles hay que cambiar. |
+
 ## El enfoque comunicativo: intención, contexto y uso real
 
 > **Objetivo de la lección:** situar la gramática dentro de la comunicación sin reducir el enfoque comunicativo a conversar sin objetivos.
@@ -111,6 +131,16 @@ El enfoque comunicativo, desarrollado desde los años setenta (con aportaciones 
 - **No es** renunciar a la precisión: la adecuación incluye la corrección.
 - **No es** improvisar: una buena tarea comunicativa se planifica con un objetivo lingüístico y un criterio de logro.
 
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Recuerda una clase de «conversación» que no tuvo objetivo. ¿Qué faltó? |
+| 8–22 | Lectura guiada | Lee los principios del enfoque comunicativo y el apartado sobre atención a la forma. |
+| 22–38 | Práctica | Convierte una conversación libre en una tarea con intención, contexto y criterio de logro. |
+| 38–52 | Aplicación con tu estudiante | Lleva la tarea a una clase y registra si el estudiante usó la forma objetivo en el contexto. |
+| 52–60 | Cierre | Escribe qué decisión cambia cuando el objetivo es comunicativo y no solo formal. |
+
 ## Ventajas y límites de cada perspectiva
 
 > **Objetivo de la lección:** comparar las tres perspectivas y decidir qué aporta cada una según el objetivo.
@@ -134,6 +164,16 @@ El enfoque comunicativo, desarrollado desde los años setenta (con aportaciones 
 > [!CONSEJO] La pregunta clave para cada estructura
 > Antes de diseñar una secuencia, completa esta frase: «Mi estudiante necesita usar [forma] para [intención] en [situación], y la dificultad principal es [forma / significado / uso]». Si la dificultad es formal (conjugar *tuve, estuve, pude*), prioriza la sistematización. Si es de significado (elegir entre indefinido e imperfecto), prioriza el contraste cognitivo. Si es de uso (sabe pero no lo usa), prioriza la práctica comunicativa.
 
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Pregúntate cuál de las tres perspectivas usas más. ¿Por qué? |
+| 8–22 | Lectura guiada | Lee la tabla comparativa y los criterios para combinarlas. |
+| 22–38 | Práctica | Completa la pregunta clave para dos estructuras de tu práctica: forma, significado o uso. |
+| 38–52 | Aplicación con tu estudiante | Elige una perspectiva diferente para cada estructura y prepara una actividad. |
+| 52–60 | Cierre | Escribe la razón de cada elección en una frase. |
+
 ## El modelo de secuencia integrada en ocho pasos
 
 > **Objetivo de la lección:** conocer la estructura que siguen las cinco secuencias de este módulo y poder reutilizarla.
@@ -152,6 +192,16 @@ Cada secuencia del módulo sigue estos ocho pasos. Los tiempos son orientativos 
 | 8. Adaptaciones por nivel | Cómo ajustar la secuencia | — | — |
 
 La [guía para integrar las tres gramáticas](/recursos/guia-integrar-gramaticas/) incluye una plantilla en blanco con estos pasos.
+
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Describe la última secuencia de gramática que enseñaste en los ocho pasos, aunque sea de memoria. |
+| 8–22 | Lectura guiada | Lee la tabla de los ocho pasos y los tiempos orientativos. |
+| 22–38 | Práctica | Marca en tu secuencia qué pasos faltaron y escribe el que faltó con más frecuencia. |
+| 38–52 | Aplicación con tu estudiante | Reorganiza una clase tuya con los ocho pasos y ensaya el paso 3 en voz alta. |
+| 52–60 | Cierre | Guarda la plantilla de la guía de integración para reutilizarla. |
 
 ## Secuencia 1. Ser y estar {#secuencia-ser-estar}
 
@@ -239,6 +289,16 @@ Variante de vacío de información: el tutor describe una foto que el estudiante
 
 Ver la [clase modelo completa sobre ser y estar](/clases/ser-y-estar/).
 
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Pregunta a un estudiante cómo describiría a una persona de su familia y anota las formas que usa. |
+| 8–22 | Lectura guiada | Lee la presentación del significado, el valor central y la tabla de usos de ser y estar. |
+| 22–38 | Práctica | Completa la actividad del chat familiar y justifica dos elecciones en voz alta. |
+| 38–52 | Aplicación con tu estudiante | Con tu estudiante, usa la tarea «Te presento a mi gente» y registra las elecciones correctas. |
+| 52–60 | Cierre | Anota el criterio de logro (8 de 10 elecciones) y el resultado de la sesión. |
+
 ## Secuencia 2. Pretérito indefinido e imperfecto {#secuencia-indefinido-imperfecto}
 
 > **Nivel principal:** A2+/B1. **Duración:** 2 clases de 50 minutos.
@@ -317,6 +377,16 @@ Aclara que los marcadores **orientan pero no deciden**: *«Ayer estaba cansado»
 - **C1:** imperfecto narrativo o periodístico (*«Al día siguiente, el presidente firmaba el acuerdo»*), imperfecto de cortesía (*«Quería pedirte un favor»*), análisis de textos literarios.
 
 Ver la [clase modelo de indefinido e imperfecto](/clases/indefinido-imperfecto/).
+
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Cuenta una anécdota de un viaje en dos frases y marca qué verbos usaste en cada una. |
+| 8–22 | Lectura guiada | Lee la metáfora del escenario y la acción y las preguntas de significado. |
+| 22–38 | Práctica | Completa la actividad de elegir y justificar con la historia de la llegada al aeropuerto. |
+| 38–52 | Aplicación con tu estudiante | Haz que el estudiante cuente una anécdota de tres minutos y registra las elecciones. |
+| 52–60 | Cierre | Escribe el criterio de logro y la adaptación para su nivel. |
 
 ## Secuencia 3. Indicativo y subjuntivo {#secuencia-subjuntivo}
 
@@ -398,6 +468,16 @@ Presenta un fragmento de conversación entre compañeros:
 
 Ver la [clase modelo del subjuntivo en situaciones reales](/clases/subjuntivo-situaciones-reales/).
 
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Escribe tres frases que empiecen por «creo que» o «quiero que». ¿Qué modo usaste en cada una? |
+| 8–22 | Lectura guiada | Lee el diálogo de convivencia y el valor central de declarar y no declarar. |
+| 22–38 | Práctica | Haz la actividad de declara o no declara con el estudiante y compara sus respuestas. |
+| 38–52 | Aplicación con tu estudiante | Simula la reunión de convivencia con las tarjetas de rol y registra los usos de deseo y valoración. |
+| 52–60 | Cierre | Anota qué estructura sigue costando y el ajuste para la siguiente clase. |
+
 ## Secuencia 4. Por y para {#secuencia-por-para}
 
 > **Nivel principal:** A2–B1. **Duración:** 50 minutos.
@@ -464,6 +544,16 @@ Expresiones fijas para aprender como bloques: *por fin, por supuesto, por si aca
 - **B1:** el contraste completo de la tabla.
 - **B2:** *estar para / estar por*, *por + infinitivo* (*la casa está por limpiar*), *para que* + subjuntivo.
 - **C1:** expresiones idiomáticas (*no estar para bromas, ir por lana y volver trasquilado*), usos en textos argumentativos (*por consiguiente, para colmo*).
+
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Escribe dos frases con «para» y dos con «por» sobre un viaje tuyo. ¿Cuál es la diferencia? |
+| 8–22 | Lectura guiada | Lee la presentación con el mensaje de viaje y la tabla de valores de por y para. |
+| 22–38 | Práctica | Completa el correo al hostal con los diez huecos y justifica tres respuestas. |
+| 38–52 | Aplicación con tu estudiante | Pide al estudiante planificar una ruta corta en audio y registra los usos correctos. |
+| 52–60 | Cierre | Escribe las expresiones fijas que vas a enseñar como bloque. |
 
 ## Secuencia 5. Pronombres de objeto directo e indirecto {#secuencia-pronombres}
 
@@ -546,6 +636,16 @@ Evitar repeticiones en una conversación de organización usando pronombres de o
 - **B1:** combinaciones (*se lo*), imperativo con pronombres, duplicación.
 - **B2–C1:** *se* de involuntariedad (*se me olvidó*), dativo de interés, leísmo y variación, pronombres en registro formal y estilo periodístico.
 
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Escribe una frase en la que sustituyas un objeto por un pronombre. ¿Qué pronombre usaste y por qué? |
+| 8–22 | Lectura guiada | Lee la presentación en la fiesta y la tabla de pronombres, con la posición y el orden. |
+| 22–38 | Práctica | Haz la actividad de quién se lo da con la tabla de regalos y corrige la forma se lo. |
+| 38–52 | Aplicación con tu estudiante | Organiza con el estudiante la fiesta sin repetir sustantivos y registra los usos. |
+| 52–60 | Cierre | Anota qué combinación de pronombres necesita más práctica. |
+
 ## Sesión de 60 minutos: una secuencia completa de ocho pasos {#sesion-60}
 
 > **Objetivo de la sesión:** diseñar y ensayar una secuencia integrada para una estructura elegida, con los ocho pasos del módulo.
@@ -610,3 +710,14 @@ Evitar repeticiones en una conversación de organización usando pronombres de o
 | Producción | Conversación libre sin objetivo | Tarea con objetivo poco claro | Tarea con propósito, resultado y criterio |
 | Evaluación | Ausente | Criterio vago | Criterio medible y autoevaluación |
 | Adaptaciones | Ausentes | Para un nivel | Para al menos tres niveles |
+
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Revisa las cinco secuencias y escribe cuál te resultó más difícil de enseñar. |
+| 8–22 | Lectura guiada | Lee la tarea práctica y la rúbrica de la secuencia. |
+| 22–38 | Práctica | Responde el cuestionario del módulo y revisa las retroalimentaciones. |
+| 38–52 | Aplicación con tu estudiante | Diseña tu propia secuencia de ocho pasos para una estructura que no esté en el módulo. |
+| 52–60 | Cierre | Puntúa tu secuencia con la rúbrica y escribe dos mejoras. |
+

@@ -53,6 +53,16 @@ Cruza tres círculos:
 > [!ACTIVIDAD] Tu mapa de nicho
 > Escribe 5 conocimientos o experiencias tuyas, 5 necesidades que hayas visto en estudiantes y marca las combinaciones viables. Elige una para probar durante 3 meses.
 
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Escribe cinco conocimientos o experiencias tuyos y cinco necesidades que has visto en estudiantes. |
+| 8–22 | Lectura guiada | Lee los tres círculos del nicho y la tabla de tipos de nicho. |
+| 22–38 | Práctica | Cruza tus conocimientos con las necesidades y marca las combinaciones viables. |
+| 38–52 | Aplicación con tu estudiante | Elige un nicho y redacta a quién no atiendes para aclarar el foco. |
+| 52–60 | Cierre | Escribe el nicho que probarás durante tres meses. |
+
 ## Propuesta de valor y posicionamiento
 
 > **Objetivo de la lección:** formular en una frase qué ofreces, a quién y con qué resultado razonable.
@@ -71,6 +81,16 @@ Cruza tres círculos:
 El posicionamiento es **cómo quieres que te perciban** en comparación con alternativas. Define 3 atributos (por ejemplo: «cercana, estructurada, especializada en salud») y cuida que todo (perfil, vídeo, publicaciones, materiales) los refleje.
 
 Usa la [plantilla de propuesta de valor](/recursos/propuesta-valor/).
+
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Escribe en una frase qué ofreces y a quién. ¿Lo entiende alguien ajeno al tema? |
+| 8–22 | Lectura guiada | Lee la fórmula de la propuesta de valor y el posicionamiento con tres atributos. |
+| 22–38 | Práctica | Escribe tres propuestas de valor con la fórmula para tu nicho. |
+| 38–52 | Aplicación con tu estudiante | Pide a un colega que elija la que más entiende y explique por qué. |
+| 52–60 | Cierre | Guarda la propuesta elegida en la plantilla de propuesta de valor. |
 
 ## Perfil profesional orientado al estudiante
 
@@ -94,6 +114,16 @@ Usa la [plantilla de propuesta de valor](/recursos/propuesta-valor/).
 
 > [!ATENCION] Honestidad en las credenciales
 > No uses términos como «certificada», «nativa experta», «método oficial» o logotipos de instituciones si no tienes esa acreditación o permiso. Completar este curso, por ejemplo, **no** es una titulación oficial.
+
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Escribe el gancho de tu perfil: qué problema del estudiante resuelves. |
+| 8–22 | Lectura guiada | Lee la estructura del perfil y las biografías de ejemplo. |
+| 22–38 | Práctica | Escribe una biografía de 150 caracteres y el primer párrafo del perfil. |
+| 38–52 | Aplicación con tu estudiante | Revisa las credenciales con la advertencia de honestidad y elimina lo que no puedes demostrar. |
+| 52–60 | Cierre | Publica o guarda el texto para compararlo dentro de un mes. |
 
 ## Presentación en vídeo y portafolio docente
 
@@ -121,6 +151,16 @@ Un portafolio (en una web sencilla, un documento o un perfil) puede incluir:
 - Formación y certificados (verificables).
 - Testimonios **reales y con permiso** (nunca inventados).
 - Tu proyecto final de este curso.
+
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Grábate con el móvil diciendo quién eres y a quién ayudas, en 30 segundos. |
+| 8–22 | Lectura guiada | Lee el guion del vídeo de 90 segundos y los consejos técnicos y de portafolio. |
+| 22–38 | Práctica | Escribe el guion completo de 90 segundos con su tabla de tiempos. |
+| 38–52 | Aplicación con tu estudiante | Graba el vídeo y revísalo con la lista de consejos técnicos. |
+| 52–60 | Cierre | Escribe el índice del portafolio con los cinco apartados sugeridos. |
 
 ## Estrategias de contenido educativo en redes
 
@@ -164,6 +204,16 @@ Descarga el [calendario editorial para tutores](/recursos/calendario-editorial/)
 >
 > *Antes de publicar, verifica los usos regionales en fuentes fiables (diccionarios académicos, hablantes de cada zona) para no difundir simplificaciones.*
 
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Mira tu última publicación y di qué enseña, aunque sea poco. |
+| 8–22 | Lectura guiada | Lee los pilares, la tabla de redes y el ejemplo de carrusel. |
+| 22–38 | Práctica | Diseña un carrusel de seis diapositivas con un error frecuente de tus estudiantes. |
+| 38–52 | Aplicación con tu estudiante | Verifica el contenido en fuentes fiables antes de publicar. |
+| 52–60 | Cierre | Anota en el calendario la fecha de publicación y el pilar. |
+
 ## SEO básico para tutores
 
 > **Objetivo de la lección:** aplicar principios básicos de posicionamiento en buscadores.
@@ -184,6 +234,16 @@ El SEO (*search engine optimization*) busca que tu perfil, web o vídeos aparezc
 
 > [!CONSEJO] Responde preguntas reales
 > Haz una lista de las 20 preguntas que más te hacen tus estudiantes («¿cuánto tiempo se tarda en llegar a B1?», «¿es difícil el subjuntivo?»). Cada una puede ser un artículo, un vídeo o una publicación. Responde con honestidad: «depende de…» y explica de qué.
+
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Escribe cómo buscaría tu estudiante ideal un profesor como tú, en dos frases. |
+| 8–22 | Lectura guiada | Lee las prácticas básicas de SEO y la lista de preguntas reales. |
+| 22–38 | Práctica | Escribe veinte preguntas que te hacen los estudiantes y elige tres para responder. |
+| 38–52 | Aplicación con tu estudiante | Convierte una pregunta en un título con la palabra clave principal. |
+| 52–60 | Cierre | Revisa que tu nombre de perfil es coherente en todas las plataformas. |
 
 ## Llamadas a la acción éticas y embudo de captación
 
@@ -216,6 +276,16 @@ El SEO (*search engine optimization*) busca que tu perfil, web o vídeos aparezc
 > [!EJEMPLO] Seguimiento a un estudiante que dejó de reservar
 > «¡Hola, Kenji! Hace tiempo que no nos vemos y quería saber cómo va tu español. Si en algún momento quieres retomar, puedo prepararte un repaso de lo que trabajamos. Y si ahora no es buen momento, ¡te deseo mucho éxito! Isabel»
 
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Recuerda una llamada a la acción que te hizo desconfiar. ¿Por qué? |
+| 8–22 | Lectura guiada | Lee las etapas del embudo y la tabla de llamadas no éticas y éticas. |
+| 22–38 | Práctica | Reescribe tres llamadas a la acción presionantes en versiones honestas. |
+| 38–52 | Aplicación con tu estudiante | Envía el mensaje de seguimiento tras la clase de prueba a un estudiante simulado. |
+| 52–60 | Cierre | Anota qué etapa del embudo necesita más atención. |
+
 ## Construcción de confianza y comunicación de resultados
 
 > **Objetivo de la lección:** generar confianza con evidencias honestas y comunicar resultados de forma responsable.
@@ -239,6 +309,16 @@ El SEO (*search engine optimization*) busca que tu perfil, web o vídeos aparezc
 > [!NOTA] Los resultados dependen de muchos factores
 > El progreso depende del punto de partida, las horas de clase, el estudio autónomo, la exposición a la lengua, la motivación y la lengua materna. Cuando compartas un caso de éxito, añade contexto para no generar expectativas engañosas.
 
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Escribe un resultado que puedas comunicar sin prometer milagros. |
+| 8–22 | Lectura guiada | Lee las fuentes de confianza y la tabla de lo que hay que evitar y lo que se prefiere. |
+| 22–38 | Práctica | Reescribe una promesa de tu perfil en una formulación honesta con contexto. |
+| 38–52 | Aplicación con tu estudiante | Pide a un colega que te diga si la frase genera expectativas irreales. |
+| 52–60 | Cierre | Escribe la regla que seguirás para los testimonios: real, con permiso y sin modificar. |
+
 ## Métricas de marketing y conversión
 
 > **Objetivo de la lección:** medir lo que importa para tomar decisiones.
@@ -253,6 +333,16 @@ El SEO (*search engine optimization*) busca que tu perfil, web o vídeos aparezc
 
 > [!CONSEJO] No midas tu valor por los seguidores
 > Muchos tutores con pocos seguidores tienen agendas completas gracias a las recomendaciones y a la retención. Mide **conversión y retención** antes que visualizaciones.
+
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Escribe las cifras que miras cada semana. ¿Son de vanidad o de negocio? |
+| 8–22 | Lectura guiada | Lee la tabla de métricas y cómo se calculan. |
+| 22–38 | Práctica | Calcula tu tasa de conversión de clase de prueba con datos reales o estimados. |
+| 38–52 | Aplicación con tu estudiante | Diseña una pregunta de origen para tus nuevos estudiantes y empieza a registrarla. |
+| 52–60 | Cierre | Escribe las dos métricas que revisarás dentro de tres meses. |
 
 ## Sesión de 60 minutos: tu propuesta de valor y tu primer calendario de contenido {#sesion-60}
 
@@ -307,3 +397,14 @@ El SEO (*search engine optimization*) busca que tu perfil, web o vídeos aparezc
 - [ ] Las credenciales mencionadas son verificables.
 - [ ] El calendario es sostenible con tu agenda real.
 - [ ] Defines al menos dos métricas para evaluar en 3 meses.
+
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Revisa tu propuesta de valor y tu calendario de contenido. |
+| 8–22 | Lectura guiada | Lee la tarea práctica y la lista de comprobación del kit de marca. |
+| 22–38 | Práctica | Responde el cuestionario y revisa las retroalimentaciones. |
+| 38–52 | Aplicación con tu estudiante | Completa el kit: nicho, propuesta, biografía, guion de vídeo, calendario de cuatro semanas y dos mensajes. |
+| 52–60 | Cierre | Marca la lista de comprobación y comprueba que ninguna pieza promete resultados garantizados. |
+

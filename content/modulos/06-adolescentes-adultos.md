@@ -39,6 +39,16 @@ Los adolescentes y adultos llegan a la clase con objetivos, experiencias y miedo
 > [!ATENCION] Menores de edad
 > Los adolescentes son menores. Aplica las mismas medidas de protección que con los niños: comunicación con el adulto responsable, sin canales privados con el menor, consentimiento para grabaciones y cuidado con los temas (ver [Módulo 12](/modulos/12-gestion-profesional/)).
 
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Piensa en dos estudiantes de edades distintas. ¿Qué motiva a cada uno? |
+| 8–22 | Lectura guiada | Lee la tabla de motivaciones, retos y lo que funciona por grupo de edad. |
+| 22–38 | Práctica | Escribe el permiso para equivocarse que darías a un adolescente, con un ejemplo de modelado. |
+| 38–52 | Aplicación con tu estudiante | Aplica la estrategia con un adolescente o con un adulto y observa la reacción. |
+| 52–60 | Cierre | Anota qué grupo de edad te cuesta más y por qué. |
+
 ## Español para viajes, trabajo, estudios y vida cotidiana
 
 > **Objetivo de la lección:** traducir objetivos vitales en situaciones comunicativas y contenidos.
@@ -59,6 +69,16 @@ Ejemplo: **«Tengo una entrevista de trabajo en español dentro de un mes».**
 3. **Contenidos:** pretérito indefinido e imperfecto para la trayectoria, pretérito perfecto para logros recientes (con variación), condicional de cortesía, léxico de su sector.
 4. **Tareas:** simulaciones de entrevista grabadas, análisis de la grabación, banco de respuestas personalizadas.
 5. **Evaluación:** simulación final con rúbrica.
+
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Escribe tres situaciones en las que tu estudiante necesitaría el español en los próximos seis meses. |
+| 8–22 | Lectura guiada | Lee la tabla por ámbito y el ejemplo de la entrevista de trabajo. |
+| 22–38 | Práctica | Traduce una de esas situaciones en funciones, contenidos, tareas y evaluación. |
+| 38–52 | Aplicación con tu estudiante | Diseña una simulación de 10 minutos de esa situación con el estudiante. |
+| 52–60 | Cierre | Escribe el criterio con el que sabrás que la situación se resolvió. |
 
 ## Enseñanza basada en tareas
 
@@ -88,6 +108,16 @@ En la enseñanza basada en tareas (ver también el [Módulo 10](/modulos/10-meto
 5. **Análisis de la lengua:** el tutor y el estudiante revisan formas útiles que surgieron.
 6. **Práctica y repetición** de la tarea.
 
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Escribe una actividad que hayas usado y decide si es una tarea según la definición. |
+| 8–22 | Lectura guiada | Lee la definición de tarea, la tabla de ejemplos y el ciclo de clase por tareas. |
+| 22–38 | Práctica | Convierte un ejercicio de tu práctica en una tarea con vacío de información y resultado. |
+| 38–52 | Aplicación con tu estudiante | Haz la tarea con el estudiante y el informe posterior, y registra qué formas aparecieron. |
+| 52–60 | Cierre | Anota una forma para el análisis de lengua y la práctica de repetición. |
+
 ## Conversación estructurada
 
 > **Objetivo de la lección:** convertir la clase de conversación en una experiencia con objetivo, progresión y retroalimentación.
@@ -113,6 +143,16 @@ Muchos estudiantes adultos piden «solo conversación». Es una demanda legítim
 5. Algunas ciudades limitan los coches en el centro. ¿Es una buena idea? (*argumentación*)
 
 Consulta la [clase modelo de conversación B1](/clases/conversacion-b1/).
+
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Recuerda una conversación sin objetivo. ¿En qué momento se estancó? |
+| 8–22 | Lectura guiada | Lee los elementos de la conversación estructurada y el ejemplo de preguntas graduadas. |
+| 22–38 | Práctica | Escribe seis preguntas graduadas sobre un tema de interés del estudiante y un banco de expresiones. |
+| 38–52 | Aplicación con tu estudiante | Conduce la conversación de 15 minutos y mide el tiempo que habla el estudiante. |
+| 52–60 | Cierre | Escribe el cierre con un resumen del estudiante y una tarea. |
 
 ## Corrección de errores sin bloquear la comunicación
 
@@ -144,6 +184,16 @@ En la primera clase pregunta: «¿Cómo prefieres que te corrija? ¿En el moment
 
 > [!CONSEJO] La técnica del documento compartido
 > Durante la conversación, escribe en un documento compartido (Google Docs u otro) las frases del estudiante que quieres revisar, **sin la corrección**. Al final, el estudiante intenta corregirlas él mismo. Después le dejas el documento como material de repaso.
+
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Recuerda una corrección que cortó una conversación. ¿Qué quería decir el estudiante? |
+| 8–22 | Lectura guiada | Lee la tabla de técnicas de retroalimentación y cuándo usar corrección inmediata o diferida. |
+| 22–38 | Práctica | Practica tres técnicas con un colega que simula un error de cada tipo. |
+| 38–52 | Aplicación con tu estudiante | Aplica la técnica del documento compartido en una conversación real con el permiso del estudiante. |
+| 52–60 | Cierre | Pacta con el estudiante cómo quiere ser corregido y escríbelo. |
 
 ## Debate, resolución de problemas y juegos de rol
 
@@ -178,6 +228,16 @@ Elementos de un buen juego de rol:
 > **Estudiante:** Compraste unos zapatos por internet. Llegaron de otra talla y con un defecto. Llamas al servicio al cliente. **Objetivo:** conseguir el reembolso completo, no un cambio.
 > **Tutor:** Trabajas en el servicio al cliente. La política de la empresa permite cambios, pero solo reembolsos si el defecto se demuestra con fotos. Sé amable pero firme.
 
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Piensa en un tema de debate que interese a tu estudiante, sin temas sensibles. |
+| 8–22 | Lectura guiada | Lee el formato de debate, los tipos de problemas y el ejemplo de tarjeta de rol. |
+| 22–38 | Práctica | Escribe una tarjeta de rol con situación, objetivo y complicación. |
+| 38–52 | Aplicación con tu estudiante | Haz el juego de rol de 15 minutos y registra los errores que aparecen. |
+| 52–60 | Cierre | Escribe el criterio de evaluación del juego de rol. |
+
 ## Español profesional y académico
 
 > **Objetivo de la lección:** planificar clases de español con fines específicos para el trabajo y los estudios.
@@ -204,6 +264,16 @@ Elementos de un buen juego de rol:
 
 Ver la [clase modelo de español profesional B2](/clases/espanol-profesional-b2/).
 
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Piensa en el correo o la reunión más difícil que tiene tu estudiante en su trabajo. |
+| 8–22 | Lectura guiada | Lee los pasos para un curso profesional y la tabla de géneros discursivos. |
+| 22–38 | Práctica | Escribe la lista de géneros prioritarios para un sector concreto. |
+| 38–52 | Aplicación con tu estudiante | Diseña una simulación de un género (correo o reunión) y evalúala con criterios. |
+| 52–60 | Cierre | Anota el vocabulario del sector que necesitas aprender antes de la próxima clase. |
+
 ## Estudiantes que entienden pero no hablan
 
 > **Objetivo de la lección:** diagnosticar las causas de la baja producción y aplicar estrategias concretas.
@@ -229,6 +299,16 @@ Es una de las situaciones más frecuentes: personas que llevan años estudiando,
 - **Bloques léxicos y fórmulas:** *«Lo que pasa es que…», «La verdad es que…», «Depende de…»* ayudan a ganar tiempo y fluidez.
 - **Preguntas que no tienen respuesta correcta:** opiniones, preferencias, experiencias.
 
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Recuerda un estudiante que te dijo «lo entiendo todo, pero no sé hablar». ¿Qué hiciste? |
+| 8–22 | Lectura guiada | Lee las causas posibles y la tabla de estrategias. |
+| 22–38 | Práctica | Haz la técnica 4/3/2 con el estudiante sobre un mismo tema y compara la fluidez. |
+| 38–52 | Aplicación con tu estudiante | Asigna un audio asíncrono de un minuto y revísalo con el estudiante en la clase siguiente. |
+| 52–60 | Cierre | Escribe cuál de las causas aparece más en tu estudiante y la estrategia que usarás. |
+
 ## Adaptación para niveles intermedios y avanzados
 
 > **Objetivo de la lección:** superar la «meseta del intermedio» y ofrecer retos adecuados a niveles avanzados.
@@ -251,6 +331,16 @@ Muchos estudiantes sienten que «no avanzan» al llegar a B1–B2. Es normal: el
 - **Variación panhispánica** en profundidad ([Módulo 8](/modulos/08-panhispanico/)).
 - **Textos complejos:** ensayo, literatura, prensa de opinión, humor.
 - **Mediación avanzada:** resumir debates, interpretar de forma informal, adaptar textos técnicos.
+
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Piensa en un estudiante B1 o B2 que dice que no avanza. ¿Qué le dices? |
+| 8–22 | Lectura guiada | Lee la meseta del intermedio y las estrategias para C1 y C2. |
+| 22–38 | Práctica | Diseña una grabación comparada de la misma tarea a dos meses de distancia. |
+| 38–52 | Aplicación con tu estudiante | Aplica la estrategia de colocaciones con el estudiante en una lectura de 300 palabras. |
+| 52–60 | Cierre | Anota el objetivo de progreso que medirás en el próximo mes. |
 
 ## Sesión de 60 minutos: conversación estructurada con corrección diferida {#sesion-60}
 
@@ -305,3 +395,14 @@ Muchos estudiantes sienten que «no avanzan» al llegar a B1–B2. Es normal: el
 - [ ] Hay un banco de expresiones adecuado al nivel.
 - [ ] La estrategia de corrección está decidida antes de la clase.
 - [ ] El estudiante habla al menos el 60 % del tiempo.
+
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Revisa las notas de las lecciones de adolescentes y adultos. |
+| 8–22 | Lectura guiada | Lee la tarea práctica y la lista de comprobación de la conversación estructurada. |
+| 22–38 | Práctica | Responde el cuestionario y revisa las retroalimentaciones. |
+| 38–52 | Aplicación con tu estudiante | Diseña la conversación de 50 minutos con objetivo, preguntas, banco, giro y corrección pactada. |
+| 52–60 | Cierre | Marca la lista de comprobación y anota lo que falta. |
+

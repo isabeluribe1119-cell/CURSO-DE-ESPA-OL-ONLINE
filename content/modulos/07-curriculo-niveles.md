@@ -52,6 +52,16 @@ Los nombres de los niveles proceden de la traducción española del MCER del Ins
 - Muchos currículos dividen los niveles en subniveles (A2.1, A2.2; B1+). El MCER prevé niveles «plus» (A2+, B1+, B2+).
 - **Los perfiles suelen ser desiguales:** un estudiante puede tener comprensión lectora B2 y expresión oral A2+. Evalúa por actividades comunicativas, no solo con un nivel global.
 
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Lee en voz alta la descripción de un nivel que enseñas y di si la reconoces en tus estudiantes. |
+| 8–22 | Lectura guiada | Lee el propósito del MCER y la tabla de niveles con sus descripciones orientativas. |
+| 22–38 | Práctica | Escribe una frase de descripción propia para dos niveles, sin usar las palabras exactas del texto. |
+| 38–52 | Aplicación con tu estudiante | Compara tus descripciones con el estudiante y pregúntale qué puede hacer con la lengua. |
+| 52–60 | Cierre | Anota si tus descripciones coinciden con las del MCER y qué te llevaste. |
+
 ## Cómo usar el MCER y sus descriptores
 
 > **Objetivo de la lección:** usar las escalas de descriptores para formular objetivos y criterios de evaluación.
@@ -76,6 +86,16 @@ Las escalas de **competencia lingüística** (alcance, corrección, fluidez, coh
 
 > [!NOTA] Licencia de uso de los descriptores
 > Puedes citar los descriptores del MCER con fines educativos, indicando la fuente. Las ediciones oficiales indican sus propias condiciones de reproducción; para materiales comerciales, consulta esas condiciones. En este curso parafraseamos y remitimos siempre al documento original.
+
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Escribe un objetivo de clase y pregúntate a qué descriptor del MCER se parece. |
+| 8–22 | Lectura guiada | Lee el paso del descriptor al objetivo y el ejemplo de la escala de correspondencia. |
+| 22–38 | Práctica | Convierte un descriptor de tu nivel en un objetivo concreto para un estudiante. |
+| 38–52 | Aplicación con tu estudiante | Usa el objetivo en una clase y comprueba si el criterio se puede observar. |
+| 52–60 | Cierre | Anota la fuente del descriptor y cómo la citarás (parafraseado). |
 
 ## El Plan curricular del Instituto Cervantes
 
@@ -102,6 +122,16 @@ El *Plan curricular del Instituto Cervantes. Niveles de referencia para el espa�
 - **Para encontrar exponentes:** el inventario de funciones ofrece ejemplos de cómo se realiza cada función en cada nivel.
 - **Con conciencia de su perspectiva:** los referentes culturales del PCIC incluyen el mundo hispánico, pero muchos materiales derivados se centran en España. Complementa con perspectiva panhispánica ([Módulo 8](/modulos/08-panhispanico/)).
 
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Piensa en un contenido que enseñas. ¿De qué inventario del PCIC vendría? |
+| 8–22 | Lectura guiada | Lee la lista de inventarios y los usos recomendados como consulta. |
+| 22–38 | Práctica | Busca en el inventario de funciones un ejemplo de la función que quieres enseñar. |
+| 38–52 | Aplicación con tu estudiante | Adapta el ejemplo a un estudiante concreto y comprueba que es razonable para su nivel. |
+| 52–60 | Cierre | Anota la referencia exacta del inventario que usaste. |
+
 ## Seleccionar funciones, gramática, vocabulario y contenidos
 
 > **Objetivo de la lección:** decidir qué enseñar a partir de las necesidades del estudiante y las referencias curriculares.
@@ -126,6 +156,16 @@ Un currículo completo responde a varias preguntas:
 4. **Dificultad y prerrequisitos:** el presente de indicativo irregular antes que el presente de subjuntivo.
 5. **Rendimiento:** estructuras que permiten hacer muchas cosas (*quiero + infinitivo, tengo que + infinitivo, voy a + infinitivo* en A1–A2).
 
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Escribe tres contenidos que enseñaste la semana pasada y decide por qué los elegiste. |
+| 8–22 | Lectura guiada | Lee los criterios de selección: necesidad, frecuencia, utilidad, dificultad y rendimiento. |
+| 22–38 | Práctica | Ordena diez contenidos de un nivel según los cinco criterios. |
+| 38–52 | Aplicación con tu estudiante | Justifica la selección con tu estudiante y pide que la revise. |
+| 52–60 | Cierre | Escribe el criterio que más pesó en tu elección. |
+
 ## Una lista gramatical no es un currículo
 
 > **Objetivo de la lección:** evitar el error de planificar solo a partir de un índice gramatical.
@@ -149,6 +189,16 @@ Es frecuente que un tutor planifique así: «Semana 1: presente regular. Semana 
 | | **Cultura:** destinos de América Latina; *¿qué tal el viaje?* como pregunta social |
 | | **Tarea final:** contar un viaje a un amigo con fotos y responder a sus preguntas |
 | | **Evaluación:** rúbrica oral; autoevaluación «puedo contar un viaje» |
+
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Revisa tu plan más reciente. ¿Es una lista gramatical o una unidad comunicativa? |
+| 8–22 | Lectura guiada | Lee la comparación entre una lista y un currículo y la unidad completa de ejemplo. |
+| 22–38 | Práctica | Transforma una lista gramatical de cuatro temas en una unidad con título comunicativo y tarea final. |
+| 38–52 | Aplicación con tu estudiante | Presenta la unidad a tu estudiante y pregunta qué le parece más útil. |
+| 52–60 | Cierre | Escribe los componentes que faltaban en la lista original. |
 
 ## Secuenciar objetivos y diseñar unidades didácticas
 
@@ -177,6 +227,16 @@ Es frecuente que un tutor planifique así: «Semana 1: presente regular. Semana 
 > - **Clase 2:** expresar preferencias y requisitos (*busco un piso que tenga…* + subjuntivo en relativas); leer anuncios.
 > - **Clase 3:** preguntar por condiciones con cortesía (condicional, *¿sería posible…?*); simulación de llamada.
 > - **Clase 4:** tarea final y evaluación.
+
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Piensa en un tema que se repite en distintos niveles. ¿Cómo cambia su tratamiento? |
+| 8–22 | Lectura guiada | Lee la estructura de una unidad y los principios de secuenciación (espiral, de lo concreto a lo abstracto). |
+| 22–38 | Práctica | Diseña una unidad B1 de tres clases siguiendo el ejemplo de buscar piso. |
+| 38–52 | Aplicación con tu estudiante | Revisa la unidad con el estudiante y registra en qué clase se sintió más motivado. |
+| 52–60 | Cierre | Escribe el reciclaje que incluirás en la unidad siguiente. |
 
 ## Mapas curriculares orientativos por nivel
 
@@ -263,6 +323,16 @@ Es frecuente que un tutor planifique así: «Semana 1: presente regular. Semana 
 
 Descarga la [plantilla de currículo por niveles](/recursos/curriculo-niveles/) en formato editable.
 
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Elige un nivel que enseñes y anota cuántos objetivos de funciones tienes en la semana. |
+| 8–22 | Lectura guiada | Lee el mapa del nivel elegido: objetivos, funciones, gramática, léxico y criterios. |
+| 22–38 | Práctica | Compara tu programa de un mes con el mapa y marca lo que sobra o falta. |
+| 38–52 | Aplicación con tu estudiante | Ajusta el programa con el estudiante según sus necesidades, no solo según el mapa. |
+| 52–60 | Cierre | Escribe el criterio de evaluación que vas a usar para el nivel. |
+
 ## Diseñar evaluaciones y comprobar la progresión
 
 > **Objetivo de la lección:** alinear evaluación, objetivos y tareas, y documentar el progreso del estudiante.
@@ -282,6 +352,16 @@ Los **objetivos**, las **actividades** y la **evaluación** deben apuntar a lo m
 ### Comunicar el progreso
 
 Un informe útil (ver [Módulo 11](/modulos/11-evaluacion/)) indica lo que el estudiante **puede hacer ahora**, con ejemplos, y los objetivos siguientes. Evita afirmar que el estudiante «ya es B2» si no ha realizado una evaluación con criterios explícitos; prefiere formulaciones como «su expresión oral muestra rasgos propios de un B1 alto según los descriptores del MCER».
+
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Recuerda una evaluación que no midió lo que querías medir. |
+| 8–22 | Lectura guiada | Lee el principio de alineación constructiva y las evidencias de progreso. |
+| 22–38 | Práctica | Diseña una evaluación que demuestre un objetivo de unidad con su criterio. |
+| 38–52 | Aplicación con tu estudiante | Aplícala y compara la grabación con la de dos meses antes. |
+| 52–60 | Cierre | Escribe el informe de progreso con un descriptor parafraseado y sin afirmar un nivel oficial. |
 
 ## Sesión de 60 minutos: diseñar una unidad didáctica completa {#sesion-60}
 
@@ -336,3 +416,14 @@ Un informe útil (ver [Módulo 11](/modulos/11-evaluacion/)) indica lo que el es
 - [ ] La evaluación está alineada con la tarea final.
 - [ ] La selección responde a las necesidades del estudiante.
 - [ ] Se citan las fuentes de los descriptores.
+
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Repasa tu currículo de la lección anterior y anota la parte más débil. |
+| 8–22 | Lectura guiada | Lee la tarea práctica y la lista de comprobación de la unidad. |
+| 22–38 | Práctica | Responde el cuestionario y revisa las retroalimentaciones. |
+| 38–52 | Aplicación con tu estudiante | Redacta la unidad completa con título, objetivos, componentes, tarea final y evaluación. |
+| 52–60 | Cierre | Marca la lista de comprobación y anota la fuente de cada descriptor. |
+

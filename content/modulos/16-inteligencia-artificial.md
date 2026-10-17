@@ -60,6 +60,16 @@ Requisitos:
 - No incluyas datos culturales que no puedas verificar; si mencionas uno, márcalo como «verificar».
 ```
 
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Escribe una actividad que hayas hecho con un generador y di si la usarías tal cual. |
+| 8–22 | Lectura guiada | Lee la anatomía de un buen prompt pedagógico y el ejemplo de prompt completo. |
+| 22–38 | Práctica | Escribe un prompt con rol, perfil, objetivo, formato, restricciones y criterios. |
+| 38–52 | Aplicación con tu estudiante | Ejecuta el prompt, resuelve la actividad tú primero y anota qué corregirías. |
+| 52–60 | Cierre | Guarda el prompt mejorado con sus variables. |
+
 ## Creación de diálogos por nivel
 
 > **Objetivo de la lección:** generar diálogos naturales y adecuados al nivel.
@@ -87,6 +97,16 @@ Después del diálogo, incluye:
 > [!CONSEJO] Lee el diálogo en voz alta
 > Si te cuesta leerlo en voz alta con naturalidad, el diálogo no es natural. Corrige hasta que lo sea.
 
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Escribe una conversación real que hayas oído y compárala con un diálogo de libro. |
+| 8–22 | Lectura guiada | Lee el prompt de diálogo por nivel y la advertencia de leer en voz alta. |
+| 22–38 | Práctica | Pide un diálogo con tus restricciones y léelo en voz alta. |
+| 38–52 | Aplicación con tu estudiante | Corrige las partes que suenan artificiales y crea las preguntas de comprensión. |
+| 52–60 | Cierre | Anota las estructuras que aparecen de forma natural y las que faltan. |
+
 ## Adaptación de materiales
 
 > **Objetivo de la lección:** usar la IA para adaptar textos y actividades a otros niveles, edades o necesidades.
@@ -109,6 +129,16 @@ TEXTO:
 > Adaptar un texto protegido (un artículo de prensa, un capítulo de un libro) y distribuirlo puede infringir derechos aunque lo haga una IA. Adapta textos propios, de dominio público o con licencias que lo permitan.
 
 **Otras adaptaciones útiles:** convertir una actividad para adultos en un juego para niños de 7 años; crear una versión con más apoyo visual (descripción de imágenes que tú buscarás con licencia); preparar una versión para un estudiante con dificultades de lectura (frases cortas, más espacio, instrucciones de una en una).
+
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Elige un texto propio y di para qué nivel lo adaptarías. |
+| 8–22 | Lectura guiada | Lee el prompt de adaptación y la advertencia sobre derechos de autor. |
+| 22–38 | Práctica | Adapta un texto propio con el prompt y la tabla de cambios. |
+| 38–52 | Aplicación con tu estudiante | Compara el texto original con el adaptado y comprueba que las ideas se mantienen. |
+| 52–60 | Cierre | Escribe qué cambio no aceptarías de la IA. |
 
 ## Diseño de evaluaciones
 
@@ -136,6 +166,16 @@ Los descriptores deben ser observables y propios de un nivel [NIVEL] (no de un n
 Formato: tabla.
 ```
 
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Recuerda la última prueba que escribiste. ¿Tenía distractores plausibles? |
+| 8–22 | Lectura guiada | Lee los prompts de prueba de comprensión y de rúbrica analítica. |
+| 22–38 | Práctica | Genera una prueba y una rúbrica con la IA a partir de un texto propio. |
+| 38–52 | Aplicación con tu estudiante | Resuelve la prueba tú sin mirar la clave y compara con la clave generada. |
+| 52–60 | Cierre | Corrige los ítems que tienen más de una respuesta correcta. |
+
 ## Revisión de textos
 
 > **Objetivo de la lección:** usar la IA para revisar producciones con un enfoque pedagógico, sin sustituir la corrección del tutor.
@@ -157,6 +197,16 @@ TEXTO DEL ESTUDIANTE (anonimizado):
 > [!ATENCION] La IA también se equivoca corrigiendo
 > Las herramientas de IA pueden marcar como error usos correctos (especialmente regionales), no detectar errores o «corregir» introduciendo un error nuevo. Revisa cada corrección antes de enviarla al estudiante.
 
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Escribe una corrección que hayas hecho y que no fuese una mejora real. |
+| 8–22 | Lectura guiada | Lee el prompt de revisión y la advertencia sobre errores de la IA al corregir. |
+| 22–38 | Práctica | Aplica el prompt a un texto de estudiante anonimizado (de tu práctica o simulado). |
+| 38–52 | Aplicación con tu estudiante | Verifica cada corrección propuesta y descarta las que no son errores. |
+| 52–60 | Cierre | Escribe las dos prioridades de mejora que enviarías al estudiante. |
+
 ## Automatización de tareas repetitivas
 
 > **Objetivo de la lección:** identificar tareas administrativas que la IA puede agilizar.
@@ -172,6 +222,16 @@ TEXTO DEL ESTUDIANTE (anonimizado):
 
 > [!CONSEJO] Notas propias, no grabaciones de estudiantes
 > Para automatizar resúmenes, trabaja con tus propias notas anonimizadas. Subir grabaciones o transcripciones de clases a una herramienta de IA puede implicar el tratamiento de datos personales de terceros (ver la lección sobre privacidad).
+
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Escribe la tarea administrativa que más tiempo te quita. |
+| 8–22 | Lectura guiada | Lee la tabla de tareas que la IA puede agilizar y el control humano de cada una. |
+| 22–38 | Práctica | Automatiza un mensaje de seguimiento con una plantilla y tu revisión. |
+| 38–52 | Aplicación con tu estudiante | Revisa el mensaje con el criterio de tono y datos y envíalo a un estudiante simulado. |
+| 52–60 | Cierre | Escribe la tarea que automatizarás la próxima semana. |
 
 ## Detectar alucinaciones y errores lingüísticos
 
@@ -200,6 +260,16 @@ Una **alucinación** es una respuesta generada que parece plausible pero es fals
 4. **Comprueba el nivel** con las referencias curriculares.
 5. **Pasa la [lista de comprobación de calidad](/recursos/lista-calidad-docente/).**
 
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Pide a una herramienta una referencia bibliográfica y busca si existe. |
+| 8–22 | Lectura guiada | Lee la tabla de errores frecuentes de la IA y el protocolo de revisión en cinco pasos. |
+| 22–38 | Práctica | Aplica el protocolo a un material generado y anota cada hallazgo. |
+| 38–52 | Aplicación con tu estudiante | Corrige el material y registra qué tipo de error fue más frecuente. |
+| 52–60 | Cierre | Escribe el paso del protocolo que nunca te puedes saltar. |
+
 ## Privacidad y tratamiento de datos
 
 > **Objetivo de la lección:** usar la IA sin exponer datos de los estudiantes.
@@ -222,6 +292,16 @@ Una **alucinación** es una respuesta generada que parece plausible pero es fals
 > [!ACTIVIDAD] Revisa tus prompts
 > Revisa los últimos prompts que hayas usado con una herramienta de IA. ¿Incluían nombres, empresas, correos, fotografías o datos de salud? Reescribe uno en versión anonimizada.
 
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Abre el último prompt que usaste y mira si contiene nombres o datos reales. |
+| 8–22 | Lectura guiada | Lee las reglas prácticas y el ejemplo de anonimización. |
+| 22–38 | Práctica | Reescribe un prompt real en versión anonimizada. |
+| 38–52 | Aplicación con tu estudiante | Revisa la política de privacidad de una herramienta que usas: ¿entrena con tus datos? |
+| 52–60 | Cierre | Escribe la regla de privacidad que aplicarás siempre. |
+
 ## Derechos de autor y revisión humana
 
 > **Objetivo de la lección:** conocer los riesgos legales y éticos del contenido generado con IA.
@@ -233,6 +313,16 @@ Una **alucinación** es una respuesta generada que parece plausible pero es fals
 
 > [!NOTA] En Aula Abierta ELE
 > Las contribuciones a este proyecto pueden usar herramientas de IA como apoyo, pero deben ser revisadas por una persona que se responsabilice de su exactitud, originalidad y adecuación, como se indica en la [guía de contribución](/contribuir/).
+
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Escribe si el material generado con IA que usaste tiene alguna fuente identificable. |
+| 8–22 | Lectura guiada | Lee los riesgos legales, la revisión humana y la transparencia. |
+| 22–38 | Práctica | Decide si indicarías el papel de la IA en un material que vas a publicar, y escribe la nota. |
+| 38–52 | Aplicación con tu estudiante | Revisa el contenido para asegurarte de que no reproduce material protegido. |
+| 52–60 | Cierre | Escribe la nota de transparencia para tu próximo material. |
 
 ## Biblioteca de prompts reutilizables
 
@@ -292,6 +382,16 @@ Indica qué hace el adulto acompañante en cada juego, si es necesario.
 
 Descarga el [banco completo de prompts](/recursos/banco-prompts/).
 
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Escribe el prompt que más te ha servido y lo que cambiarías de él. |
+| 8–22 | Lectura guiada | Lee la organización de la biblioteca, los prompts de clase completa y de niños, y los criterios de evaluación. |
+| 22–38 | Práctica | Guarda tres prompts con nombre, propósito, variables, ejemplo y criterios. |
+| 38–52 | Aplicación con tu estudiante | Usa uno de ellos para preparar una clase real y anota qué mejorarías. |
+| 52–60 | Cierre | Escribe la fecha de la próxima revisión de tu biblioteca. |
+
 ## Sesión de 60 minutos: crear y evaluar material con IA {#sesion-60}
 
 > **Objetivo de la sesión:** usar tres prompts de la biblioteca para producir material, evaluarlo con la tabla de criterios y mejorar el prompt.
@@ -344,3 +444,14 @@ Descarga el [banco completo de prompts](/recursos/banco-prompts/).
 - [ ] Resolviste tú las actividades generadas.
 - [ ] Verificaste datos culturales y fuentes.
 - [ ] Mejoraste cada prompt a partir de los errores observados.
+
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Revisa tu biblioteca de prompts y elige el peor. |
+| 8–22 | Lectura guiada | Lee la tarea práctica y la tabla de criterios de evaluación. |
+| 22–38 | Práctica | Responde el cuestionario y revisa las retroalimentaciones. |
+| 38–52 | Aplicación con tu estudiante | Ejecuta tres prompts de tu biblioteca con tu estudiante anonimizado y evalúa los resultados. |
+| 52–60 | Cierre | Marca la lista y anota la versión mejorada de cada prompt. |
+

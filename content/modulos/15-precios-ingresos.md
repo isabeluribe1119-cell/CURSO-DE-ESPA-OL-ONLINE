@@ -56,6 +56,16 @@ objectives:
 - **Duración y formato:** las clases cortas tienen más coste de gestión por minuto.
 - **Mercado del estudiante:** el poder adquisitivo varía según país.
 
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Escribe cuánto necesitas ingresar al mes para vivir sin sobresaltos. |
+| 8–22 | Lectura guiada | Lee los tres enfoques de precio y el cálculo basado en costes con su ejemplo. |
+| 22–38 | Práctica | Calcula tu precio mínimo por hora con tus cifras reales y el método del ejemplo. |
+| 38–52 | Aplicación con tu estudiante | Compara tu precio con el de tres tutores de tu nicho en una plataforma pública. |
+| 52–60 | Cierre | Escribe el precio que propones y el ajuste por especialización. |
+
 ## Facturación, ingresos netos y beneficio
 
 > **Objetivo de la lección:** no confundir lo que cobras con lo que ganas.
@@ -73,6 +83,16 @@ objectives:
 
 > [!EJEMPLO] El espejismo de la facturación
 > Dos tutores facturan lo mismo. La primera trabaja solo en una plataforma con comisión alta y prepara cada clase desde cero. El segundo combina plataforma y estudiantes directos y reutiliza materiales. Con la misma facturación, sus ingresos netos por hora trabajada pueden ser muy distintos.
+
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Escribe lo que ingresaste el mes pasado y lo que te quedó. ¿Son la misma cifra? |
+| 8–22 | Lectura guiada | Lee las definiciones de facturación, ingresos recibidos, beneficio e ingreso neto. |
+| 22–38 | Práctica | Reproduce la tabla con tu último mes de clases. |
+| 38–52 | Aplicación con tu estudiante | Compara tu ingreso neto por hora trabajada con tu precio por clase. |
+| 52–60 | Cierre | Escribe la decisión que tomarías para mejorar el ingreso neto. |
 
 ## Comisiones y costes de herramientas
 
@@ -101,6 +121,16 @@ Si cobras en una moneda y tus gastos están en otra, cada retiro puede tener dos
 
 > [!ACTIVIDAD] Inventario de costes
 > Revisa tus extractos de los últimos tres meses y anota cada comisión, suscripción y gasto profesional. Suma el total anual: suele ser mayor de lo que se estima de memoria.
+
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Enumera las suscripciones y comisiones que pagaste el último mes. |
+| 8–22 | Lectura guiada | Lee la tabla de costes frecuentes y la advertencia sobre condiciones cambiantes. |
+| 22–38 | Práctica | Completa el inventario de costes de los últimos tres meses. |
+| 38–52 | Aplicación con tu estudiante | Calcula el coste anual de los costes que podrías reducir. |
+| 52–60 | Cierre | Escribe el coste que vas a revisar primero. |
 
 ## Clases individuales y paquetes
 
@@ -133,6 +163,16 @@ Si cobras en una moneda y tus gastos están en otra, cada retiro puede tener dos
 
 Comprueba siempre que el precio efectivo por hora de los paquetes no baja de tu **precio mínimo** calculado en la lección 15.1.
 
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Escribe el formato de clase que más usas y el que te gustaría probar. |
+| 8–22 | Lectura guiada | Lee la tabla de formatos y los criterios para paquetes. |
+| 22–38 | Práctica | Diseña tu oferta con clase suelta, paquete y programa con objetivo. |
+| 38–52 | Aplicación con tu estudiante | Comprueba que el precio efectivo por hora de los paquetes no baja de tu mínimo. |
+| 52–60 | Cierre | Escribe la política de caducidad y reembolso del paquete. |
+
 ## Asesorías para otros tutores
 
 > **Objetivo de la lección:** valorar la formación de otros tutores como servicio adicional.
@@ -157,6 +197,16 @@ Con experiencia, puedes ofrecer:
 - ¿He definido qué incluye y qué no incluye el servicio?
 - ¿He calculado el tiempo de preparación y seguimiento en el precio?
 
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Escribe qué sabes hacer que otros tutores te pedirían. |
+| 8–22 | Lectura guiada | Lee las formas de asesoría y los requisitos éticos. |
+| 22–38 | Práctica | Escribe la descripción de un servicio de revisión de perfil con lo que incluye y lo que no. |
+| 38–52 | Aplicación con tu estudiante | Ofrece la revisión a un colega de forma gratuita y pide su opinión sobre el servicio. |
+| 52–60 | Cierre | Responde a la pregunta de si tienes experiencia demostrable en lo que vas a asesorar. |
+
 ## Venta de materiales, cursos y ebooks
 
 > **Objetivo de la lección:** evaluar con realismo la creación de productos digitales.
@@ -177,6 +227,16 @@ Con experiencia, puedes ofrecer:
 - **Revisa los derechos** de todo lo que incluyas (imágenes, fuentes tipográficas, plantillas) ([Módulo 9](/modulos/09-materiales/)).
 - **Cumple obligaciones fiscales** sobre ventas digitales, que pueden depender del país del comprador.
 - **Valida antes de crear:** pregunta a tus estudiantes, ofrece una versión piloto.
+
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Escribe el material que más usas con tus estudiantes y si podrías venderlo. |
+| 8–22 | Lectura guiada | Lee la tabla de productos digitales y sus advertencias. |
+| 22–38 | Práctica | Valida la idea con cinco estudiantes o colegas antes de crear nada. |
+| 38–52 | Aplicación con tu estudiante | Diseña una versión piloto del producto y calcula el tiempo que te llevaría. |
+| 52–60 | Cierre | Escribe la decisión de crear o no el producto con el criterio de esfuerzo. |
 
 ## Diversificación de ingresos
 
@@ -207,6 +267,16 @@ Con experiencia, puedes ofrecer:
 
 Prioriza las ideas con mayor puntuación total y pruébalas a pequeña escala antes de invertir mucho tiempo.
 
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Escribe tus ingresos por fuente de los últimos tres meses. |
+| 8–22 | Lectura guiada | Lee los principios de diversificación y el plan de ejemplo. |
+| 22–38 | Práctica | Puntúa tres ideas de nueva línea con la matriz de criterios. |
+| 38–52 | Aplicación con tu estudiante | Pon a prueba la idea mejor puntuada a pequeña escala durante un mes. |
+| 52–60 | Cierre | Escribe la revisión que harás al final del trimestre. |
+
 ## Organización financiera básica
 
 > **Objetivo de la lección:** establecer hábitos financieros que den estabilidad.
@@ -223,6 +293,16 @@ Prioriza las ideas con mayor puntuación total y pruébalas a pequeña escala an
 ### Estacionalidad
 
 Muchos tutores observan variaciones a lo largo del año (vacaciones, inicio de cursos, propósitos de año nuevo), que dependen del país de sus estudiantes. Registra tus datos durante un año para conocer tu propia estacionalidad en lugar de basarte en generalizaciones.
+
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Revisa si tu cuenta profesional y personal están separadas. ¿Lo están? |
+| 8–22 | Lectura guiada | Lee los hábitos financieros básicos y la nota sobre estacionalidad. |
+| 22–38 | Práctica | Configura un registro mensual de ingresos, gastos y reserva para impuestos. |
+| 38–52 | Aplicación con tu estudiante | Revisa tus obligaciones fiscales con la autoridad de tu país o con un contable. |
+| 52–60 | Cierre | Escribe el porcentaje que reservarás de cada ingreso para impuestos, según tu consulta. |
 
 ## Analizar resultados sin depender de seguidores
 
@@ -250,6 +330,16 @@ Muchos tutores observan variaciones a lo largo del año (vacaciones, inicio de c
 > Tras su primer trimestre, Laura, tutora de español para profesionales, revisa sus datos: 14 clases de prueba, 6 estudiantes que continuaron (43 % de conversión), 5 siguen activos al final del trimestre. Su ingreso neto por hora trabajada es claramente inferior a su precio por clase porque dedica mucho tiempo a preparar materiales desde cero. **Decisiones:** crear una biblioteca de fichas reutilizables para su nicho, reservar dos bloques semanales de preparación y revisar el precio de las clases de 25 minutos, que le exigen la misma preparación que las de 50. Sus seguidores en redes no cambiaron mucho, pero dos de sus nuevos estudiantes llegaron por recomendación.
 
 *Ejemplo ficticio con fines didácticos.*
+
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Escribe tres cifras de vanidad que miras y su equivalente de negocio. |
+| 8–22 | Lectura guiada | Lee la tabla de indicadores de vanidad y de negocio y el ejemplo de revisión trimestral. |
+| 22–38 | Práctica | Responde las cinco preguntas de la revisión trimestral con tus datos. |
+| 38–52 | Aplicación con tu estudiante | Compara el resultado con el trimestre anterior y anota lo que cambió. |
+| 52–60 | Cierre | Escribe la decisión concreta del próximo trimestre. |
 
 ## Sesión de 60 minutos: calcular tu precio mínimo y tu oferta {#sesion-60}
 
@@ -298,3 +388,14 @@ Muchos tutores observan variaciones a lo largo del año (vacaciones, inicio de c
 - [ ] Las horas vendibles son realistas.
 - [ ] Los paquetes no bajan de tu precio mínimo.
 - [ ] Tienes una política escrita de caducidad y reembolso.
+
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Revisa tu hoja de ingresos y gastos y el precio que calculaste. |
+| 8–22 | Lectura guiada | Lee la tarea práctica y la lista de comprobación. |
+| 22–38 | Práctica | Responde el cuestionario y revisa las retroalimentaciones. |
+| 38–52 | Aplicación con tu estudiante | Introduce tus datos en la hoja y diseña tres formatos de oferta coherentes con los números. |
+| 52–60 | Cierre | Marca la lista y confirma que ningún paquete baja del precio mínimo. |
+

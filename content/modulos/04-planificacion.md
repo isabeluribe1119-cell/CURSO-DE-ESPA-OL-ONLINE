@@ -39,6 +39,16 @@ Hay muchas formas válidas de estructurar una clase. Proponemos un esquema flexi
 > [!NOTA] Otras secuencias válidas
 > La secuencia anterior se parece al clásico PPP (presentación, práctica, producción). En la **enseñanza basada en tareas** el orden puede invertirse: primero la tarea, después el análisis de la lengua y finalmente la repetición de la tarea (Willis, 1996). Ambas son legítimas según el objetivo; lo profundizamos en el [Módulo 10](/modulos/10-metodologias/).
 
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Describe la última clase que diste y di en qué fase empezó a desordenarse. |
+| 8–22 | Lectura guiada | Lee las seis fases y la función de cada una. Compara con la secuencia PPP y con la basada en tareas. |
+| 22–38 | Práctica | Escribe las seis fases de una clase de tu estudiante con el objetivo de cada una. |
+| 38–52 | Aplicación con tu estudiante | Ensaya la secuencia en voz alta y marca dónde se acorta o se alarga. |
+| 52–60 | Cierre | Anota qué fase vas a reforzar la próxima semana. |
+
 ## Definir objetivos alcanzables para una clase
 
 > **Objetivo de la lección:** redactar un objetivo de clase que se pueda conseguir y comprobar en el tiempo disponible.
@@ -55,6 +65,16 @@ Un error habitual es planificar objetivos de semana en una clase de 50 minutos: 
 
 > [!CONSEJO] Un objetivo comunicativo y, como mucho, dos focos lingüísticos
 > En una clase de 50 minutos, un objetivo comunicativo principal (pedir en un restaurante) y uno o dos focos lingüísticos (*me pone / quería*, léxico de ingredientes) suelen ser suficientes. Más focos suelen significar menos práctica.
+
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Escribe un objetivo de clase demasiado amplio que hayas usado. ¿Por qué no se podía cumplir? |
+| 8–22 | Lectura guiada | Lee la tabla de objetivos amplios frente a alcanzables y la fórmula de cuatro elementos. |
+| 22–38 | Práctica | Reduce cinco objetivos amplios a objetivos de 50 minutos con verbo, contenido, situación y criterio. |
+| 38–52 | Aplicación con tu estudiante | Elige uno de esos objetivos para tu estudiante y comprueba que es alcanzable en el tiempo de la clase. |
+| 52–60 | Cierre | Escribe el objetivo de la clase y el criterio con el que lo evaluarás. |
 
 ## Activación de conocimientos previos y presentación
 
@@ -82,6 +102,16 @@ El nuevo contenido se presenta **en contexto** (un diálogo, un audio, un texto,
 
 > [!EJEMPLO] Modelar antes de pedir
 > En lugar de «Ahora describe tu casa», el tutor dice: «Te voy a describir mi casa en un minuto. Fíjate en cómo empiezo y qué palabras uso para decir dónde están las cosas». Después: «¿Qué expresiones usé para la ubicación? Ahora te toca a ti».
+
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Haz una pregunta de activación sobre un tema de la semana y observa cuántas palabras usa tu estudiante. |
+| 8–22 | Lectura guiada | Lee las técnicas de activación y el modelado antes de presentar contenido. |
+| 22–38 | Práctica | Diseña una activación de cinco minutos y una presentación contextualizada de otros cinco minutos. |
+| 38–52 | Aplicación con tu estudiante | Aplícalas con el estudiante y anota si la presentación fue comprensible. |
+| 52–60 | Cierre | Ajusta la presentación según lo que observaste. |
 
 ## Práctica guiada y producción
 
@@ -111,6 +141,16 @@ Actividades en las que el estudiante usa lo aprendido para un propósito:
 
 > [!CONSEJO] Repetir la tarea
 > Repetir una misma tarea con un cambio (otro interlocutor, menos tiempo, sin notas) mejora la fluidez y la precisión. En una clase individual puedes cambiar tú de papel o de actitud: «Ahora soy un camarero muy ocupado que habla rápido».
+
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Piensa en una actividad que hayas dado y que no exigía entender el significado. ¿Cómo la harías ahora? |
+| 8–22 | Lectura guiada | Lee las actividades de práctica guiada y producción, y el principio del andamiaje decreciente. |
+| 22–38 | Práctica | Diseña una progresión de tres actividades, del control a la libertad, para un mismo objetivo. |
+| 38–52 | Aplicación con tu estudiante | Haz la progresión con el estudiante y registra en qué actividad se detiene. |
+| 52–60 | Cierre | Escribe qué andamio retirarás primero en la siguiente clase. |
 
 ## Sesión de 60 minutos: planificar y cronometrar una clase real {#sesion-60}
 
@@ -154,6 +194,16 @@ Actividades en las que el estudiante usa lo aprendido para un propósito:
 > [!ATENCION] No dejes el cierre para el último minuto
 > Muchos tutores terminan la clase a mitad de una actividad porque se acaba el tiempo. Programa una alarma discreta 5 minutos antes del final. Un buen cierre es parte del aprendizaje y de la percepción de calidad.
 
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Recuerda cómo terminaste la última clase. ¿Qué sabía tu estudiante al final? |
+| 8–22 | Lectura guiada | Lee las preguntas de comprobación, la mini-tarea final y la estructura del cierre. |
+| 22–38 | Práctica | Diseña una mini-tarea que demuestre el objetivo de la clase en un minuto. |
+| 38–52 | Aplicación con tu estudiante | Aplica el cierre completo al final de una clase con el estudiante: resumen, autoevaluación y corrección diferida. |
+| 52–60 | Cierre | Escribe el trabajo autónomo de una frase y la fecha de la próxima clase. |
+
 ## Clases de 25, 50 y 60 minutos
 
 > **Objetivo de la lección:** adaptar la estructura a las duraciones más frecuentes en las plataformas.
@@ -188,6 +238,16 @@ El formato más habitual. Permite el ciclo completo. Ver el plan completo en la 
 
 Permite **ampliar la producción** o incluir una segunda destreza (por ejemplo, una breve escritura en clase). Útil para niveles intermedios y avanzados o para clases de preparación de exámenes.
 
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Calcula cuántos minutos de tu última clase de 50 minutos se dedicaron realmente a la producción. |
+| 8–22 | Lectura guiada | Lee la distribución orientativa y los ejemplos de la clase de 25 minutos. |
+| 22–38 | Práctica | Reparte un mismo objetivo en un formato de 25, otro de 50 y otro de 60 minutos. |
+| 38–52 | Aplicación con tu estudiante | Ensaya la versión de 25 minutos con un colega y anota qué quitar. |
+| 52–60 | Cierre | Anota la duración que más te conviene para cada tipo de estudiante. |
+
 ## Cómo estructurar una clase de prueba
 
 > **Objetivo de la lección:** diseñar una clase de prueba que sirva al estudiante y muestre tu método con honestidad.
@@ -217,6 +277,16 @@ La clase de prueba (*trial lesson*) es frecuente en plataformas como italki o Pr
 
 Descarga la [plantilla de clase de prueba](/recursos/clase-prueba/) y consulta la [clase modelo de prueba para un adulto principiante](/clases/clase-prueba-adulto-principiante/).
 
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Recuerda una clase de prueba que hayas recibido. ¿Qué te llevaste? |
+| 8–22 | Lectura guiada | Lee el guion de 25–30 minutos y la lista de lo que debe llevarse el estudiante. |
+| 22–38 | Práctica | Prepara las preguntas diagnósticas graduadas para dos niveles distintos. |
+| 38–52 | Aplicación con tu estudiante | Simula una clase de prueba de 25 minutos con un colega y graba la propuesta final. |
+| 52–60 | Cierre | Escribe el resumen para el estudiante usando la plantilla de la clase de prueba. |
+
 ## Gestión del tiempo y adaptación cuando el estudiante no entiende
 
 > **Objetivo de la lección:** reaccionar con recursos concretos ante los imprevistos más frecuentes.
@@ -243,6 +313,16 @@ Antes de repetir la misma explicación más despacio y más alto, prueba a **cam
 
 > [!CONSEJO] Comprobar la comprensión sin humillar
 > Evita «¿entiendes?» (casi todos dicen que sí). Usa **preguntas de comprobación de conceptos**: para *acabar de*, pregunta «Si *acabo de comer*, ¿tengo hambre? ¿Comí hace mucho o hace poco?».
+
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Recuerda un momento en que repetiste la misma explicación más alto. ¿Te sirvió? |
+| 8–22 | Lectura guiada | Lee las estrategias de cambio de canal y la regla de comprobar la comprensión con preguntas de concepto. |
+| 22–38 | Práctica | Practica tres cambios de canal con un colega que finge no entender: ejemplo, imagen y reducción de tarea. |
+| 38–52 | Aplicación con tu estudiante | Aplica en tu clase una actividad comodín y decide qué sacrificarías si faltan diez minutos. |
+| 52–60 | Cierre | Escribe la estrategia que más te funcionó y cuándo la usarás otra vez. |
 
 ## Planes de clase completos
 
@@ -279,6 +359,16 @@ Antes de repetir la misma explicación más despacio y más alto, prueba a **cam
 
 Descarga la [plantilla de planificación de clase](/recursos/plan-clase/) para crear los tuyos.
 
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Lee el título de los dos planes y anota qué objetivo te parece más difícil de alcanzar. |
+| 8–22 | Lectura guiada | Lee el plan de «Pedir en un restaurante» minuto a minuto y señala qué fase depende de la anterior. |
+| 22–38 | Práctica | Escribe un plan de 50 minutos con la misma estructura para un objetivo de tu estudiante. |
+| 38–52 | Aplicación con tu estudiante | Ensaya el plan con el estudiante y registra los tiempos reales. |
+| 52–60 | Cierre | Ajusta dos tiempos según el ensayo y guarda el plan en la plantilla. |
+
 ## Evaluación y tarea del módulo {#evaluacion}
 
 ```quiz
@@ -314,3 +404,14 @@ Descarga la [plantilla de planificación de clase](/recursos/plan-clase/) para c
 - [ ] Hay una producción con propósito que ocupa al menos un 25 % del tiempo.
 - [ ] El cierre incluye resumen, autoevaluación y trabajo autónomo.
 - [ ] Tienes una actividad de reserva y sabes qué sacrificar si falta tiempo.
+
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Revisa los planes que escribiste en las lecciones anteriores. |
+| 8–22 | Lectura guiada | Lee la tarea práctica y la lista de comprobación del módulo. |
+| 22–38 | Práctica | Responde el cuestionario y revisa las retroalimentaciones. |
+| 38–52 | Aplicación con tu estudiante | Diseña la clase de 50 minutos con todos los elementos: objetivo, tiempos, producción, plan B y criterio. |
+| 52–60 | Cierre | Marca cada punto de la lista de comprobación y anota lo que falta. |
+

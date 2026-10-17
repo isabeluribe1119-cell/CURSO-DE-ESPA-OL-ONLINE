@@ -58,6 +58,16 @@ La adquisición de segundas lenguas (ASL, o *SLA* por sus siglas en inglés) es 
 > [!DEBATE] ¿Hay un «periodo crítico» para aprender lenguas?
 > Existe evidencia de que la edad de inicio se relaciona con el nivel final alcanzado, sobre todo en pronunciación, cuando hay inmersión prolongada. Pero se discute si existe un periodo crítico biológico con un final abrupto, o una disminución gradual influida por factores sociales, de cantidad de input y de identidad. Además, en contextos de instrucción formal con pocas horas semanales, **los adolescentes y adultos suelen avanzar más rápido al principio** que los niños pequeños. Conclusión práctica: nunca es «demasiado tarde» para aprender, y los objetivos deben adaptarse a cada edad y contexto.
 
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Escribe lo que crees que significa que una persona «adquiere» una lengua. Compara con la definición de la lección. |
+| 8–22 | Lectura guiada | Lee el vocabulario esencial y los hallazgos con amplio respaldo. Anota qué tres hallazgos te parecen más útiles. |
+| 22–38 | Práctica | Asocia cada término (input, output, intake, interlengua, conocimiento explícito) con un ejemplo de tu propia clase. |
+| 38–52 | Aplicación con tu estudiante | Piensa en un estudiante y decide qué hallazgo guía tu próxima sesión y por qué. |
+| 52–60 | Cierre | Escribe una frase con cada uno de los tres niveles de certeza (evidencia, debate, consejo práctico). |
+
 ## Comprensión, producción, interacción y mediación
 
 > **Objetivo de la lección:** usar el modelo de actividades comunicativas del MCER para equilibrar las clases.
@@ -82,6 +92,16 @@ La mediación es la gran aportación del Volumen complementario. Incluye activid
 ### Equilibrar las clases
 
 Un error común en la tutoría online es reducirlo todo a interacción oral. Revisa tus últimas cinco clases: ¿cuánto tiempo dedicaste a cada modo? Un estudiante que se prepara para un examen o que trabaja en un entorno profesional necesita también comprensión lectora extensa, producción escrita y mediación.
+
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Revisa tu última clase y estima cuánto tiempo dedicaste a cada modo de comunicación. |
+| 8–22 | Lectura guiada | Lee el cuadro de los cuatro modos y el ejemplo de mediación de Laura. |
+| 22–38 | Práctica | Diseña una tarea breve para cada modo que te falte (comprensión, producción, interacción o mediación). |
+| 38–52 | Aplicación con tu estudiante | Aplica una de esas tareas a tu estudiante y observa cuál de los modos sale más débil. |
+| 52–60 | Cierre | Ajusta el plan de la semana siguiente para equilibrar los cuatro modos. |
 
 ## Input comprensible, interacción y retroalimentación
 
@@ -122,6 +142,16 @@ En cuatro turnos el estudiante obtuvo una palabra que necesitaba (*farmacia*) y 
 
 Las técnicas concretas de corrección se desarrollan en los [Módulos 6](/modulos/06-adolescentes-adultos/) y [11](/modulos/11-evaluacion/).
 
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Recuerda una negociación de significado que hayas tenido con un estudiante. ¿Cómo se resolvió? |
+| 8–22 | Lectura guiada | Lee la hipótesis del input y sus críticas, la de la interacción y la del output. Subraya qué queda aceptado. |
+| 22–38 | Práctica | Simula un intercambio con negociación de significado usando la estructura del ejemplo de la farmacia. |
+| 38–52 | Aplicación con tu estudiante | Revisa tu uso de reformulaciones y de corrección explícita en una grabación de cinco minutos. |
+| 52–60 | Cierre | Escribe cuál de las tres ideas aplicarás en la próxima clase y cómo la observarás. |
+
 ## Interlengua y errores como parte del aprendizaje
 
 > **Objetivo de la lección:** interpretar los errores como evidencia del sistema del aprendiz y decidir cuándo y cómo intervenir.
@@ -158,6 +188,16 @@ Algunos errores se mantienen durante años aunque el aprendiz siga en contacto c
 > [!CONSEJO] Prioriza qué corregir
 > No todos los errores merecen la misma atención. Prioriza los que: 1) impiden la comprensión, 2) son muy frecuentes, 3) estigmatizan socialmente al hablante, o 4) corresponden al objetivo de la clase. Usa la [plantilla de seguimiento del estudiante](/recursos/seguimiento-estudiante/) para registrarlos.
 
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Recuerda un error de un estudiante que te pareció absurdo. ¿Qué regla podría estar aplicando? |
+| 8–22 | Lectura guiada | Lee el concepto de interlengua, la distinción entre error y falta y la tabla de tipos. |
+| 22–38 | Práctica | Clasifica diez errores de una muestra en la tabla y decide cuáles son faltas. |
+| 38–52 | Aplicación con tu estudiante | Elige los tres errores recurrentes de tu estudiante y diseña una práctica focalizada para cada uno. |
+| 52–60 | Cierre | Escribe la regla que tu estudiante parece estar aplicando, en una frase. |
+
 ## Transferencia lingüística e interferencia
 
 > **Objetivo de la lección:** anticipar dificultades y facilidades según la lengua materna del estudiante, sin caer en el determinismo.
@@ -185,6 +225,16 @@ La **transferencia** es la influencia de la L1 (u otras lenguas conocidas) en la
 
 > [!EJEMPLO] Aprovechar la L1 en clase
 > Con un estudiante brasileño de nivel B1, en lugar de prohibir el portugués, dedica 10 minutos a una «caza de falsos amigos» en un texto auténtico. Él identifica palabras que *parecen* iguales y comprueba si significan lo mismo. Convierte la cercanía en una herramienta de atención consciente.
+
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Escribe tres palabras de la lengua de tu estudiante que se parezcan al español. ¿Significan lo mismo? |
+| 8–22 | Lectura guiada | Lee el apartado sobre transferencia positiva y negativa, el análisis contrastivo y la tabla por L1. |
+| 22–38 | Práctica | Busca en un texto auténtico dos falsos amigos y dos cognados, y anota qué hace distinta a cada pareja. |
+| 38–52 | Aplicación con tu estudiante | Diseña la caza de falsos amigos del ejemplo para tu estudiante, con un texto de su nivel. |
+| 52–60 | Cierre | Anota qué dificultad de transferencia esperas en el próximo mes y cómo la vigilarás. |
 
 ## Automatización, práctica y recuperación de conocimientos
 
@@ -219,6 +269,16 @@ Pasar de la fase 1 a la 3 requiere **práctica significativa y repetida**, no so
 
 Profundizamos en estas técnicas en el [Módulo 10](/modulos/10-metodologias/).
 
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Recuerda algo que sabías de memoria y que hoy te cuesta recordar. ¿Qué lo olvidó? |
+| 8–22 | Lectura guiada | Lee las tres fases de la automatización y los efectos de la recuperación y del espaciado. |
+| 22–38 | Práctica | Diseña cinco preguntas de recuperación para la clase anterior, sin repetir las mismas palabras. |
+| 38–52 | Aplicación con tu estudiante | Aplica el calentamiento de cinco minutos en tu próxima clase y anota qué se recuperó. |
+| 52–60 | Cierre | Programa dos repasos espaciados para las expresiones de esa clase. |
+
 ## Conocer una regla y utilizarla espontáneamente
 
 > **Objetivo de la lección:** entender la distinción entre conocimiento explícito e implícito y sus consecuencias para la enseñanza de la gramática.
@@ -244,6 +304,16 @@ Que **conocer** la regla (conocimiento explícito) y **usarla** en tiempo real (
 3. **Varía las condiciones de práctica:** primero con tiempo para pensar (planificación), después con más fluidez (repetición de la tarea, límites de tiempo).
 4. **Acepta la variabilidad:** que un estudiante acierte en un ejercicio y falle en una conversación es normal en el proceso.
 
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Cuenta una vez en la que supiste una regla y no la usaste al hablar. |
+| 8–22 | Lectura guiada | Lee las tres posiciones sobre la interfaz y las recomendaciones de qué significa para tu clase. |
+| 22–38 | Práctica | Diseña una tarea en la que el estudiante use una regla sin tiempo para pensar y otra con tiempo. |
+| 38–52 | Aplicación con tu estudiante | Compara el rendimiento del estudiante en ambas tareas y decide qué práctica falta. |
+| 52–60 | Cierre | Escribe tu posición personal sobre la interfaz, con un argumento y un matiz. |
+
 ## De la teoría a las decisiones pedagógicas
 
 > **Objetivo de la lección:** traducir los conceptos del módulo en criterios concretos para planificar y conducir tus clases.
@@ -263,6 +333,16 @@ Que **conocer** la regla (conocimiento explícito) y **usarla** en tiempo real (
 
 > [!CONSEJO] Desconfía de los «estilos de aprendizaje»
 > La idea de que cada persona aprende mejor si se le enseña según su «estilo» (visual, auditivo, kinestésico) es muy popular, pero las revisiones de la evidencia (Pashler y otros, 2008) **no encontraron apoyo** a la hipótesis de que adaptar la enseñanza al estilo preferido mejore el aprendizaje. Sí tiene sentido usar **varias modalidades** (imagen, texto, audio, gesto) para todos los estudiantes y tener en cuenta preferencias para la motivación.
+
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Elige un concepto de este módulo que hayas usado en clase sin darte cuenta. |
+| 8–22 | Lectura guiada | Lee la tabla de conceptos y decisiones. Marca las que ya aplicas. |
+| 22–38 | Práctica | Completa la tabla con una decisión propia para tres conceptos que no aplicas todavía. |
+| 38–52 | Aplicación con tu estudiante | Diseña una clase de 50 minutos que incluya al menos cuatro de las decisiones de la tabla. |
+| 52–60 | Cierre | Justifica en dos frases cada decisión con un concepto del módulo. |
 
 ## Sesión de 60 minutos: diagnosticar errores como evidencia de interlengua {#sesion-60}
 
@@ -323,3 +403,14 @@ Que **conocer** la regla (conocimiento explícito) y **usarla** en tiempo real (
 - [ ] Mis clasificaciones de errores se basan en lo que el estudiante produce, no en suposiciones sobre su L1.
 - [ ] Cada decisión pedagógica se relaciona con un concepto concreto (input, interacción, output, recuperación…).
 - [ ] Incluyo al menos una actividad de mediación o de recuperación espaciada.
+
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Revisa las notas de los conceptos que estudiaste en este módulo. |
+| 8–22 | Lectura guiada | Lee el cuestionario y la tarea práctica de análisis de errores. |
+| 22–38 | Práctica | Responde el cuestionario y revisa cada retroalimentación. |
+| 38–52 | Aplicación con tu estudiante | Completa la tarea: grabación de cinco minutos, clasificación de cinco errores y tres decisiones justificadas. |
+| 52–60 | Cierre | Marca los criterios de autoevaluación y redacta la decisión que vas a aplicar la próxima semana. |
+

@@ -58,6 +58,16 @@ Usa esta matriz para crear tu propia tabla comparativa con datos **que verifique
 | **Cambiante** | Comisiones, algoritmos, promociones | Verificar siempre |
 | **Rumor** | «El algoritmo castiga a quien sube precios» (en foros) | Baja; no tomes decisiones con esto |
 
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Escribe las tres cosas que más te importan de una plataforma: pagos, visibilidad o autonomía. |
+| 8–22 | Lectura guiada | Lee la matriz de evaluación y los tipos de información (oficial, recomendación, cambiante, rumor). |
+| 22–38 | Práctica | Aplica la matriz a una plataforma y marca la fuente de cada dato. |
+| 38–52 | Aplicación con tu estudiante | Compara tu matriz con la de un colega y revisa las diferencias. |
+| 52–60 | Cierre | Escribe la fecha de consulta de cada dato para revisarlo más adelante. |
+
 ## italki
 
 > **Objetivo de la lección:** conocer el modelo general de italki y dónde verificar sus condiciones.
@@ -74,6 +84,16 @@ Usa esta matriz para crear tu propia tabla comparativa con datos **que verifique
 > [!NOTA] Categorías de perfil
 > Históricamente, italki ha distinguido entre «profesor profesional» y «tutor de la comunidad», con requisitos distintos. Comprueba si esta distinción sigue vigente y qué exige cada categoría.
 
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Abre la página de términos para tutores de una plataforma y busca dónde se explica la comisión. |
+| 8–22 | Lectura guiada | Lee el modelo general y lo que hemos verificado, con la fuente y la fecha. |
+| 22–38 | Práctica | Anota las categorías de profesor y los requisitos vigentes en tu país. |
+| 38–52 | Aplicación con tu estudiante | Compara los requisitos con tu situación real y decide si cumples cada uno. |
+| 52–60 | Cierre | Escribe la fecha en que revisarás de nuevo estas condiciones. |
+
 ## Preply
 
 > **Objetivo de la lección:** conocer el modelo general de Preply y dónde verificar sus condiciones.
@@ -87,6 +107,16 @@ Usa esta matriz para crear tu propia tabla comparativa con datos **que verifique
 
 > [!ATENCION] Qué implica una comisión del 100 % en la clase de prueba
 > Si la clase de prueba no genera ingresos para el tutor, su objetivo comercial es **convertir** al estudiante. Diseña clases de prueba excelentes ([Módulo 4](/modulos/04-planificacion/)), pero calcula su coste en tiempo cuando analices tus ingresos ([Módulo 15](/modulos/15-precios-ingresos/)).
+
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Calcula cuánto cobrarías por una clase de prueba si la comisión fuese del 100 %. |
+| 8–22 | Lectura guiada | Lee el modelo general y las comisiones verificadas con su fuente. |
+| 22–38 | Práctica | Haz la simulación de ingresos con la comisión de clases siguientes en dos niveles. |
+| 38–52 | Aplicación con tu estudiante | Compara el resultado con tu precio mínimo calculado en el Módulo 15. |
+| 52–60 | Cierre | Escribe el coste de oportunidad de la clase de prueba para tu agenda. |
 
 ## Superprof
 
@@ -111,6 +141,16 @@ Usa esta matriz para crear tu propia tabla comparativa con datos **que verifique
 > [!CONSEJO] Guarda una copia fechada
 > Cuando leas los términos de cualquier plataforma, guarda una captura o un PDF con la fecha. Si las condiciones cambian, podrás comparar y tomar decisiones informadas.
 
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Escribe qué sabes de Superprof y de dónde procede esa información. |
+| 8–22 | Lectura guiada | Lee lo que no pudimos verificar y la tarea de revisar sus términos. |
+| 22–38 | Práctica | Busca los términos para profesores en tu país y anota las preguntas que resuelven. |
+| 38–52 | Aplicación con tu estudiante | Completa la matriz con la información verificada y las dudas abiertas. |
+| 52–60 | Cierre | Escribe la pregunta que todavía tienes para la plataforma. |
+
 ## Otras plataformas y modelos
 
 > **Objetivo de la lección:** conocer la diversidad de modelos más allá de los grandes marketplaces.
@@ -125,6 +165,16 @@ Usa esta matriz para crear tu propia tabla comparativa con datos **que verifique
 
 > [!VERIFICAR]
 > Existen muchas otras plataformas y escuelas online; su continuidad, condiciones y modelos cambian. Investiga cualquier plataforma antes de dedicar tiempo a tu perfil: busca sus términos oficiales y opiniones de tutores en comunidades profesionales.
+
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Escribe el modelo de trabajo que más te atrae y por qué. |
+| 8–22 | Lectura guiada | Lee la tabla de modelos: marketplace, anuncios, escuela, grupos y trabajo independiente. |
+| 22–38 | Práctica | Anota ventajas y riesgos de dos modelos para tu situación. |
+| 38–52 | Aplicación con tu estudiante | Compara los dos modelos con un colega que ya trabaja en uno de ellos. |
+| 52–60 | Cierre | Escribe el modelo que probarías primero y el criterio para evaluarlo. |
 
 ## Perfil orientado al estudiante dentro de las normas
 
@@ -142,6 +192,16 @@ Usa esta matriz para crear tu propia tabla comparativa con datos **que verifique
 > «¿Entiendes bastante español, pero te bloqueas cuando tienes que hablar en una reunión? Soy tutora de español de Colombia y trabajo con profesionales que necesitan comunicarse con equipos latinoamericanos. En nuestras clases simulamos reuniones reales, practicamos expresiones para intervenir, pedir aclaraciones y negociar, y cada mes recibes un informe de tu progreso. En la clase de prueba analizaremos tu situación y te propondré un plan de trabajo.»
 
 Desarrollamos el perfil y la presentación en vídeo en el [Módulo 14](/modulos/14-marca-personal/).
+
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Lee tu perfil actual y cuenta cuántas frases hablan de ti y cuántas del estudiante. |
+| 8–22 | Lectura guiada | Lee los principios del perfil y la introducción de ejemplo. |
+| 22–38 | Práctica | Reescribe la introducción de tu perfil centrada en el estudiante, sin datos de contacto externos. |
+| 38–52 | Aplicación con tu estudiante | Pide a un colega que lea el perfil y le diga qué necesidad ve. |
+| 52–60 | Cierre | Revisa que cumple las normas de la plataforma. |
 
 ## Plataformas frente a trabajo independiente
 
@@ -170,6 +230,16 @@ Muchos tutores combinan ambos modelos. Una progresión frecuente:
 
 > [!ACTIVIDAD] Tu mapa de riesgos
 > Calcula qué porcentaje de tus ingresos de los últimos tres meses procede de cada fuente. Si una sola supera el 70–80 %, define una acción concreta para el próximo trimestre que reduzca esa dependencia sin incumplir las normas de ninguna plataforma.
+
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Calcula qué porcentaje de tus ingresos viene de una sola fuente. |
+| 8–22 | Lectura guiada | Lee la comparación de aspectos entre plataforma y trabajo independiente. |
+| 22–38 | Práctica | Escribe una progresión de tres pasos para diversificar sin incumplir normas. |
+| 38–52 | Aplicación con tu estudiante | Revisa la progresión con tu situación real y elimina un paso que no puedas asumir. |
+| 52–60 | Cierre | Escribe la acción del próximo trimestre para reducir la dependencia. |
 
 ## Sesión de 60 minutos: comparar dos plataformas con fuentes verificadas {#sesion-60}
 
@@ -216,3 +286,14 @@ Muchos tutores combinan ambos modelos. Una progresión frecuente:
 - [ ] Cada dato tiene fuente oficial y fecha de consulta.
 - [ ] Distingues información oficial, recomendaciones y rumores.
 - [ ] Tu decisión considera comisiones, autonomía y riesgos de dependencia.
+
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Revisa tu matriz de plataformas y tu decisión. |
+| 8–22 | Lectura guiada | Lee la tarea práctica y la lista de comprobación. |
+| 22–38 | Práctica | Responde el cuestionario y revisa las retroalimentaciones. |
+| 38–52 | Aplicación con tu estudiante | Completa la matriz para dos plataformas con fuentes y fechas, y escribe tu decisión. |
+| 52–60 | Cierre | Marca la lista y anota los datos que necesitas volver a verificar. |
+

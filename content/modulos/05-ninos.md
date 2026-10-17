@@ -43,6 +43,16 @@ Las edades son aproximadas; el desarrollo varía mucho entre niños y contextos.
 > [!EVIDENCIA] Niños y aprendizaje de lenguas
 > Los niños pequeños aprenden mejor de forma **implícita**, a partir de mucha exposición significativa e interacción, que con explicaciones gramaticales. La investigación sobre la edad de inicio (ver [Módulo 2](/modulos/02-adquisicion/)) sugiere que su ventaja aparece con exposición abundante y prolongada; con pocas horas semanales, avanzan de forma más lenta que los niños mayores o los adultos al principio. Conclusión práctica: **expectativas realistas** y clases ricas en input.
 
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Recuerda qué hacía un niño de cinco años que conoces mientras hablaba. ¿Cuánto tiempo se quedaba en una actividad? |
+| 8–22 | Lectura guiada | Lee la tabla de atención, pensamiento, motivación y tecnología por franja de edad. |
+| 22–38 | Práctica | Escribe tres expectativas realistas para un niño de 4 años y tres para uno de 9. |
+| 38–52 | Aplicación con tu estudiante | Compara tus expectativas con una clase reciente y ajusta la duración de una actividad. |
+| 52–60 | Cierre | Anota la franja de edad que más te cuesta y qué vas a cambiar en la próxima clase. |
+
 ## Niños que todavía no saben leer
 
 > **Objetivo de la lección:** diseñar clases completamente orales y visuales para niños de 4–6 años.
@@ -76,6 +86,16 @@ Las edades son aproximadas; el desarrollo varía mucho entre niños y contextos.
 
 Ver la [clase de prueba para un niño que no sabe leer](/clases/clase-prueba-nino-no-lector/).
 
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Describe una clase de niños sin texto. ¿Qué instrucción dirías con gesto? |
+| 8–22 | Lectura guiada | Lee los principios para no lectores y la tabla de actividades (busca y trae, Simón dice, la caja misteriosa). |
+| 22–38 | Práctica | Prepara la mini-secuencia de los animales de la granja con tarjetas grandes, sin texto. |
+| 38–52 | Aplicación con tu estudiante | Haz la secuencia con un niño o con un adulto que haga de niño y observa las respuestas no verbales. |
+| 52–60 | Cierre | Escribe qué juego repetirías y cuál cambiarías. |
+
 ## Comprensión antes que producción
 
 > **Objetivo de la lección:** respetar el periodo de silencio y diseñar respuestas no verbales que demuestren comprensión.
@@ -95,6 +115,16 @@ Sube un peldaño cuando el niño responda con seguridad en el anterior. **Celebr
 
 > [!CONSEJO] Evita la pregunta «¿Cómo se dice…?» con los más pequeños
 > Para un niño de 4 años, traducir es una tarea metalingüística difícil. Es mejor que use la palabra en un juego: «¿Qué quiere comer el conejo?» que «¿Cómo se dice *carrot*?».
+
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Recuerda un niño que no hablaba pero obedecía instrucciones. ¿Qué hacía? |
+| 8–22 | Lectura guiada | Lee la escalera de respuesta, de señalar a producir frases propias. |
+| 22–38 | Práctica | Diseña cinco preguntas para un mismo vocabulario, cada una en un peldaño distinto. |
+| 38–52 | Aplicación con tu estudiante | Aplícalas con un niño y registra en qué peldaño responde con seguridad. |
+| 52–60 | Cierre | Escribe cómo celebrarás cada peldaño superado. |
 
 ## Alfabetización inicial y conciencia fonológica
 
@@ -130,6 +160,16 @@ La **conciencia fonológica** (percibir y manipular los sonidos de las palabras)
 > [!NOTA] Método sintético o global
 > Existe un debate largo sobre métodos de alfabetización (fonético-sintéticos frente a globales o comunicativos). La investigación sobre lectura en lenguas alfabéticas apoya la **enseñanza explícita y sistemática de la correspondencia entre letras y sonidos**, combinada con lectura significativa. En un contexto de L2 online, conviene también coordinarse con el enfoque que el niño sigue en su escuela.
 
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Piensa en dos palabras que riman y en dos que empiezan por el mismo sonido. |
+| 8–22 | Lectura guiada | Lee la tabla de conciencia fonológica y la secuencia inicial de la lectoescritura. |
+| 22–38 | Práctica | Prepara tres juegos de rimas y sílabas con dibujos, sin texto escrito. |
+| 38–52 | Aplicación con tu estudiante | Aplícalos con un niño que ya está aprendiendo a leer en su escuela y pregunta a la familia qué método siguen. |
+| 52–60 | Cierre | Escribe qué acuerdo necesitas con la familia antes de introducir la lectura en español. |
+
 ## Vocabulario sin repetición mecánica
 
 > **Objetivo de la lección:** lograr las muchas repeticiones que necesita el vocabulario sin aburrir al niño.
@@ -151,6 +191,16 @@ Los niños necesitan encontrarse muchas veces con una palabra para aprenderla. E
 ### Cuántas palabras por clase
 
 Con niños pequeños, **5–8 palabras nuevas por clase** suele ser un objetivo razonable, siempre que se reciclen en clases posteriores. Es preferible pocas palabras bien aprendidas que listas largas olvidadas.
+
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Recuerda una palabra que un niño aprendió en un juego y olvidó al día siguiente. |
+| 8–22 | Lectura guiada | Lee las técnicas de repetición con variación y el límite de palabras por clase. |
+| 22–38 | Práctica | Diseña tres juegos distintos con las mismas seis frutas (busca, tienda, monstruo). |
+| 38–52 | Aplicación con tu estudiante | Haz los juegos en tres clases seguidas y registra cuántas palabras recuerda. |
+| 52–60 | Cierre | Escribe la lista de palabras que reciclarás la semana siguiente. |
 
 ## Atención, variedad y gestión de la clase online
 
@@ -181,6 +231,16 @@ Con niños pequeños, **5–8 palabras nuevas por clase** suele ser un objetivo 
 - **Si el niño se distrae, involúcralo** («¿Qué tienes ahí? ¡Enséñamelo!») en lugar de reñirle.
 - **Ten actividades de reserva** para cambiar de plan.
 
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Describe el momento en que un niño se distrajo en tu última clase. ¿Qué lo provocó? |
+| 8–22 | Lectura guiada | Lee la duración recomendada y la estructura de 30 minutos con alternancia de movimiento y calma. |
+| 22–38 | Práctica | Escribe tu propia estructura de 30 minutos con señales de transición. |
+| 38–52 | Aplicación con tu estudiante | Ensaya la clase con cronómetro y anota las transiciones que fallan. |
+| 52–60 | Cierre | Ajusta una transición y escribe la señal que usarás. |
+
 ## Participación familiar en las clases online
 
 > **Objetivo de la lección:** acordar con la familia un papel útil del adulto durante la clase.
@@ -197,6 +257,16 @@ Con los más pequeños, la presencia de un adulto suele ser **necesaria** (por r
 
 > [!CONSEJO] Una breve guía para las familias
 > Envía antes de la primera clase un mensaje con: materiales que conviene tener (lápices de colores, papel, un peluche), cómo preparar el espacio (luz, silencio, dispositivo fijo), qué papel esperas del adulto y cómo pueden apoyar entre clases (escuchar juntos la canción, jugar al «veo veo»).
+
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Recuerda una vez en que un adulto respondió por el niño. ¿Cómo se sintió el niño? |
+| 8–22 | Lectura guiada | Lee la tabla de cuándo el adulto ayuda y cuándo interfiere. |
+| 22–38 | Práctica | Escribe el mensaje previo para la familia con el papel del adulto en tres frases. |
+| 38–52 | Aplicación con tu estudiante | Envía el mensaje a una familia real (o simulada) y prepara la respuesta que darías si el adulto interfiere. |
+| 52–60 | Cierre | Guarda la plantilla del mensaje para las próximas familias. |
 
 ## Ritmos y necesidades educativas diferentes
 
@@ -221,6 +291,16 @@ Con los más pequeños, la presencia de un adulto suele ser **necesaria** (por r
 > [!ATENCION] Fuera de tu función
 > Un tutor de idiomas **no** está capacitado para diagnosticar TDAH, dislexia, trastornos del lenguaje, autismo u otras condiciones. Tampoco debe sugerir medicación ni terapias concretas. Tu papel es observar, adaptar y comunicar.
 
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Piensa en un niño que te preocupó. ¿Qué observaste exactamente, sin etiquetarlo? |
+| 8–22 | Lectura guiada | Lee las adaptaciones generales y los pasos cuando observas dificultades persistentes. |
+| 22–38 | Práctica | Escribe una observación objetiva de tres líneas sobre un caso con ejemplos concretos. |
+| 38–52 | Aplicación con tu estudiante | Prueba una adaptación en la clase y registra si funciona. |
+| 52–60 | Cierre | Escribe el mensaje a la familia sin diagnósticos, solo con observaciones y preguntas. |
+
 ## La clase de prueba infantil y la comunicación con las familias
 
 > **Objetivo de la lección:** diseñar una clase de prueba infantil y comunicarte de forma profesional con padres, madres y cuidadores.
@@ -243,6 +323,16 @@ Con los más pequeños, la presencia de un adulto suele ser **necesaria** (por r
 
 Descarga la [lista de comprobación para clases infantiles](/recursos/lista-clases-infantiles/).
 
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Escribe las cuatro preguntas que harías a una familia antes de la clase de prueba. |
+| 8–22 | Lectura guiada | Lee el esquema de la clase de prueba infantil y el ejemplo de mensaje tras la clase. |
+| 22–38 | Práctica | Diseña tres juegos de 3–4 minutos para observar comprensión, producción y atención. |
+| 38–52 | Aplicación con tu estudiante | Simula la clase de prueba y el mensaje final a la familia. |
+| 52–60 | Cierre | Revisa el mensaje con los criterios: positivo, concreto y sin comparaciones. |
+
 ## Actividades por perfil lector
 
 > **Objetivo de la lección:** disponer de un repertorio de actividades para niños no lectores, prelectores y lectores.
@@ -260,6 +350,16 @@ Descarga la [lista de comprobación para clases infantiles](/recursos/lista-clas
 3. **Clase 3:** escribe una ficha sencilla (nombre, dónde vive, qué come, cómo es) y la presenta como un «documental».
 
 **Evaluación:** el niño describe su animal con al menos 5 frases comprensibles y responde a 3 preguntas del tutor.
+
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Recuerda una actividad que funcionó con un niño que no lee y otra con uno que lee. |
+| 8–22 | Lectura guiada | Lee la tabla de actividades por perfil y el proyecto «Mi animal fantástico». |
+| 22–38 | Práctica | Elige una actividad para cada perfil y prepara los materiales. |
+| 38–52 | Aplicación con tu estudiante | Prueba la actividad del perfil que tengas más cerca y registra la participación. |
+| 52–60 | Cierre | Anota qué perfil necesita más apoyo y qué cambiarás. |
 
 ## Sesión de 60 minutos: diseñar un bloque de tres clases para un niño de 6 años {#sesion-60}
 
@@ -314,3 +414,14 @@ Descarga la [lista de comprobación para clases infantiles](/recursos/lista-clas
 - [ ] El vocabulario se presenta en contexto y se recicla en varios juegos.
 - [ ] El papel del adulto está definido.
 - [ ] El mensaje a la familia es positivo, concreto y profesional.
+
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Revisa las notas de las lecciones anteriores sobre niños. |
+| 8–22 | Lectura guiada | Lee la tarea práctica y la lista de comprobación para clases infantiles. |
+| 22–38 | Práctica | Responde el cuestionario y revisa las retroalimentaciones. |
+| 38–52 | Aplicación con tu estudiante | Diseña la clase de 30 minutos para un niño de 6 años con rutinas, palabras, juegos y mensaje a la familia. |
+| 52–60 | Cierre | Marca la lista de comprobación y anota lo que falta. |
+

@@ -54,6 +54,16 @@ Hay distintas clasificaciones; una muy citada en la didáctica de ELE (propuesta
 - **Yeísmo** (no se distingue *ll* de *y*), hoy mayoritario también en España.
 - **Preferencia del indefinido** en muchas zonas para hechos pasados recientes (*hoy comí*), aunque el uso del perfecto varía por regiones.
 
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Escribe las áreas dialectales que conoces y los rasgos que asocias a cada una. |
+| 8–22 | Lectura guiada | Lee la tabla de áreas dialectales y la lista de rasgos generales compartidos. |
+| 22–38 | Práctica | Ubica en un mapa tres hablantes que conozcas y anota un rasgo de cada uno. |
+| 38–52 | Aplicación con tu estudiante | Compara los rasgos con un estudiante de otra variedad y pide que te corrija tus ideas. |
+| 52–60 | Cierre | Escribe la advertencia de que las fronteras dialectales no son nacionales. |
+
 ## El español de Colombia
 
 > **Objetivo de la lección:** presentar la diversidad del español de Colombia con rigor y sin estereotipos.
@@ -92,6 +102,16 @@ Colombia tiene varias áreas dialectales reconocidas por la dialectología (el A
 > | *de una* | ¡claro!, inmediatamente | coloquial |
 >
 > Estos usos varían según región, edad y contexto. Algunos (*chévere*, *ahorita*) se comparten con otros países con matices diferentes.
+
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Escribe las palabras colombianas que conoces y de qué región vienen. |
+| 8–22 | Lectura guiada | Lee la tabla de zonas, los rasgos pragmáticos y el pequeño glosario. |
+| 22–38 | Práctica | Completa la tabla de expresiones con un ejemplo de uso y su registro. |
+| 38–52 | Aplicación con tu estudiante | Propón al estudiante una situación de cortesía colombiana y observa su reacción. |
+| 52–60 | Cierre | Anota las expresiones que enseñarás y las que solo se entenderán sin usar. |
 
 ## Diferencias de vocabulario, pronunciación y uso
 
@@ -132,6 +152,16 @@ Colombia tiene varias áreas dialectales reconocidas por la dialectología (el A
 | Diminutivos | *-ito*, *-ico* (*momentico*), *-illo* | *-ico* tras /t/ en Colombia, Venezuela, Costa Rica, Cuba… |
 | Leísmo | *A Juan le vi* | Zonas de España |
 
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Escribe cinco palabras de tu variedad que puedan sorprender a un hablante de otro país. |
+| 8–22 | Lectura guiada | Lee las tablas de vocabulario, pronunciación y uso. |
+| 22–38 | Práctica | Crea una tabla de equivalencias para una categoría de palabras que enseñes. |
+| 38–52 | Aplicación con tu estudiante | Usa la tabla con el estudiante y pide que añada dos formas de su país. |
+| 52–60 | Cierre | Escribe una regla práctica para decidir qué variante enseñar. |
+
 ## Explicar la variación sin jerarquías
 
 > **Objetivo de la lección:** desarrollar un discurso docente respetuoso con todas las variedades.
@@ -161,6 +191,16 @@ Una propuesta razonable:
 3. **Reflexión explícita** sobre la variación a partir de B1.
 4. **Respeto a la elección del estudiante**, que puede preferir otra variedad por sus objetivos (vive en México, tiene pareja argentina…).
 
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Escribe una frase que hayas oído que califique una variedad como mejor o peor. |
+| 8–22 | Lectura guiada | Lee las actitudes que conviene evitar, las alternativas y la evidencia sociolingüística. |
+| 22–38 | Práctica | Reescribe tres frases con juicios de valor en formulaciones neutras. |
+| 38–52 | Aplicación con tu estudiante | Explica una variante con esas formulaciones a un estudiante y pide su reacción. |
+| 52–60 | Cierre | Escribe qué variedad enseñarás como referencia y por qué. |
+
 ## Expresiones coloquiales y registros
 
 > **Objetivo de la lección:** enseñar el español coloquial y los registros con criterio y en el momento adecuado.
@@ -185,6 +225,16 @@ Una propuesta razonable:
 > [!ATENCION] Palabras que cambian de país a país
 > Algunas palabras inofensivas en un país pueden resultar vulgares en otro. Antes de enseñar léxico coloquial, verifica su uso en la región correspondiente con fuentes fiables (diccionarios académicos y de americanismos) y explica el contexto con naturalidad.
 
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Recuerda una expresión coloquial que usaste en el contexto equivocado. |
+| 8–22 | Lectura guiada | Lee el continuo de registros y los criterios para enseñar coloquialismos. |
+| 22–38 | Práctica | Ordena cinco formas de pedir algo del registro más formal al más coloquial. |
+| 38–52 | Aplicación con tu estudiante | Usa la actividad con el estudiante y pregúntale en qué situación usaría cada una. |
+| 52–60 | Cierre | Anota la expresión que advertirías como tabú en otro país. |
+
 ## Usos regionales frente a errores
 
 > **Objetivo de la lección:** decidir con criterio si una forma del estudiante es un error o una variante legítima.
@@ -204,6 +254,16 @@ Una propuesta razonable:
 | *Le vi a tu hermano ayer* | Leísmo (admitido para OD masculino de persona en singular) | No es un error según la norma académica; comentar que en América es poco frecuente |
 | *\*Les vi a tus hermanas* | Leísmo no admitido (OD femenino) | Explicar la forma *las vi* |
 | *Habían muchas personas* | Uso extendido en muchas zonas, pero no recomendado por la norma académica (*había*) | Explicar la norma y la realidad de uso |
+
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Piensa en una forma de tu estudiante que te pareció un error. ¿Y si fuera regional? |
+| 8–22 | Lectura guiada | Lee las cuatro preguntas de diagnóstico y la tabla de ejemplos. |
+| 22–38 | Práctica | Diagnostica cinco formas dadas: variante, error, mezcla o registro. |
+| 38–52 | Aplicación con tu estudiante | Aplica el diagnóstico a una producción real del estudiante anonimizada. |
+| 52–60 | Cierre | Escribe qué corregirías y qué dejarías, con la razón. |
 
 ## Seleccionar materiales auténticos
 
@@ -225,6 +285,16 @@ Una propuesta razonable:
 - Diccionarios: *Diccionario de la lengua española*, *Diccionario de americanismos* (ASALE), *Diccionario panhispánico de dudas*.
 
 Consulta los enlaces en la [bibliografía](/bibliografia/#variacion) y la [clase modelo de español colombiano y variación](/clases/espanol-colombiano-variacion/).
+
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Escribe dónde buscas materiales auténticos y si los puedes usar legalmente. |
+| 8–22 | Lectura guiada | Lee los criterios de selección y las fuentes públicas recomendadas. |
+| 22–38 | Práctica | Selecciona un material auténtico de un país que no conozcas bien, de acceso público. |
+| 38–52 | Aplicación con tu estudiante | Diseña la tarea para un B1 con ese material y revísala con el criterio de adecuación al nivel. |
+| 52–60 | Cierre | Anota la fuente, la licencia y el enlace oficial del material. |
 
 ## Sesión de 60 minutos: una actividad sobre variación sin jerarquías {#sesion-60}
 
@@ -278,3 +348,14 @@ Consulta los enlaces en la [bibliografía](/bibliografia/#variacion) y la [clase
 - [ ] La tarea es adecuada al nivel aunque el texto no esté adaptado.
 - [ ] Los rasgos señalados están comprobados en fuentes fiables.
 - [ ] El discurso no presenta ninguna variedad como inferior.
+
+### Plan de 60 minutos
+
+| Min. | Bloque | Qué hacer |
+|---|---|---|
+| 0–8 | Activación | Revisa las notas del módulo y anota la idea que más te cambió. |
+| 8–22 | Lectura guiada | Lee la tarea práctica y la lista de comprobación. |
+| 22–38 | Práctica | Responde el cuestionario y revisa las retroalimentaciones. |
+| 38–52 | Aplicación con tu estudiante | Diseña la actividad de 20 minutos sobre una variedad, con tres rasgos y una reflexión. |
+| 52–60 | Cierre | Marca la lista de comprobación y confirma que ningún rasgo califica una variedad. |
+
