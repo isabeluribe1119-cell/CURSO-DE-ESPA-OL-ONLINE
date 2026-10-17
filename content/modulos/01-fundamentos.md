@@ -65,6 +65,12 @@ La diferencia no es solo terminológica: **cambia lo que necesita el estudiante*
 > [!ACTIVIDAD] Tu perfil lingüístico como docente
 > Escribe un párrafo breve respondiendo: ¿qué variedad de español hablas?, ¿qué otras lenguas conoces y a qué nivel?, ¿qué parte de la gramática del español te costaría más explicar? Guárdalo: lo usarás en el Módulo 14 para definir tu propuesta de valor.
 
+### Tres confusiones habituales
+
+Antes de seguir, conviene desmontar tres ideas que suelen aparecer en los primeros meses de un tutor. La primera es que **hablar bien implica enseñar bien**. Un hablante nativo puede ser un excelente interlocutor y, al mismo tiempo, no saber explicar por qué se usa *ser* o *estar* con un adjetivo, ni detectar que un estudiante confunde *por* y *para* en cada frase. La segunda es que **un estudiante que se equivoca poco ya no necesita trabajar la gramática**. Muchas veces evita las estructuras difíciles y, por eso, sus errores no aparecen en la conversación. La tercera es que **la conversación libre basta para aprender**. Conversar es imprescindible, pero sin objetivos, retroalimentación y revisión, la práctica consolida lo que el estudiante ya hace bien y deja intactos sus puntos débiles.
+
+Si reconoces alguna de estas ideas en tu forma de trabajar, no te preocupes: es el punto de partida de casi todos los tutores. Lo importante es comprobarla con datos de tus propias clases, por ejemplo revisando tus notas de errores de las últimas semanas, en lugar de confiar en la impresión general de que «va bien».
+
 ### Plan de 60 minutos
 
 | Min. | Bloque | Qué hacer |
@@ -101,6 +107,17 @@ Independientemente de la etiqueta, al cobrar por enseñar te comprometes a:
 
 > [!CONSEJO] Elige un rol principal para tu perfil
 > Es más fácil comunicar tu valor si el estudiante entiende qué recibirá. «Te acompaño a practicar conversación con corrección sistemática y un informe mensual» es más claro que «clases de todo para todos».
+
+### Cómo elegir tu rol según tu contexto
+
+No hay un rol correcto en abstracto. La elección depende de tres factores: qué pide tu público, cuánto tiempo puedes dedicar cada semana y qué tipo de trabajo te resulta sostenible a medio plazo. Si tus estudiantes buscan práctica de conversación para viajar, el rol de tutor con corrección diferida suele ser el más adecuado: tu trabajo consiste en crear un espacio seguro, proponer temas y registrar los errores recurrentes para trabajarlos poco después. Si, en cambio, preparan un examen oficial, necesitas asumir también el papel de profesor: programar unidades, asignar tareas con plazos y evaluar con criterios explícitos. Y si tu fuerte es el diseño de recursos, quizá te convenga combinar el rol de creador de materiales con el de tutor, ofreciendo las fichas y las sesiones como un paquete coherente.
+
+> [!EJEMPLO] Una decisión de rol paso a paso
+> Imagina a una tutora con experiencia en educación primaria que quiere atender a familias con niños pequeños. Antes de elegir, anota tres datos: la edad de los niños, si un adulto acompañará las sesiones y cuánto tiempo tendrá disponible cada semana. Con esa información decide que su rol principal será el de facilitadora de juegos y tareas breves, y que la preparación de exámenes queda fuera de su oferta por ahora.
+
+### Errores al combinar roles
+
+Combinar roles sin decidirlo es frecuente. Un error típico es ofrecer clases de conversación con tarifa de tutor y, en la misma descripción, prometer una preparación de examen con programación completa. El estudiante no sabe qué recibe y tú no sabes qué medir. Para evitarlo, escribe una frase que resuma tu oferta: qué harás, con quién y con qué evidencia de progreso. Si no puedes escribirla en dos líneas, probablemente estás intentando cubrir demasiados roles a la vez.
 
 ### Plan de 60 minutos
 
@@ -152,6 +169,24 @@ Puntúa cada competencia de 1 (necesito formarme) a 4 (la domino y podría ense�
 | Comunidad profesional | | | | | 17 |
 | Tecnologías | | | | | 9, 12, 16 |
 
+### Competencias en la práctica: un caso
+
+Veamos cómo se aplica la segunda competencia (evaluar el aprendizaje) en una clase concreta. Una tutora trabaja con un estudiante de nivel B1 que describe su trabajo con frases correctas, pero se queda sin recursos cuando debe justificar una decisión. Antes de corregirlo, la tutora hace tres cosas: anota el tipo de error (morfológico, léxico o de registro), decide si el error afecta a la comprensión y compara ese patrón con la sesión anterior. Descubre que el problema no es la gramática, sino la falta de conectores de causa y consecuencia.
+
+Con esa evidencia diseña la siguiente sesión: una actividad de debate breve con una lista de conectores y una grabación que el estudiante escuchará después. No ha hecho un examen, pero ha obtenido una decisión concreta. Esa es la diferencia entre evaluar y simplemente observar.
+
+### Señales de que una competencia necesita formación
+
+Algunas señales indican que tu punto débil merece atención inmediata:
+
+- Repites el mismo tipo de error durante semanas sin saber por qué.
+- Terminas las clases sin tener claro qué ha aprendido el estudiante.
+- Te cuesta explicar por qué elegiste una actividad concreta.
+- La tecnología te quita más tiempo del que dedicas a enseñar.
+- Sales de la clase agotado porque has tenido que gestionar tensiones que no estaban planificadas.
+
+Cada señal corresponde a una competencia de la lista. Usa la autoevaluación de esta lección para relacionarlas y elige la primera acción que vas a emprender. Un curso, una lectura o la grabación de tus propias clases son opciones realistas.
+
 ### Plan de 60 minutos
 
 | Min. | Bloque | Qué hacer |
@@ -199,6 +234,21 @@ A veces las tres coinciden. A menudo no: alguien puede *querer* conversar sin co
 
 Usa la [plantilla de análisis de necesidades](/recursos/analisis-necesidades/) para estructurar la entrevista.
 
+### Cómo registrar la entrevista sin perder el ritmo
+
+Tomar notas durante la entrevista puede romper la conversación si no lo planificas. Una opción práctica es preparar una plantilla con tres columnas (necesidad objetiva, deseo y motivación) y anotar solo palabras clave mientras el estudiante habla. Después de la entrevista, dedica cinco minutos a completar las frases. Pide permiso al inicio para tomar notas y explica que las usarás para diseñar el plan, no para juzgar.
+
+### Cuando deseo y necesidad no coinciden
+
+Si el estudiante quiere conversar sin correcciones pero necesita precisión para un examen, no elijas uno de los dos extremos. Sigue estos pasos:
+
+1. Reconoce el deseo y explica su valor: la fluidez se entrena hablando.
+2. Muestra la necesidad con un ejemplo real, como una pregunta de entrevista o un correo formal que tendría que escribir.
+3. Propón un acuerdo concreto, por ejemplo, corregir solo tres tipos de error durante la actividad y hacer un repaso al final de la sesión.
+4. Revisa el acuerdo en cuatro semanas y ajústalo según el progreso.
+
+Así, el estudiante percibe que tus decisiones responden a sus propios objetivos y no a un método genérico.
+
 ### Plan de 60 minutos
 
 | Min. | Bloque | Qué hacer |
@@ -245,6 +295,14 @@ Los descriptores completos están en el MCER y su volumen complementario (ver [M
 - **C2:** comprende prácticamente todo; matiza con precisión en situaciones complejas.
 
 Descarga la [ficha de diagnóstico](/recursos/ficha-diagnostico/) para registrar tus observaciones.
+
+### Errores de diagnóstico frecuentes
+
+Algunos errores hacen que el diagnóstico pierda utilidad. El más habitual es **confundir fluidez con nivel**: un estudiante que habla deprisa puede tener un vocabulario limitado o cometer errores de concordancia que no notas en una conversación cordial. Otro es **hacer demasiadas preguntas de respuesta cerrada**, que no revelan nada sobre la capacidad de argumentar. También es frecuente **diagnosticar con el tema que mejor dominas**, de modo que el estudiante parece más competente de lo que es. Para evitarlo, varía los formatos (descripción, narración, opinión, comprensión) y registra por separado cada destreza.
+
+### Cómo comunicar el diagnóstico
+
+Cuando presentes los resultados, empieza por lo que el estudiante hace bien y usa un lenguaje descriptivo, no numérico. Por ejemplo: «Te comunicas con claridad cuando narras experiencias personales. Tu siguiente reto es usar el pretérito imperfecto para describir el contexto de esas historias». Evita etiquetas como «tienes nivel bajo» y sustitúyelas por indicaciones de trabajo. Termina preguntando qué le parece la prioridad propuesta: un diagnóstico que el estudiante no entiende o no comparte difícilmente guiará el plan.
 
 ### Plan de 60 minutos
 
@@ -296,6 +354,22 @@ Los objetivos de clase deben **sumar** hacia los de unidad, y estos hacia el de 
 
 Usa la [plantilla de objetivos SMART](/recursos/objetivos-smart/).
 
+### Procedimiento para redactar un objetivo
+
+Puedes seguir este proceso cada vez que necesites escribir un objetivo:
+
+1. Escribe la intención en una frase, aunque sea vaga («quiere hablar de su trabajo»).
+2. Sustituye el verbo por una acción observable: *presentar, narrar, pedir, resumir*.
+3. Añade la situación real donde ocurrirá la acción.
+4. Indica los recursos lingüísticos esperados y el nivel de logro.
+5. Lee el resultado en voz alta y pregúntate si otro tutor podría observar si se cumple.
+
+Si la respuesta es no, vuelve al paso 2. Con práctica, el proceso se hace en dos minutos.
+
+### Cuándo reformular un objetivo
+
+Un objetivo bien escrito puede quedarse corto o resultar inalcanzable. Revísalo si el estudiante lo cumple de forma sistemática antes de lo previsto, si las tareas de la unidad no conducen a él o si el contexto del estudiante cambia (un traslado, un nuevo empleo, un examen cercano). Reformular no es fracasar. Documenta el cambio, explícale al estudiante el motivo y ajusta el criterio de logro para que siga siendo medible.
+
 ### Plan de 60 minutos
 
 | Min. | Bloque | Qué hacer |
@@ -340,6 +414,21 @@ Usa la [plantilla de objetivos SMART](/recursos/objetivos-smart/).
 
 Descarga la [plantilla de plan individual](/recursos/plan-individual/).
 
+### Cómo distribuir el tiempo de un plan
+
+Un plan de ocho semanas necesita un reparto razonable entre práctica, input y evaluación. Por ejemplo, con un estudiante que tiene dos clases semanales, puedes reservar la mayor parte de cada sesión a producción oral guiada, dejar una parte breve para revisar los errores recurrentes y asignar el trabajo autónomo a comprensión y vocabulario. Conviene que las evaluaciones no ocupen más de una pequeña parte de las sesiones, porque el objetivo es aprender y no solo medir. Estas proporciones son orientativas: ajústalas según el estudiante y el objetivo.
+
+### Errores comunes al planificar
+
+- **Planificar demasiado contenido.** Doce funciones en una unidad de dos semanas producen tareas superficiales. Elige dos o tres por unidad.
+- **Olvidar la tarea final.** Sin un producto concreto, el estudiante no sabe qué tiene que lograr.
+- **No dejar margen.** Si el plan no admite imprevistos, cualquier semana perdida lo hace fracasar.
+- **Separar el plan de la clase.** Si cada sesión parece un tema nuevo, el estudiante no percibe la continuidad.
+
+### Revisar el plan sin reescribirlo entero
+
+Cada cuatro semanas, compara lo previsto con lo logrado. Anota qué tareas se completaron, cuáles se quedaron a medias y qué errores siguen apareciendo. Si el progreso es bueno, mantén la secuencia y amplía la complejidad de la tarea final. Si hay retrasos, reduce contenidos antes que plazos: es preferible cumplir menos objetivos con calidad que acumular deuda de aprendizaje.
+
 ### Plan de 60 minutos
 
 | Min. | Bloque | Qué hacer |
@@ -369,6 +458,21 @@ Descarga la [plantilla de plan individual](/recursos/plan-individual/).
 
 > [!ACTIVIDAD] Analiza una clase propia
 > Graba (con permiso explícito del estudiante) o recuerda con detalle una clase reciente. Estima qué porcentaje del tiempo hablaste tú. Identifica en la tabla anterior un error que cometiste y escribe qué harás diferente en la próxima clase.
+
+### Cómo corregir sin cortar la conversación
+
+Corregir no siempre exige detener la conversación. Estas técnicas permiten atender al error sin romper el flujo:
+
+- **Reformulación (recast):** repites la frase correctamente, sin señalar el error. Si el estudiante dice «yo fui al cine ayer por la noche» y tú respondes «¡Ah, fuiste al cine anoche! ¿Qué viste?», el mensaje queda claro.
+- **Pregunta de aclaración:** «¿Quieres decir que lo hiciste ayer o que lo haces todos los días?» obliga al estudiante a reparar el error por sí mismo.
+- **Señal visual o gestual:** una mano que indica «espera» o un dedo levantado para pedir una pausa, si lo habéis pactado antes.
+- **Anotación para después:** escribes el error en un registro compartido y lo trabajas en el cierre.
+
+Ninguna técnica es universal. Un estudiante muy ansioso puede necesitar solo reformulaciones durante semanas. Otro, que pide corrección inmediata, agradecerá preguntas de aclaración.
+
+### Errores que conviene priorizar
+
+Prioriza los errores que afectan a la comprensión, los que se repiten con frecuencia y los que están relacionados con el objetivo de la clase. Un error de concordancia en un correo formal puede importar más que una mala pronunciación de una palabra poco frecuente. Ante la duda, pregúntate: si el estudiante no corrige esto, ¿se malinterpretará su mensaje o su imagen? Si la respuesta es sí, merece atención.
 
 ### Plan de 60 minutos
 
@@ -401,6 +505,26 @@ Descarga la [plantilla de plan individual](/recursos/plan-individual/).
 **Preguntas para cerrar la sesión:** ¿qué bloque se alargó más de lo previsto? ¿Qué parte te resultó más útil para tu práctica? ¿Qué harás de forma distinta la próxima vez?
 
 **Evaluación de la sesión:** el plan tiene objetivos medibles, un diagnóstico por destrezas y una fecha de revisión. Si falta alguno, repite la sesión con el mismo perfil.
+
+### Antes de la sesión: preparación mínima
+
+Una sesión de una hora solo funciona si llegas con el material listo. Revisa la ficha de diagnóstico, la plantilla de objetivos y la plantilla de plan individual; abre el documento donde tomarás notas y comprueba que la cámara, el micrófono y la conexión funcionan. Si el estudiante es real, envíale antes un mensaje breve con la estructura de la sesión, para que sepa qué esperar y pueda pensar sus respuestas sobre necesidades.
+
+### Durante la sesión: control del tiempo
+
+El riesgo principal es que la entrevista se alargue y el plan quede sin tiempo. Ten un temporizador visible y acuerda con el estudiante que, si un bloque se extiende, el siguiente se reduce. El cierre nunca se elimina: en ese momento se decide la tarea y se fija la próxima cita. Si el tiempo se acaba antes de escribir el plan, deja por escrito un esquema y propón completar la parte que falta en la siguiente sesión.
+
+### Después de la sesión: registro y seguimiento
+
+En los diez minutos posteriores, completa las notas con frases claras y guárdalas en la plantilla de seguimiento. Anota el tono emocional de la entrevista, las palabras que el estudiante usó para describir sus metas y cualquier dato que te haya sorprendido. Envía después un resumen breve con los objetivos acordados y la tarea. Ese mensaje demuestra profesionalidad y facilita que el estudiante recuerde lo decidido.
+
+### Adaptaciones según el perfil
+
+Esta sesión está pensada para un adulto con cierta autonomía. Con un adolescente, reduce la entrevista a preguntas concretas sobre intereses y usos, y dedica más tiempo al diagnóstico mediante actividades lúdicas. Con un principiante absoluto (A1), las preguntas deben apoyarse en imágenes y hacerse en español sencillo; quizá el diagnóstico sea más breve y el plan abarque cuatro semanas. Con un estudiante avanzado (C1), el diagnóstico debe centrarse en la precisión y el registro, y los objetivos pueden referirse a la escritura profesional o académica.
+
+### Cierre de la sesión: cómo dejar el compromiso claro
+
+Los últimos tres minutos determinan si la sesión se traduce en acción. Repite en voz alta los tres objetivos acordados y pregunta al estudiante qué tarea va a hacer antes de la próxima clase y en qué día. Si la respuesta es vaga («intentaré practicar»), concrétala: «¿Puedes enviarme un audio de dos minutos el miércoles?». Antes de despedirte, confirma la fecha de la siguiente sesión y la de revisión del plan. Un compromiso concreto, con fecha y formato, vale mucho más que una lista larga de intenciones.
 
 ## Evaluación y tarea del módulo {#evaluacion}
 
@@ -436,6 +560,29 @@ Descarga la [plantilla de plan individual](/recursos/plan-individual/).
 - [ ] Los objetivos de unidad conducen al objetivo de curso.
 - [ ] El plan incluye trabajo autónomo realista y fechas de evaluación.
 - [ ] El plan responde a las necesidades detectadas, no a un libro de texto genérico.
+
+### Cómo usar la autoevaluación del módulo
+
+Antes de responder el cuestionario, repasa cada lección y escribe en una frase su idea central. Si no puedes hacerlo, vuelve a leerla. El cuestionario comprueba si entiendes las distinciones (por ejemplo, entre diagnóstico y certificación, o entre deseo y necesidad), no si recuerdas términos de memoria. Cuando respondas, explica por qué descartas cada opción equivocada: esa explicación te servirá el día en que tengas que justificar una decisión ante un estudiante.
+
+### Errores típicos en la tarea práctica
+
+- **Diagnóstico sin registro.** Describir un diagnóstico de memoria no permite comprobar qué destrezas has evaluado. Anota respuestas concretas.
+- **Objetivos con verbos vagos.** «Conocer», «entender» o «mejorar» deben reescribirse con una acción observable.
+- **Plan con todo el contenido posible.** Un plan de ocho semanas no necesita abarcar toda la gramática de A2. Elige lo que el estudiante necesita.
+- **Olvidar el trabajo autónomo.** Un plan sin tareas fuera de clase reparte mal el tiempo de aprendizaje.
+
+### Ejemplo trabajado: de la entrevista al plan
+
+Supón una estudiante de 34 años, con formación en contabilidad, que quiere trabajar en una empresa de habla hispana y tiene seis semanas de preparación. El diagnóstico muestra comprensión oral B1, expresión oral A2 y escritura A2 con errores en los conectores. El objetivo de curso es «presentar su experiencia profesional en una entrevista de 10 minutos, respondiendo a preguntas imprevistas». Los objetivos de unidad serían: en las semanas 1 y 2, describir su trayectoria con pretérito perfecto e indefinido; en las semanas 3 y 4, responder preguntas sobre fortalezas usando conectores de causa y consecuencia; en las semanas 5 y 6, simular la entrevista completa con grabación. El trabajo autónomo incluye 15 minutos diarios de vocabulario profesional y un audio semanal. La evaluación se hace con una rúbrica de tres criterios y una revisión en la semana 4.
+
+### Cómo presentar la tarea
+
+Entrega tu tarea de forma que puedas revisarla dentro de un año sin contexto: fecha, perfil (real o simulado, sin datos identificables), diagnóstico, objetivos y plan, idealmente en una sola página. Si tu estudiante es real, anonimízalo en el archivo y guarda el consentimiento aparte. Esta tarea será la base de tu proyecto final, así que escríbela pensando en un lector que no te conoce.
+
+### Si la tarea no llega al nivel esperado
+
+Es normal que la primera versión de tu plan tenga huecos. Antes de darla por cerrada, compara tu trabajo con los criterios de autoevaluación de la lista y marca los que no cumple. Para cada criterio no cumplido, escribe una acción concreta: por ejemplo, reescribir un objetivo con un verbo observable o añadir la fecha de revisión que falta. Si tu caso es real, pide al estudiante su opinión sobre la claridad del plan; su respuesta suele revelar lo que tú das por obvio. Revisar un plan dos veces siempre mejora el resultado, y ese hábito de revisión es precisamente lo que se espera de un tutor profesional.
 
 ### Plan de 60 minutos
 

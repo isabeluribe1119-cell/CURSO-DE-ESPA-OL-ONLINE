@@ -39,6 +39,34 @@ Hay muchas formas válidas de estructurar una clase. Proponemos un esquema flexi
 > [!NOTA] Otras secuencias válidas
 > La secuencia anterior se parece al clásico PPP (presentación, práctica, producción). En la **enseñanza basada en tareas** el orden puede invertirse: primero la tarea, después el análisis de la lengua y finalmente la repetición de la tarea (Willis, 1996). Ambas son legítimas según el objetivo; lo profundizamos en el [Módulo 10](/modulos/10-metodologias/).
 
+### Qué resuelve cada fase
+
+Cada fase tiene una función distinta, y conviene pensarla como una pregunta que el estudiante necesita que respondas. La bienvenida no es un trámite: en los primeros minutos el estudiante decide si la clase le va a servir y, en la práctica, si va a hablar o a esperar. Una activación bien hecha reduce el tiempo que tarda en entrar en la lengua y evita que las primeras frases de la clase sean de comprobación técnica o charla sin propósito.
+
+La presentación y el modelado son las fases en las que más tutores se precipitan. Si explicas una estructura antes de que el estudiante la haya visto funcionar en un texto, un audio o una situación, la explicación queda en la memoria de trabajo y desaparece al terminar la sesión. Por eso conviene modelar antes de pedir: tú haces primero la tarea, en voz alta, con los pasos visibles.
+
+La práctica guiada y la producción se confunden con facilidad. La primera tiene una respuesta esperada y un apoyo claro; la segunda exige que el estudiante resuelva algo con sus propios recursos. Si en la práctica guiada acierta siempre sin pensar, todavía no conviene pasar a producción: hay que subir la exigencia de significado. Si en producción se bloquea una y otra vez en la misma frase, es probable que la práctica guiada fuera demasiado corta o demasiado cerrada.
+
+La retroalimentación y el cierre completan el ciclo. Corregir no consiste en señalar todos los errores, sino en elegir dos o tres que afectan a la comunicación y reformular lo que el estudiante quiso decir. El cierre consolida lo trabajado y deja un encargo concreto para casa.
+
+### Errores frecuentes al aplicar la secuencia
+
+- **Saltarse la activación** porque «ya sabemos de qué va la clase». El estudiante que no ha recuperado nada llega con menos recursos y produce menos.
+- **Presentar sin contexto.** Una lista de expresiones en la pizarra no es una presentación. Sin un texto, un audio o una situación que dé sentido a las expresiones, el estudiante memoriza sin entender.
+- **Practicar en exceso antes de producir.** Veinte minutos de ejercicios de completar huecos dejan la sensación de haber estudiado, pero no dan ocasión de comunicarse.
+- **Corregir cada error durante la producción.** Interrumpir cada frase rompe la tarea. Toma notas y corrige después, salvo cuando el error impide entender el mensaje.
+- **Cerrar con prisa.** El cierre es lo primero que se recorta cuando la producción se alarga; por eso conviene reservar su tiempo desde el principio.
+
+### Cómo elegir la secuencia según el objetivo
+
+La secuencia depende de lo que quieres que el estudiante consiga. Si el objetivo es una función comunicativa que todavía no domina (pedir una cita médica, reclamar un producto), suele funcionar mejor la secuencia basada en tareas: el estudiante intenta resolver la situación con lo que tiene, descubre qué le falta y después recibe el análisis de la lengua. Si el objetivo es una estructura concreta que aún no controla, como el contraste *ser* / *estar* con adjetivos de estado, la secuencia PPP ofrece más control y más oportunidades de práctica focalizada. En ambos casos la producción debe ocupar una parte real de la clase.
+
+Una pregunta útil antes de planificar es esta: «Si el estudiante no hiciera nada de lo que he planeado, ¿qué no sabría hacer al final?». La respuesta indica qué fase merece más tiempo.
+
+### Un ejemplo trabajado
+
+Imagina una clase de 50 minutos con una estudiante A2 que quiere hablar de su rutina diaria. El plan inicial empieza con veinte minutos de explicación sobre los verbos reflexivos. Al ensayarlo, el tutor observa que la estudiante entiende la explicación, pero no consigue producir ninguna frase. La revisión reordena la clase: una activación de cinco minutos con la pregunta «¿A qué hora te levantas los días de diario?», una presentación en contexto con un audio de tres rutinas, un modelado en el que el tutor describe su propia mañana, una práctica guiada con tarjetas de horas, una producción en la que la estudiante cuenta su día a un compañero imaginario y, por último, un cierre de cinco minutos. La explicación baja a cinco minutos y la producción sube a quince. El resultado no es una clase más rápida, sino una clase en la que la estudiante habla más.
+
 ### Plan de 60 minutos
 
 | Min. | Bloque | Qué hacer |
@@ -65,6 +93,37 @@ Un error habitual es planificar objetivos de semana en una clase de 50 minutos: 
 
 > [!CONSEJO] Un objetivo comunicativo y, como mucho, dos focos lingüísticos
 > En una clase de 50 minutos, un objetivo comunicativo principal (pedir en un restaurante) y uno o dos focos lingüísticos (*me pone / quería*, léxico de ingredientes) suelen ser suficientes. Más focos suelen significar menos práctica.
+
+### Cómo reducir un objetivo amplio
+
+Cuando un objetivo parece demasiado grande, no lo recortes al azar. Pregúntate qué hace exactamente una persona que domina ese contenido en una situación concreta. «Aprender el indefinido» no describe una conducta; «contar lo que hizo el fin de semana» sí. Después decide qué parte de esa conducta cabe en el tiempo disponible. Un estudiante A2 que va a contar su fin de semana necesita unos pocos verbos frecuentes, algunas expresiones de tiempo (*el sábado, por la mañana*) y una estructura de secuencia (*primero… luego… después*). Eso ya es una clase completa.
+
+Una estrategia útil es escribir el objetivo como una tarea que el estudiante podrá hacer al final, y no como un contenido que debe conocer. Compara «conocer los pronombres de objeto directo» con «decir a un compañero que has comprado el regalo y que se lo vas a dar esta tarde». La segunda versión obliga a usar el pronombre y muestra con claridad cuándo se ha conseguido.
+
+### Los cuatro elementos de la fórmula
+
+- **Verbo de acción observable:** *describir, pedir, resolver, contar, responder*. Evita los verbos internos (*entender, saber, aprender*), porque no se pueden ver.
+- **Contenido:** la función o el contenido lingüístico concreto, con su alcance (*8 verbos regulares*, *tres platos*).
+- **Situación:** dónde y con quién ocurre la tarea (*en una farmacia*, *con un compañero de trabajo*).
+- **Criterio:** cómo sabrás que se ha conseguido (*sin cambiar al inglés*, *con al menos cuatro expresiones*, *sin tarjetas*).
+
+Un objetivo sin criterio es solo una intención. El criterio no tiene que ser una cifra: puede ser una observación («resuelve el problema sin pedir que le repitas dos veces»), pero debe ser algo que puedas comprobar al final de la clase.
+
+### Errores frecuentes al redactar objetivos
+
+- **Confundir el objetivo de la clase con el del curso.** Si el objetivo cabe en un trimestre, no cabe en una sesión.
+- **Escribir objetivos de conocimiento** («conocer el léxico de la comida») en lugar de objetivos de uso.
+- **Olvidar la situación.** Sin contexto, el estudiante no sabe qué registro usar ni qué se le pide.
+- **Usar criterios imposibles de observar**, como «hablar con fluidez». Es mejor «hablar un minuto sobre su rutina sin pausas largas».
+- **Fijar objetivos que dependen de algo que no controlas**, como que el estudiante haya hecho los deberes o que el audio funcione.
+
+### Ajustar el objetivo durante la clase
+
+Un buen objetivo puede cambiarse a mitad de clase si el diagnóstico lo exige. Si el estudiante no domina la base necesaria (por ejemplo, el presente irregular que necesita para contar su rutina), reduce la tarea a una versión que pueda cumplir con lo que tiene y deja el resto para otra sesión. Anota el cambio y su motivo, para que el objetivo de la siguiente clase parta de lo que realmente ocurrió y no de lo que habías previsto.
+
+### Un ejemplo trabajado
+
+Una estudiante B1 escribe como objetivo: «Mejorar mi expresión oral». El tutor lo transforma en: «Al final de la clase, la estudiante podrá contar una experiencia de viaje de dos minutos usando el pretérito y el imperfecto en una narración, en una conversación con el tutor, con al menos tres marcadores temporales y sin pausas superiores a cinco segundos». Ahora el objetivo tiene verbo (*contar*), contenido (pretérito e imperfecto), situación (conversación con el tutor) y criterio (tres marcadores, pausas). Al ensayar, el tutor ve que tres minutos de narración no caben en una clase de 50 con otras fases, así que reduce la extensión a dos. El objetivo deja de ser ambicioso para ser cumplible, y eso permite que la estudiante lo perciba como un logro.
 
 ### Plan de 60 minutos
 
@@ -102,6 +161,36 @@ El nuevo contenido se presenta **en contexto** (un diálogo, un audio, un texto,
 
 > [!EJEMPLO] Modelar antes de pedir
 > En lugar de «Ahora describe tu casa», el tutor dice: «Te voy a describir mi casa en un minuto. Fíjate en cómo empiezo y qué palabras uso para decir dónde están las cosas». Después: «¿Qué expresiones usé para la ubicación? Ahora te toca a ti».
+
+### Activaciones según el nivel
+
+La activación debe pedir un poco menos de lo que el estudiante puede dar, pero lo suficiente para que tenga que recuperar algo. En un nivel A1 o A2, funcionan bien las preguntas cerradas con respuesta corta y las imágenes con vocabulario conocido. En B1 y B2, conviene pedir opiniones breves o comparaciones, porque obligan a recuperar estructuras y no solo palabras. En C1 y C2, una pregunta abierta sobre un tema de actualidad o un dilema personal puede servir, siempre que el tutor esté dispuesto a dejar que el estudiante se extienda.
+
+Una prueba sencilla para comprobar si la activación funciona: al terminar, el estudiante debe haber dicho o escrito algo en español que no estaba planeado. Si solo ha respondido «sí» o «no», la pregunta era demasiado cerrada.
+
+### Preguntas de activación que conviene evitar
+
+- **«¿Qué tal tu semana?»** como única pregunta: invita a una respuesta genérica y no conecta con el tema.
+- **«¿Estás listo para empezar?»**: el estudiante contesta sin esfuerzo y la clase empieza sin activar nada.
+- **Preguntas con respuesta única predecible** que el tutor ya conoce, porque cierran la conversación.
+- **Demasiadas preguntas seguidas.** Tres preguntas bien elegidas dan más resultado que una batería de diez.
+
+### Presentar sin apagar la atención
+
+Durante la presentación, el estudiante tiene que mirar algo, escuchar algo o leer algo, y no solo escuchar al tutor. Si la presentación es oral durante más de un minuto seguido, la atención se dispersa. Alterna la explicación con una tarea mínima: señalar en un texto, marcar un verbo en un audio o completar una frase con un dato de la clase.
+
+Para la comprensión global, pide una respuesta de propósito antes de la lectura o la escucha. Para los detalles, usa una segunda escucha con una tarea distinta. Así el estudiante no tiene que procesar a la vez el significado y la forma.
+
+### Errores frecuentes en la presentación
+
+- **Explicar la gramática antes del ejemplo.** Primero se ve el uso, después la regla; la regla sin ejemplo se olvida con rapidez.
+- **Presentar demasiado input nuevo.** Un diálogo con quince palabras desconocidas no es input comprensible. Elige dos o tres focos y deja el resto para otro momento.
+- **No comprobar la comprensión del contexto** antes de pasar a la forma. Si el estudiante no sabe de qué trata el texto, la forma no le dice nada.
+- **Modelar con demasiada velocidad.** Un modelo rápido impresiona al tutor, pero el estudiante necesita oír el ritmo y las pausas.
+
+### Un ejemplo trabajado
+
+Quieres presentar la expresión *tener que* + infinitivo a un estudiante A2. En lugar de escribirla en la pizarra, lees una nota que dejaste en la nevera: «Hoy tengo que llamar al médico, tengo que comprar pan y no tengo que ir al gimnasio». Preguntas: «¿Qué tiene que hacer la persona? ¿Qué no tiene que hacer?». Después señalas la estructura y pides al estudiante que la reconozca en otra frase. Por último, modelas tu propia lista para el día siguiente y le pides que cuente la suya usando la misma forma. Cada paso tiene una tarea distinta, y el estudiante usa la expresión antes de que le expliques la regla completa.
 
 ### Plan de 60 minutos
 
@@ -142,6 +231,33 @@ Actividades en las que el estudiante usa lo aprendido para un propósito:
 > [!CONSEJO] Repetir la tarea
 > Repetir una misma tarea con un cambio (otro interlocutor, menos tiempo, sin notas) mejora la fluidez y la precisión. En una clase individual puedes cambiar tú de papel o de actitud: «Ahora soy un camarero muy ocupado que habla rápido».
 
+### Cuándo pasar de la práctica guiada a la producción
+
+No hay una regla de tiempo para hacer el cambio, pero sí señales observables. El estudiante está listo para producir cuando responde a la práctica guiada sin mirar las tarjetas, cuando sus errores son de detalle y no de estructura, y cuando puede reformular una frase si no le entienden. Si todavía necesita las tarjetas para cada turno o si tiene que preguntarte la forma antes de cada frase, quédate en la práctica guiada un poco más y cambia la actividad, no solo la repetición.
+
+Un criterio práctico: si en la práctica guiada el estudiante comete el mismo error cinco veces seguidas, no pases a producción. Ese error necesita una explicación breve y otra práctica con significado antes de pedir libertad.
+
+### Ejemplo de progresión: peticiones educadas
+
+Para un objetivo como «pedir cosas de forma educada», una progresión de tres actividades podría ser esta:
+
+1. **Control alto:** el estudiante transforma órdenes en peticiones (*Cierra la ventana* → *¿Puedes cerrar la ventana, por favor?*). La respuesta es única y el apoyo es total.
+2. **Control medio:** el tutor describe cinco situaciones (hace frío, no encuentra el libro, el vecino hace ruido) y el estudiante elige y formula la petición más adecuada. Hay varias respuestas posibles, pero el marco está dado.
+3. **Producción:** el estudiante tiene que conseguir que un compañero le preste algo, le ayude con una mudanza o le cambie la hora de una cita, sin tarjetas y con un objetivo claro.
+
+Cada actividad mantiene el mismo objetivo y reduce el apoyo. Si el estudiante falla en la tercera, no hace falta volver al principio: puede bastar con repetir la segunda con un cambio de situación.
+
+### Corregir sin interrumpir
+
+Durante la producción, anota los errores que afectan a la comprensión y los que se repiten. No corrijas todo. En la práctica guiada sí puedes corregir de inmediato, porque el error es el objetivo de la actividad; en la producción, espera al cierre o a una pausa natural. Si el error impide entender el mensaje, aclara con una pregunta de confirmación («¿Quieres decir que no puedes venir el lunes?») en lugar de dar la forma correcta. Así el estudiante reformula con su propia voz.
+
+### Errores frecuentes en esta fase
+
+- **Pasar a producción demasiado pronto**, cuando la práctica guiada solo se ha hecho en un turno.
+- **Mantener la práctica guiada tanto tiempo** que el estudiante se aburre y la producción llega con prisa.
+- **Dar tareas de producción sin propósito**, como «habla de tu familia», sin un interlocutor ni una razón para hablar.
+- **Retirar todos los apoyos a la vez.** El andamiaje debe bajar poco a poco; si el estudiante se queda sin nada, se bloquea.
+
 ### Plan de 60 minutos
 
 | Min. | Bloque | Qué hacer |
@@ -173,6 +289,34 @@ Actividades en las que el estudiante usa lo aprendido para un propósito:
 
 **Evaluación de la sesión:** el ensayo cronometrado termina en ±3 minutos del tiempo previsto.
 
+### Cómo preparar el ensayo cronometrado
+
+Antes de cronometrar, imprime o abre el plan tal como lo tienes escrito, sin retocarlo. El ensayo sirve para descubrir dónde falla el plan, y eso solo ocurre si lo pruebas en las condiciones en que lo vas a usar: en voz alta, con los materiales a la vista y con el reloj en el mismo sitio en que lo tendrás en la clase real. Si ensayas mentalmente, casi siempre subestimas el tiempo de las instrucciones y de los turnos de palabra.
+
+Prepara una hoja de tiempos con tres columnas: el bloque, el tiempo previsto y el tiempo real. Anota cada cambio en el momento, aunque sea con una palabra («se alarga», «instrucción confusa», «el audio tarda»). Las notas breves son las que más sirven después.
+
+### Qué hacer cuando un bloque se alarga
+
+Un bloque que se alarga no es un fracaso del plan, sino información. Antes de decidir qué recortar, pregúntate por qué se alargó:
+
+- Si la instrucción fue larga o confusa, reescríbela con menos palabras y con un ejemplo.
+- Si el material tardó en cargarse, prepáralo antes de la clase o sustitúyelo por uno más sencillo.
+- Si la conversación se fue por un tema interesante, decide si lo vale la pena. Si no lo vale, márcalo como tarea para la siguiente sesión.
+- Si el estudiante necesitó más apoyo del previsto, es señal de que el bloque anterior no bastó.
+
+Cuando tengas que compensar, recorta siempre del bloque de práctica guiada y deja intactos la producción y el cierre, como se indicó antes. Reducir un bloque de explicación en diez segundos es mucho más fácil que reducir la producción en un minuto.
+
+### Un ejemplo de hoja de tiempos
+
+Tras un ensayo de una clase de 50 minutos, la hoja podría quedar así: activación previsto 5, real 7 (el estudiante quería contar más de su fin de semana); presentación previsto 10, real 12 (una palabra del audio requirió aclaración); práctica guiada previsto 12, real 9 (las tarjetas funcionaron mejor de lo esperado); producción previsto 15, real 15; cierre previsto 8, real 7. El total real es de 50 minutos. La conclusión no es recortar la producción, sino pasar dos minutos de la práctica guiada a la activación de la siguiente clase, si el estudiante lo necesita.
+
+### Errores frecuentes al planificar
+
+- **Planificar sin contar las transiciones.** Cambiar de pantalla, repartir tarjetas o escribir en la pizarra compartida lleva minutos que no aparecen en el plan.
+- **Escribir un plan que ocupa exactamente la hora.** Sin margen, cualquier imprevisto obliga a cortar el cierre.
+- **Ensayar solo la parte que te gusta.** El bloque más difícil suele ser el que menos ensayas.
+- **Cambiar el plan durante el ensayo sin anotarlo.** Si no queda registro, el plan real vuelve a fallar en la siguiente clase.
+
 ## Evaluación formativa y cierre
 
 > **Objetivo de la lección:** cerrar la clase comprobando qué se ha aprendido y conectando con el trabajo autónomo.
@@ -193,6 +337,37 @@ Actividades en las que el estudiante usa lo aprendido para un propósito:
 
 > [!ATENCION] No dejes el cierre para el último minuto
 > Muchos tutores terminan la clase a mitad de una actividad porque se acaba el tiempo. Programa una alarma discreta 5 minutos antes del final. Un buen cierre es parte del aprendizaje y de la percepción de calidad.
+
+### Observar sin interrumpir
+
+La evaluación formativa consiste en recoger información para decidir la siguiente clase, no en poner una nota. Por eso conviene observar sin detener la actividad. Mientras el estudiante habla, anota tres cosas: qué expresiones usa sin dudar, qué estructuras intenta y no logra, y en qué momento pide ayuda. Esa lista breve vale más que una impresión general de «ha ido bien» o «ha ido regular».
+
+Puedes organizar las notas en una tabla sencilla con cuatro columnas: lo que logró, lo que intentó, lo que necesita y la acción para la próxima clase. Si la tabla queda vacía en la columna de «lo que intentó», la actividad era demasiado cerrada o demasiado fácil.
+
+### Preguntas de comprobación que sí informan
+
+Las preguntas de comprobación deben pedir una aplicación, no una confirmación. Algunos ejemplos según el contenido:
+
+- Para el condicional: «Si tuvieras una semana libre en Oaxaca, ¿qué harías primero?». La respuesta muestra si el estudiante usa *haría* o recurre a *voy a*.
+- Para el contraste pretérito/imperfecto: «Cuéntame qué hacías cuando sonó el teléfono la última vez». Si el estudiante solo usa el pretérito, la diferencia no está clara.
+- Para las perífrasis de obligación: «¿Qué tienes que hacer mañana y qué no tienes que hacer?». Obliga a usar dos estructuras distintas.
+
+Evita las preguntas que se responden con «sí» o «no» y las que solo buscan la forma correcta sin significado. La comprobación debe mostrar si el estudiante usa el contenido en un contexto nuevo.
+
+### Autoevaluación con escala
+
+La escala de 1 a 4 funciona si los números tienen descripciones claras. Una versión sencilla es esta: 1, no lo consigo todavía; 2, lo consigo con ayuda constante; 3, lo consigo con alguna pausa o duda; 4, lo consigo sin ayuda y con seguridad. Pide al estudiante que elija el número y que diga qué le hace pensar eso. Su justificación te dirá más que el número. Si el estudiante siempre se pone un 4, compara su autoevaluación con tus observaciones durante la clase y hazlo con naturalidad, sin corregirle.
+
+### Corrección diferida: cómo elegir
+
+Corregir después de la actividad permite que el estudiante siga hablando, pero obliga a elegir. Escoge entre dos y cuatro errores que cumplan al menos una de estas condiciones: afectan a la comprensión, se repiten en varios turnos o corresponden al objetivo de la clase. Deja fuera los errores puntuales que no cambian el sentido. Escríbelos con la frase original del estudiante y la versión corregida, y pide que él proponga la corrección antes de dársela.
+
+### Errores frecuentes en el cierre
+
+- **Hacer preguntas de cierre que nadie puede contestar** («¿Qué te ha parecido la clase?» tras una hora de conversación tensa).
+- **Asignar un trabajo autónomo demasiado largo**, que el estudiante no hará o le desanimará.
+- **No registrar lo observado.** Si la información queda en la memoria, se pierde en la siguiente clase.
+- **Usar la escala sin explicarla**, de modo que el estudiante se evalúa según un criterio que no conoce.
 
 ### Plan de 60 minutos
 
@@ -238,6 +413,31 @@ El formato más habitual. Permite el ciclo completo. Ver el plan completo en la 
 
 Permite **ampliar la producción** o incluir una segunda destreza (por ejemplo, una breve escritura en clase). Útil para niveles intermedios y avanzados o para clases de preparación de exámenes.
 
+### Adaptar la distribución a tu estudiante
+
+La tabla de distribución orientativa es un punto de partida. Cada columna suma la duración de su clase (25, 50 o 60 minutos), así que puedes comprobar cualquier cambio sumando los minutos de todas las filas. Si tu estudiante necesita más práctica guiada porque el tema es nuevo para él, quita minutos de la producción y no del cierre. Si domina el contenido y lo que le falta es fluidez, aumenta la producción y reduce la presentación. Lo que no debes hacer es eliminar la activación para ganar tiempo: es la fase que menos se nota cuando falta y la que más afecta al resto de la clase.
+
+### Clase de 25 minutos: qué sacrificar
+
+En una clase de 25 minutos el margen es pequeño, y casi todo debe servir a un único objetivo. Antes de empezar, decide qué harías si solo tuvieras 20 minutos: normalmente, la activación se reduce a una pregunta y la práctica guiada se elimina si el estudiante ya conoce la forma. Mantén siempre la producción y un cierre de tres o cuatro minutos con una tarea clara para casa.
+
+Un error común es intentar que una clase de 25 minutos incluya una explicación larga. Si el estudiante necesita una explicación, plantéala como tarea para antes de la clase, con un vídeo o una lectura que tú hayas preparado, o dedica la clase siguiente a practicarla.
+
+### Clase de 50 minutos: el formato de referencia
+
+El formato de 50 minutos es el más habitual porque permite recorrer el ciclo completo sin prisas. Su ventaja principal es que obliga a elegir: cinco minutos de activación dan para una pregunta y una respuesta, pero no para una lista de diez. Cuando planifiques una clase de 50, piensa en una única actividad de producción y en una segunda opcional, que puedas usar si sobra tiempo o descartar si no.
+
+### Clase de 60 minutos: aprovechar el tiempo extra
+
+Los diez minutos adicionales frente a la clase de 50 no deben dedicarse a más contenido, sino a más uso. Dos ideas funcionan bien: una segunda ronda de producción con cambio de interlocutor o de situación, o una breve escritura en clase de unos cinco minutos sobre lo trabajado, que el estudiante después corrige o compara con su versión oral. En niveles avanzados, la producción puede incluir un debate breve o la defensa de una postura.
+
+### Errores frecuentes con la duración
+
+- **Elegir la duración por comodidad del tutor** y no por el objetivo de la clase.
+- **Aplicar el mismo plan a 25 y a 60 minutos** cambiando solo los tiempos. Cada duración pide otra forma de estructurar la actividad.
+- **Olvidar el margen de transición** entre fases, sobre todo en plataformas donde la conexión puede caer.
+- **Usar el tiempo extra para hablar más tú.** En una clase de 60 minutos, el tutor debe seguir hablando menos que el estudiante.
+
 ### Plan de 60 minutos
 
 | Min. | Bloque | Qué hacer |
@@ -277,6 +477,35 @@ La clase de prueba (*trial lesson*) es frecuente en plataformas como italki o Pr
 
 Descarga la [plantilla de clase de prueba](/recursos/clase-prueba/) y consulta la [clase modelo de prueba para un adulto principiante](/clases/clase-prueba-adulto-principiante/).
 
+### Preparar la clase de prueba
+
+Antes del encuentro, revisa la información que el estudiante te ha dado: su motivo para estudiar, el tiempo del que dispone, su experiencia previa y, si la hay, el examen o el viaje que lo impulsa. Con eso, prepara dos o tres preguntas de diagnóstico para dos niveles posibles, de modo que puedas ajustarte sobre la marcha. Ten también listo un material breve para la mini-lección, pensado para una situación concreta que el estudiante haya mencionado. Lo más útil es un texto o una imagen de cinco líneas, no una presentación preparada de antemano.
+
+Comprueba el sonido, la cámara y la pantalla compartida al menos cinco minutos antes. Un fallo técnico en los primeros minutos reduce la confianza del estudiante más que cualquier error de contenido.
+
+### Diagnóstico con preguntas graduadas
+
+El diagnóstico es una conversación, no un examen. Empieza con preguntas que puede responder con lo que sabe y avanza hacia otras más exigentes si la conversación fluye. Para un nivel básico, por ejemplo: «¿De dónde eres? ¿Qué haces en tu tiempo libre?». Para un nivel intermedio: «¿Qué cambiarías de tu rutina si tuvieras más tiempo libre? ¿Por qué?». Observa qué tipo de respuesta da: si contesta con frases completas, si necesita palabras sueltas o si cambia de idioma. Esa observación es el diagnóstico real.
+
+No hace falta un test formal para estimar el nivel. Anota tres o cuatro observaciones concretas (uso de tiempos verbales, amplitud de vocabulario, control de la pronunciación en palabras frecuentes) y evita etiquetas definitivas del tipo «es un B1» si no tienes datos suficientes.
+
+### Mini-lección y retroalimentación
+
+La mini-lección debe responder a algo que acabas de detectar. Si el estudiante te cuenta que va a viajar y necesita pedir indicaciones, practica precisamente eso. Evita explicar un tema que no ha pedido, aunque sea importante: en una clase de prueba, lo que se recuerda es lo que resolvió.
+
+Para la retroalimentación, elige dos fortalezas y dos prioridades. Las fortalezas deben ser concretas («usó bien el pretérito para contar su viaje»), y las prioridades, accionables («practicar la entonación de las preguntas de sí o no»). Si el estudiante pregunta cuántos errores ha cometido, responde con honestidad y sin dramatizar: el objetivo no es impresionarlo con una lista, sino darle una dirección.
+
+### Hacer la propuesta
+
+La propuesta cierra la clase de prueba. Debe incluir una frecuencia de clases, un enfoque inicial y dos o tres primeros objetivos, todos alcanzables. Presenta la propuesta como una opción y no como una obligación, y deja tiempo para dudas sobre precio, cancelaciones o materiales. Si las condiciones de la plataforma (precios, políticas de cancelación o de reembolso) pueden haber cambiado, verifícalas en las normas actuales antes de la clase y no las des de memoria.
+
+### Errores frecuentes en la clase de prueba
+
+- **Dedicar la mayor parte del tiempo a presentarte** y no a la experiencia de aprendizaje del estudiante.
+- **Preparar una mini-lección ajena a sus necesidades**, por ejemplo una explicación de gramática avanzada para alguien que solo quiere saludar.
+- **Dar una retroalimentación genérica** («vas muy bien, sigue así»), que no le sirve para nada.
+- **Presionar para cerrar la venta** con prisa o con promesas de resultados. La propuesta honesta genera más confianza que la insistencia.
+
 ### Plan de 60 minutos
 
 | Min. | Bloque | Qué hacer |
@@ -313,6 +542,31 @@ Antes de repetir la misma explicación más despacio y más alto, prueba a **cam
 
 > [!CONSEJO] Comprobar la comprensión sin humillar
 > Evita «¿entiendes?» (casi todos dicen que sí). Usa **preguntas de comprobación de conceptos**: para *acabar de*, pregunta «Si *acabo de comer*, ¿tengo hambre? ¿Comí hace mucho o hace poco?».
+
+### Señales de que el estudiante no entiende
+
+No siempre el estudiante dice que no entiende. Con frecuencia se manifiesta de otras formas: contesta con una palabra suelta, repite tu última frase con tono de duda, mira la pantalla de forma constante, responde a una pregunta distinta de la que hiciste o cambia a otro idioma sin avisar. Cuando aparezca alguna de estas señales, no sigas con la explicación en el mismo formato. Detente, observa un segundo y pregunta por el punto concreto que ha fallado.
+
+### Cómo elegir el cambio de canal
+
+No todas las estrategias sirven para todos los casos. Si el problema está en el significado de una palabra, funcionan mejor la imagen o el gesto. Si el problema está en la regla, funciona mejor un ejemplo concreto de la vida del estudiante. Si el problema es que la tarea es demasiado grande, la reducción de la tarea es lo más eficaz. Y si la confusión viene de un contenido previo que no domina, lo honesto es volver a ese contenido en lugar de seguir con el actual.
+
+Una regla práctica: cambia el canal de la explicación antes de cambiar el contenido. Así no pierdes el objetivo de la clase, sino que buscas otra forma de llegar a él.
+
+### Ejemplo trabajado: el verbo *gustar*
+
+Un estudiante A1 no entiende por qué se dice «me gusta el café» y no «yo gusto el café». Repetir la regla más despacio no le va a servir. El tutor cambia de canal: escribe en la pizarra compartida dos dibujos, un café y una bicicleta, y dice «a mí me gusta el café», señalándose a sí mismo. Después pregunta: «¿Quién es el sujeto: el café o yo?». El estudiante intenta responder, y el tutor reformula con el dibujo: «El café es lo que gusta; a mí me gusta». Por último, pide que el estudiante complete con un dibujo propio. El contraste sujeto-objeto se entiende en tres pasos, sin usar la palabra «complemento».
+
+### Cuando el tiempo se acaba
+
+Si la explicación se alarga y el tiempo se acaba, decide en tres segundos: ¿el estudiante ya tiene lo esencial? Si la respuesta es sí, pasa a la producción o al cierre. Si no, reduce el contenido a lo que puede llevarse en cinco minutos y anota el resto para la siguiente sesión. Lo importante es que el estudiante salga con una idea clara, aunque no sea la completa.
+
+### Errores frecuentes al gestionar la comprensión
+
+- **Repetir la misma explicación con más volumen**, que no aporta información nueva.
+- **Asumir que la respuesta «vale» porque el estudiante asiente.** Comprueba con una pregunta de aplicación.
+- **Corregir en exceso** cuando el estudiante intenta entender algo. Demasiadas correcciones bloquean la comprensión.
+- **Cambiar de tema sin avisar**, porque el estudiante se queda con una duda sin resolver que vuelve a aparecer más tarde.
 
 ### Plan de 60 minutos
 
@@ -359,6 +613,20 @@ Antes de repetir la misma explicación más despacio y más alto, prueba a **cam
 
 Descarga la [plantilla de planificación de clase](/recursos/plan-clase/) para crear los tuyos.
 
+### Cómo leer un plan completo
+
+Un plan útil se lee en columnas. La columna de tiempo te dice cuánto debe durar cada fase y te permite comprobar que la suma coincide con la duración de la clase. La columna de interacción (T-E, E con audio) indica quién habla en cada momento; si en una fila hay tres bloques seguidos de T-E, probablemente estás hablando más de lo que quieres. La columna de notas es la más valiosa al reutilizar el plan, porque recoge los puntos donde suele haber problemas: la pregunta de propósito, la corrección inmediata o la tarea de corrección diferida.
+
+### Adaptar un plan a otro estudiante
+
+Para reutilizar el plan 1 con un estudiante B1 que quiere pedir en un restaurante con más matices, cambia tres elementos y deja el resto. Aumenta la complejidad del objetivo (pedir una recomendación, justificar una elección, negociar una modificación del plato), sustituye el menú por una carta con más términos y cambia el problema de la producción por uno que exija reformular. El esquema de seis fases y los tiempos se mantienen; lo que cambia es el contenido y la exigencia de la tarea.
+
+### Errores frecuentes al reutilizar planes
+
+- **Copiar un plan sin leer las notas.** Las notas explican por qué la fase tiene esa duración y ese orden.
+- **Cambiar el objetivo y dejar los materiales.** Si el objetivo cambia, el menú, el audio y las tarjetas también deben hacerlo.
+- **Olvidar la evaluación del plan.** Un plan sin criterio de logro no permite saber si ha funcionado.
+
 ### Plan de 60 minutos
 
 | Min. | Bloque | Qué hacer |
@@ -404,6 +672,37 @@ Descarga la [plantilla de planificación de clase](/recursos/plan-clase/) para c
 - [ ] Hay una producción con propósito que ocupa al menos un 25 % del tiempo.
 - [ ] El cierre incluye resumen, autoevaluación y trabajo autónomo.
 - [ ] Tienes una actividad de reserva y sabes qué sacrificar si falta tiempo.
+
+### Cómo usar el cuestionario
+
+Las preguntas del cuestionario no buscan memorizar términos, sino comprobar si puedes tomar decisiones de planificación. Lee cada pregunta y, antes de mirar la respuesta, escribe por qué crees que es la correcta. Después compara con la retroalimentación. Si fallas una pregunta sobre cómo reaccionar ante la falta de comprensión, vuelve a la lección correspondiente y a la sección de cambio de canal, no a la definición de la estrategia. El cuestionario sirve para revisar decisiones, y por eso las retroalimentaciones explican el motivo de cada respuesta.
+
+### Cómo resolver la tarea práctica
+
+La tarea pide un plan de 50 minutos completo. Te proponemos seguir este orden de trabajo:
+
+1. **Define el estudiante y el objetivo.** Usa el plan individual del Módulo 1 y redacta el objetivo con la fórmula de cuatro elementos de la lección 4.2.
+2. **Reparte los tiempos.** Empieza por la producción y la retroalimentación: son las fases que no se pueden recortar. Después añade la activación, la presentación y la práctica guiada.
+3. **Escribe las instrucciones.** Cada fase debe tener una instrucción que el estudiante entienda a la primera, con un ejemplo si es necesario.
+4. **Prepara el plan B.** Elige qué actividad sacrificarías si faltan diez minutos y qué cambio de canal usarías si el estudiante no entiende la presentación.
+5. **Define el criterio.** Escribe cómo sabrás que el objetivo se ha conseguido y qué evidencia observarás en la producción.
+
+Al terminar, lee el plan como si fueras el estudiante. Si una instrucción te parece confusa, es probable que también lo sea para él.
+
+### Ejemplo de respuesta esperada
+
+Un plan aceptable para un estudiante A2 que quiere organizar una cena podría incluir una activación de cinco minutos con fotos de platos, una presentación de siete minutos sobre invitaciones con *¿Quieres venir a…?* y *¿Te apetece…?*, una práctica guiada de diez minutos con tarjetas de respuesta, una producción de quince minutos en la que el estudiante invita a un amigo imaginario (interpretado por el tutor, que responde con una excusa), una retroalimentación de cinco minutos y un cierre de ocho minutos con autoevaluación y tarea. El criterio es que el estudiante invite, responda y proponga una alternativa sin cambiar al inglés. El plan B es suprimir la práctica guiada si la presentación ha sido larga.
+
+### Criterios de revisión
+
+Cuando revises tu plan o el de un colega, comprueba tres cosas: que el objetivo se puede observar al final de la clase, que la producción tiene un interlocutor o una razón para hablar, y que el plan B no depende de un recurso que puede fallar (un audio que no carga, una imagen que no se ve). Si cumple esas tres condiciones, el plan está listo para ensayarse.
+
+### Errores frecuentes en la tarea
+
+- **Escribir un plan con más objetivos de los que caben.** Un objetivo y, como mucho, dos focos lingüísticos.
+- **Olvidar el plan B** o escribir uno que implica añadir tiempo, en lugar de quitarlo.
+- **Describir las actividades sin escribir las instrucciones** que dará el tutor al estudiante.
+- **Confundir la práctica guiada con la producción.** Si la respuesta es única, es práctica guiada.
 
 ### Plan de 60 minutos
 

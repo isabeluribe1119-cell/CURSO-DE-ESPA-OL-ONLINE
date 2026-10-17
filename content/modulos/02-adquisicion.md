@@ -58,6 +58,14 @@ La adquisición de segundas lenguas (ASL, o *SLA* por sus siglas en inglés) es 
 > [!DEBATE] ¿Hay un «periodo crítico» para aprender lenguas?
 > Existe evidencia de que la edad de inicio se relaciona con el nivel final alcanzado, sobre todo en pronunciación, cuando hay inmersión prolongada. Pero se discute si existe un periodo crítico biológico con un final abrupto, o una disminución gradual influida por factores sociales, de cantidad de input y de identidad. Además, en contextos de instrucción formal con pocas horas semanales, **los adolescentes y adultos suelen avanzar más rápido al principio** que los niños pequeños. Conclusión práctica: nunca es «demasiado tarde» para aprender, y los objetivos deben adaptarse a cada edad y contexto.
 
+### Ejemplos de cada término en una clase online
+
+Una forma útil de fijar los conceptos es buscar un ejemplo de tu propia práctica para cada uno. El **input** puede ser el audio de un pódcast que envías antes de la sesión, o el texto que el estudiante lee en voz alta mientras tú observas. El **output** es lo que dice en la videollamada cuando te cuenta su fin de semana, y también el mensaje escrito que te manda después. El **intake** se ve en la clase siguiente: si la palabra *aparcar* que escuchó hace dos semanas vuelve a aparecer en su discurso, sabemos que la procesó, aunque no podamos saber si la ha entendido del todo. La **interlengua** aparece en una frase como *«Yo tiene dos hermanos, pero ellos vive en Madrid»*: el estudiante ya distingue la idea de plural y de persona, pero todavía no ha generalizado la conjugación de la tercera persona. Por último, el **conocimiento explícito** es lo que el estudiante puede explicarte sobre el uso de *por* y *para*, y el **implícito** es lo que usa sin pensar cuando pide un café en una cafetería.
+
+### Errores frecuentes al usar estos conceptos
+
+Hay tres confusiones habituales. La primera es **confundir input con instrucción**: explicar una regla no es lo mismo que proporcionar input comprensible, porque solo cuenta como input lo que el estudiante entiende. La segunda es pensar que **más output equivale a más aprendizaje**: hablar mucho sin atención a la forma ni retroalimentación puede consolidar errores. La tercera es **usar «interlengua» como sinónimo de «mal español»**: la interlengua es un sistema legítimo y en progreso, y describirla así cambia la forma en que hablas de los errores con el estudiante. Al cerrar la lección, comprueba si puedes definir cada término con tus palabras y con un ejemplo de tu propia clase.
+
 ### Plan de 60 minutos
 
 | Min. | Bloque | Qué hacer |
@@ -92,6 +100,18 @@ La mediación es la gran aportación del Volumen complementario. Incluye activid
 ### Equilibrar las clases
 
 Un error común en la tutoría online es reducirlo todo a interacción oral. Revisa tus últimas cinco clases: ¿cuánto tiempo dedicaste a cada modo? Un estudiante que se prepara para un examen o que trabaja en un entorno profesional necesita también comprensión lectora extensa, producción escrita y mediación.
+
+### Cómo organizar un ciclo de cuatro modos
+
+No hace falta que cada clase contenga los cuatro modos con la misma intensidad. Una forma razonable es planificar un ciclo de cuatro semanas por unidad y repartir los modos entre sesiones. Por ejemplo, en la primera clase trabajas la **comprensión** con un noticiero adaptado de tres minutos y preguntas sobre la información principal; en la segunda, la **producción** con una presentación breve preparada en casa; en la tercera, la **interacción** con la negociación de un plan real (quedar con alguien, elegir un restaurante, organizar un viaje); y en la cuarta, la **mediación** con una tarea de transmisión de información. Al final del ciclo, revisa qué modo ha quedado más débil y refuérzalo en la unidad siguiente. Si tienes pocas horas semanales, puedes combinar dos modos en la misma sesión, por ejemplo leer un texto (comprensión) y resumirlo oralmente para otra persona (mediación).
+
+### Ejemplo: mediación adaptada a un A2
+
+La mediación no es solo para niveles altos. Con un estudiante A2, puedes proponerle que lea en español el horario de una tienda o de un museo y se lo explique a un compañero de trabajo que solo entiende inglés, usando frases sencillas y señalando los datos clave: días, horas y precio. El estudiante no tiene que traducir cada palabra; debe seleccionar lo importante para esa persona concreta. Esa selección es justo lo que hace la mediación, y el nivel de exigencia se ajusta cambiando la longitud del texto, el vocabulario de apoyo que le das y el número de datos que se le piden.
+
+### Errores frecuentes al planificar
+
+El primero es confundir **interacción** con conversación libre sin objetivo: la interacción exige que los interlocutores tengan algo que resolver juntos, y una charla sin meta se queda en intercambio social. El segundo es reducir la **mediación** a traducción literal; en la vida real se pide adaptar, resumir o simplificar pensando en quién recibe la información. El tercero es olvidar la **comprensión escrita**: muchos estudiantes adultos necesitan leer correos, documentos y formularios, y una clase solo oral no les prepara para ello.
 
 ### Plan de 60 minutos
 
@@ -142,6 +162,14 @@ En cuatro turnos el estudiante obtuvo una palabra que necesitaba (*farmacia*) y 
 
 Las técnicas concretas de corrección se desarrollan en los [Módulos 6](/modulos/06-adolescentes-adultos/) y [11](/modulos/11-evaluacion/).
 
+### Cómo ajustar el input sin simplificarlo en exceso
+
+Que el input sea comprensible no significa rebajar el texto hasta que no contenga nada nuevo. Lo que funciona es mantener el contenido y reducir la carga con apoyos: frases más cortas, una o dos palabras nuevas glosadas en la misma pantalla, imágenes que anticipen el tema y una pregunta previa que dé un propósito a la escucha. Si preparas un audio para un estudiante B1, puedes mantener la velocidad natural y añadir antes tres preguntas («¿Quién habla?», «¿De qué se queja?», «¿Qué solución propone?»). El estudiante entiende la idea general sin necesidad de comprender cada palabra, que es precisamente el tipo de procesamiento que se busca.
+
+### Comprobar si el input ha sido comprensible
+
+Una señal útil es la respuesta a preguntas de contenido, no de forma. Si el estudiante puede contar con sus propias palabras lo que pasó en el audio, el input ha funcionado aunque haya dudado con algunos términos. Si, en cambio, solo repite frases sueltas, conviene bajar la dificultad o cambiar el tipo de tarea. Evita preguntar «¿lo has entendido?», porque casi todos responden que sí por cortesía.
+
 ### Plan de 60 minutos
 
 | Min. | Bloque | Qué hacer |
@@ -188,6 +216,18 @@ Algunos errores se mantienen durante años aunque el aprendiz siga en contacto c
 > [!CONSEJO] Prioriza qué corregir
 > No todos los errores merecen la misma atención. Prioriza los que: 1) impiden la comprensión, 2) son muy frecuentes, 3) estigmatizan socialmente al hablante, o 4) corresponden al objetivo de la clase. Usa la [plantilla de seguimiento del estudiante](/recursos/seguimiento-estudiante/) para registrarlos.
 
+### Un procedimiento para analizar un error
+
+Cuando un error se repite, puedes seguir cinco pasos. Primero, **anota la forma exacta** con su contexto, porque una frase suelta invita a adivinar. Segundo, **formula una hipótesis de regla**: ¿qué patrón está aplicando el estudiante? Tercero, **busca un segundo ejemplo** del mismo fenómeno en otra tarea, para ver si el error se repite o fue un desliz. Cuarto, **decide si es error o falta** según la distinción de Corder, es decir, si el estudiante puede corregirlo cuando se lo señalas. Quinto, **elige la intervención**: un recordatorio breve, una práctica focalizada o, si el error no impide la comunicación y no es prioritario, dejarlo para más adelante.
+
+### Ejemplo trabajado
+
+Una estudiante hablante de inglés, de nivel B1, dice en clase: «*Los libros que leí en verano fueron muy interesante*». El tutor anota la forma y formula una hipótesis: el adjetivo aparece en singular aunque el sustantivo es plural, quizá porque en inglés el adjetivo no cambia. Para comprobarlo, le pregunta: «Y las películas que viste, ¿cómo fueron?». La estudiante responde «*interesantes*» sin dudar. Esa respuesta indica que la forma está disponible en una tarea controlada, así que el caso es una **falta** en la conversación, pero también señala que la concordancia del adjetivo todavía no es automática. El tutor no interrumpe la conversación, anota el caso en el registro de errores y propone diez minutos de práctica focalizada con sustantivos y adjetivos en plural la semana siguiente.
+
+### Errores frecuentes del tutor
+
+Tres errores aparecen con frecuencia. El primero es **corregir todo** en el mismo turno: el estudiante recibe tantas señales que no sabe cuál atender. El segundo es **interpretar cada error como transferencia de la L1** sin comprobarlo, una tentación que la tabla de la lección 2.5 ayuda a evitar. El tercero es **no volver sobre el error**: si lo corregiste una vez y nunca más, es difícil saber si la forma se ha estabilizado. Un registro sencillo de tres o cuatro errores recurrentes basta para evitar los tres.
+
 ### Plan de 60 minutos
 
 | Min. | Bloque | Qué hacer |
@@ -225,6 +265,18 @@ La **transferencia** es la influencia de la L1 (u otras lenguas conocidas) en la
 
 > [!EJEMPLO] Aprovechar la L1 en clase
 > Con un estudiante brasileño de nivel B1, en lugar de prohibir el portugués, dedica 10 minutos a una «caza de falsos amigos» en un texto auténtico. Él identifica palabras que *parecen* iguales y comprueba si significan lo mismo. Convierte la cercanía en una herramienta de atención consciente.
+
+### Cómo preparar una lista de anticipación
+
+Antes de empezar un curso con un estudiante nuevo, pregúntale qué otras lenguas habla y con qué nivel. Con esa información, consulta la tabla por L1 y elige tres o cuatro dificultades probables para observar en las primeras semanas. No intentes anticiparlo todo: una lista de veinte puntos es imposible de atender en una clase. Anota también las facilidades, porque un estudiante que descubre que ya entiende la mitad de un texto se motiva mucho más que uno al que solo se le muestran sus fallos. Revisa la lista cada mes con lo que observes de verdad; la tabla es una hipótesis inicial, no un diagnóstico.
+
+### Cognados y falsos amigos en la práctica
+
+Los cognados son palabras de origen común que se parecen en forma y significado, como *hospital* o *animal*. Los falsos amigos se parecen, pero significan otra cosa: *librería* es una tienda de libros y no una biblioteca (que en inglés se dice *library*), y *sensible* en español significa lo que en inglés es *sensitive*. Para trabajarlos conviene combinar un texto auténtico con una pregunta de contraste: «Esta palabra parece igual que en tu lengua; ¿significa lo mismo aquí?». El estudiante aprende a sospechar de la similitud sin rechazar todo lo que se parece.
+
+### Errores frecuentes al interpretar la transferencia
+
+Un error habitual es suponer que toda transferencia es negativa: la L1 también facilita, y reconocerlo motiva al estudiante. Otro es atribuir a la lengua materna cualquier fallo sin comprobar si otros estudiantes de la misma L1 cometen el mismo error; si no lo hacen, la causa puede ser la frecuencia de la forma o la falta de práctica. La transferencia es una pista para observar, y la observación del estudiante real siempre tiene prioridad sobre la tabla.
 
 ### Plan de 60 minutos
 
@@ -269,6 +321,18 @@ Pasar de la fase 1 a la 3 requiere **práctica significativa y repetida**, no so
 
 Profundizamos en estas técnicas en el [Módulo 10](/modulos/10-metodologias/).
 
+### Una secuencia de práctica en tres pasos
+
+Para pasar de la fase declarativa a la automatización, la práctica suele funcionar mejor en tres pasos. En el primero, **práctica guiada**, el estudiante completa frases con andamiaje visible: huecos, opciones o un modelo delante. En el segundo, **práctica semiguiada**, tiene que elegir y adaptar la estructura a una situación concreta, por ejemplo decidir qué forma de *gustar* usar según lo que le interesa a su interlocutor. En el tercero, **tarea libre con límite de tiempo**, cuenta algo a otra persona sin preparación inmediata. Una variante muy usada es la repetición de una misma historia con tiempos decrecientes, como en la técnica 4/3/2: el contenido no cambia, pero la presión de tiempo desplaza la atención de la forma al mensaje.
+
+### Un calendario de recuperación espaciada
+
+Imagina que en una clase has trabajado seis expresiones para hablar de la salud. Un calendario orientativo sería repasarlas al inicio de la clase siguiente, de nuevo a los cuatro o cinco días y después en una conversación dos semanas más tarde, cambiando el contexto. Los intervalos exactos no son mágicos: lo importante es que cada repaso exija **recordar** antes de ver la forma, y que los intervalos se alarguen cuando el estudiante responde bien. Si falla, vuelve a un intervalo más corto sin reprochárselo. Para registrar el calendario basta una tabla con la expresión, la fecha del último repaso y una nota sobre cómo la recuperó.
+
+### Errores frecuentes en la práctica
+
+El primer error es llenar la clase de ejercicios mecánicos sin significado: el estudiante acierta, pero no sabe usar la forma cuando la necesita. El segundo es **repasar en lugar de recuperar**: releer la lista da una sensación de avance, pero no entrena el acceso a la memoria. El tercero es programar demasiados repasos al principio, lo que genera cansancio y abandono. Para saber si la práctica funciona, observa cuánto tarda el estudiante en empezar a responder y si se autocorrige durante la conversación sin que lo interrumpas.
+
 ### Plan de 60 minutos
 
 | Min. | Bloque | Qué hacer |
@@ -304,6 +368,22 @@ Que **conocer** la regla (conocimiento explícito) y **usarla** en tiempo real (
 3. **Varía las condiciones de práctica:** primero con tiempo para pensar (planificación), después con más fluidez (repetición de la tarea, límites de tiempo).
 4. **Acepta la variabilidad:** que un estudiante acierte en un ejercicio y falle en una conversación es normal en el proceso.
 
+### Cómo distinguir conocimiento explícito e implícito
+
+Una forma práctica de observar la diferencia es pedir al estudiante dos cosas distintas sobre la misma regla. Primero, pídele que la explique con sus palabras o que elija la forma correcta en un test escrito: eso muestra conocimiento explícito. Después, mantén una conversación de cinco minutos sobre un tema que le interese, sin avisarle de que vas a observar una forma concreta, y anota cuántas veces la usa bien. Si la explicación es impecable y el uso espontáneo no, no hay necesariamente un problema de comprensión: lo más probable es que la forma aún no esté automatizada.
+
+### Tareas con y sin tiempo para planificar
+
+Las tareas con tiempo para planificar permiten al estudiante prestar atención a la forma. Por ejemplo, dale dos minutos para preparar mentalmente el relato de su último viaje, con apuntes si lo necesita, y después pídele que lo cuente. Las tareas sin tiempo se parecen más a la conversación real: le haces una pregunta inesperada sobre el mismo tema y espera una respuesta inmediata. La diferencia entre ambas indica qué parte del uso depende de la planificación y qué parte ya es fluida. Si el estudiante planifica bien pero falla al improvisar, la práctica que falta es la segunda.
+
+### Ejemplo trabajado: el imperfecto
+
+Una secuencia posible para el imperfecto tiene cinco pasos. Primero, una explicación breve de cinco minutos con dos o tres contrastes clave frente al indefinido, como *vivía* frente a *viví* en un mismo texto. Segundo, una tarea de reconocimiento en la que el estudiante marca los verbos en pasado de una anécdota corta y decide por qué. Tercero, una producción guiada: completa una historia de la infancia con huecos y opciones. Cuarto, una producción libre en la que cuenta algo de su infancia sin ver el texto. Quinto, la revisión: revisa juntos el momento en que falló la forma, sin buscar culpables, y decide si la clase siguiente vuelve a ese punto.
+
+### Errores frecuentes
+
+El error más común es pensar que, si el estudiante no usa una regla, basta con explicarla otra vez con más detalle; explicar más sin práctica suele cargar la atención sin cambiar el uso. Otro es evaluar solo con ejercicios escritos, que dan una imagen parcial de lo que el estudiante hace al hablar. Por último, algunos tutores interpretan cualquier fallo como falta de estudio, cuando la variabilidad entre un ejercicio y una conversación es parte normal del proceso.
+
 ### Plan de 60 minutos
 
 | Min. | Bloque | Qué hacer |
@@ -333,6 +413,18 @@ Que **conocer** la regla (conocimiento explícito) y **usarla** en tiempo real (
 
 > [!CONSEJO] Desconfía de los «estilos de aprendizaje»
 > La idea de que cada persona aprende mejor si se le enseña según su «estilo» (visual, auditivo, kinestésico) es muy popular, pero las revisiones de la evidencia (Pashler y otros, 2008) **no encontraron apoyo** a la hipótesis de que adaptar la enseñanza al estilo preferido mejore el aprendizaje. Sí tiene sentido usar **varias modalidades** (imagen, texto, audio, gesto) para todos los estudiantes y tener en cuenta preferencias para la motivación.
+
+### Cómo construir tu propia tabla de decisiones
+
+La tabla de esta lección es un punto de partida. Para convertirla en una herramienta propia, elige tres conceptos que te interesen más y, para cada uno, escribe qué harías en una clase de 50 minutos, qué evidencia te gustaría ver en el estudiante para saber que funciona y qué harías si no la ves. Esa última columna suele faltar, y obliga a pensar en ajustes en lugar de aplicar una decisión por costumbre. Revisa la tabla cada trimestre con grabaciones de tus clases.
+
+### Ejemplo: una unidad sobre hablar del pasado
+
+Imagina un estudiante B1 que quiere contar anécdotas. Empiezas con input: un pódcast graduado sobre viajes que escucha en casa. En clase, una tarea de vacío de información: cada uno tiene fotos de un viaje distinto y deben averiguar qué fotos corresponden a cada persona (interacción y negociación del significado). Después, cada uno narra su viaje durante dos minutos (output), y mientras narra anotas los errores sin interrumpir. Al terminar, trabajas la forma que el estudiante necesitó y no tenía, por ejemplo el contraste entre imperfecto e indefinido para describir el contexto y el hecho. Al inicio de la clase siguiente, un calentamiento de recuperación con expresiones de tiempo (*ayer, el año pasado, cuando era niño*) cierra el ciclo.
+
+### Cuándo no aplicar una decisión
+
+Ninguna decisión es universal. Con un estudiante muy ansioso, una tarea de interacción sin preparación puede bloquearlo; conviene más planificación previa y un ensayo privado antes de la conversación. En preparación para un examen, la atención a la forma y la comprensión lectora pueden pesar más que la conversación libre. Y en un grupo de adolescentes, la corrección en público suele ser contraproducente: mejor diferida y en privado. Antes de aplicar una decisión, pregúntate qué necesita este estudiante en este momento.
 
 ### Plan de 60 minutos
 
@@ -364,6 +456,30 @@ Que **conocer** la regla (conocimiento explícito) y **usarla** en tiempo real (
 **Preguntas para cerrar la sesión:** ¿qué bloque se alargó más de lo previsto? ¿Qué parte te resultó más útil para tu práctica? ¿Qué harás de forma distinta la próxima vez?
 
 **Evaluación de la sesión:** las decisiones se basan en lo que el estudiante produce, no en suposiciones sobre su lengua materna.
+
+### Preparar la muestra
+
+Elige una muestra de cinco minutos en la que el estudiante hable de un tema que domine, porque una tarea demasiado difícil produce sobre todo errores de contenido. Pide consentimiento, explica para qué usarás la grabación y guárdala solo en un lugar seguro. Si la transcribes, marca las pausas largas y las autocorrecciones, porque son datos valiosos sobre la interlengua. No publiques la grabación ni la transcripción con datos personales del estudiante.
+
+### Clasificar los errores paso a paso
+
+Trabaja sobre una tabla con tres columnas: la forma producida, la forma esperada y el tipo de error. Si el estudiante dice «*Yo quiero hablar con el doctor porque yo tengo hace tres días el dolor*», puedes registrar «tengo hace tres días» como posible transferencia de la estructura inglesa *I have had it for three days*. Si dice «*Me gusta mucho los perros*», el error es de concordancia; decide si es sobregeneralización de una regla o simplificación de la morfología según lo que observes en el resto de la muestra. Cuando tengas diez errores, agrúpalos y busca patrones: los que se repiten pesan más que los aislados.
+
+### Decidir si es error o falta
+
+Una regla práctica: pregunta al estudiante, sin darle la respuesta, si lo ha dicho bien. Si se autocorrige al primer intento, es una falta; si no reconoce el fallo o repite la misma forma, probablemente es un error. La prueba no es infalible, pero da una señal rápida para decidir si necesitas enseñanza o solo una señal.
+
+### Errores frecuentes en esta sesión
+
+Son comunes tres errores. Analizar demasiados errores de una vez, lo que impide actuar sobre ninguno. Clasificar sin mirar el contexto de cada frase. Y saltarse el cierre por falta de tiempo, cuando precisamente la decisión sobre la clase siguiente es el producto final de la sesión. Si el análisis se alarga, reduce la muestra a los tres errores más relevantes.
+
+### Adaptaciones por nivel
+
+Con un A2, la muestra puede ser más corta y la clasificación puede limitarse a dos o tres tipos de error. Con un C1, conviene incluir también errores de registro y de pragmática, más visibles en ese nivel. Con un estudiante adolescente, mantén un tono de juego y no comentes errores delante de otros compañeros si la sesión es de grupo.
+
+### Ejemplo de decisión final
+
+Al terminar el análisis, una decisión posible sería: trabajar la concordancia de *gustar* con una tarea de encuesta de preferencias durante dos semanas y comprobar en la grabación de la siguiente sesión si el uso se mantiene en conversación libre. Observa que la decisión incluye qué se trabaja, con qué tarea, durante cuánto tiempo y cómo se comprobará. Si una de esas cuatro partes falta, la decisión todavía no está completa.
 
 ## Evaluación y tarea del módulo {#evaluacion}
 
@@ -403,6 +519,34 @@ Que **conocer** la regla (conocimiento explícito) y **usarla** en tiempo real (
 - [ ] Mis clasificaciones de errores se basan en lo que el estudiante produce, no en suposiciones sobre su L1.
 - [ ] Cada decisión pedagógica se relaciona con un concepto concreto (input, interacción, output, recuperación…).
 - [ ] Incluyo al menos una actividad de mediación o de recuperación espaciada.
+
+### Cómo leer el cuestionario
+
+Las preguntas del cuestionario no buscan memorizar términos, sino comprobar que puedes aplicarlos. Cada una describe una situación de clase y pide identificar el concepto que la explica. Al responder, intenta primero explicar por qué la opción que te parece correcta lo es y, después, por qué las demás no. Algunas opciones están diseñadas para sonar razonables: adaptar la presentación al «estilo de aprendizaje» parece práctico, pero la evidencia no lo respalda. Si tienes dudas, vuelve a la lección correspondiente antes de confirmar la respuesta.
+
+### Preparar la grabación de la tarea
+
+Antes de grabar, revisa tres cuestiones. La primera es el consentimiento: el estudiante debe saber qué se grabará, para qué y quién lo verá, y debe poder negarse sin consecuencias. La segunda es la calidad técnica: un audio con eco o cortes hace que la transcripción sea poco fiable. La tercera es la naturalidad: pídele que hable de algo que le interese, como su trabajo, un viaje o una afición, y evita que lea un texto en voz alta, porque entonces mides la lectura y no la producción espontánea.
+
+### Guía para clasificar cinco errores
+
+1. Transcribe cinco minutos o, al menos, dos fragmentos de un minuto representativos.
+2. Marca cada desviación respecto a la norma, incluidas las que el estudiante corrige solo.
+3. Elige los cinco errores más informativos, no los más llamativos: un error que se repite en el fragmento vale más que uno aislado.
+4. Asigna a cada error un tipo de la tabla de la lección 2.5 y escribe una hipótesis de regla.
+5. Decide si es error o falta y, en el caso de los errores, qué actividad propondrías.
+
+### Ejemplo de respuesta
+
+Supón que en la muestra aparecen estas formas: «*Ayer yo ir al mercado*», «*Yo sabo que es difícil*», «*Estoy 30 años*», «*Hay muy gente en la tienda*» y «*Hola, tío, ¿qué pasa?*» dicho en una reunión formal. Clasificarías «ir» como simplificación, porque el estudiante omite la morfología del pretérito para comunicar; «sabo» como sobregeneralización de la regla regular; «estoy 30 años» como transferencia de la estructura inglesa; «muy gente» como simplificación del cuantificador; y «tío» en una reunión formal como error de registro. Para «ir» y «sabo» decidirías que son errores que merecen práctica focalizada, mientras que una forma que el estudiante corrige al primer aviso sería una falta. Una decisión posible: priorizar «sabo» e «ir» porque afectan a la precisión de la comunicación y son muy frecuentes.
+
+### Errores frecuentes al hacer la tarea
+
+Hay tres trampas habituales. La primera es elegir una muestra demasiado corta o demasiado guiada, que no permite ver la interlengua. La segunda es clasificar según lo que esperabas encontrar: si piensas que el estudiante es hablante de inglés, verás transferencia en todo. La tercera es decidir que todo son errores y proponer demasiadas actividades. Tres decisiones bien justificadas valen más que una lista de veinte.
+
+### Autoevaluación y retroalimentación
+
+Los criterios de autoevaluación no son un examen de perfección. Si al revisar tu trabajo detectas que tu clasificación cambió a mitad del análisis, es buena señal: significa que la tabla te obligó a mirar los datos. Si puedes, comparte tu análisis con un colega del curso y pregúntale qué error habría clasificado de otra manera. Las discrepancias son una fuente de aprendizaje y muestran que la clasificación de errores admite interpretaciones.
 
 ### Plan de 60 minutos
 

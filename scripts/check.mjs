@@ -87,7 +87,7 @@ for (const file of htmlFiles) {
 
   // Contenido mínimo en lecciones, clases y recursos
   const words = mainText(html).split(' ').filter(Boolean).length;
-  if (/^modulos\/[^/]+\/[^/]+\/index\.html$/.test(rel.split(path.sep).join('/')) && words < 250) errors.push(`${rel}: lección con poco contenido (${words} palabras)`);
+  if (/^modulos\/[^/]+\/[^/]+\/index\.html$/.test(rel.split(path.sep).join('/')) && words < 650) errors.push(`${rel}: lección con poco contenido (${words} palabras; mínimo 650)`);
   const claseMatch = rel.split(path.sep).join('/').match(/^clases\/([^/]+)\/index\.html$/);
   if (claseMatch) {
     // Mínimo proporcional a la duración de la clase (13 palabras por minuto).

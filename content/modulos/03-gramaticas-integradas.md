@@ -54,6 +54,44 @@ Llamamos aquí «gramática tradicional» a la descripción formal de la lengua 
 > «El pretérito imperfecto se usa para acciones habituales en el pasado, descripciones, acciones en desarrollo y acciones interrumpidas.»
 > Es útil como inventario, pero el estudiante pregunta: *«¿Y por qué se dice "ayer llovía cuando salí" y también "ayer llovió todo el día"?»*. La lista no responde; la perspectiva del hablante, sí.
 
+### Cuándo conviene recurrir a la gramática tradicional
+
+No todas las dificultades se resuelven con preguntas de significado. Hay tareas en las que el paradigma es la herramienta más eficiente: la conjugación de un verbo irregular que el estudiante necesita en una respuesta escrita, la concordancia de género y número en un texto formal o la acentuación de una forma verbal que cambia de sílaba tónica. En esos casos, una explicación formal breve y bien ordenada ahorra tiempo y evita que el estudiante invente sus propias reglas.
+
+Un criterio práctico: recurre a la descripción tradicional cuando el significado ya está claro y lo que falta es **la forma** (qué terminación, qué raíz, qué orden). Si el estudiante todavía no entiende para qué sirve la estructura, empieza por el significado y reserva el paradigma para después.
+
+### Cómo presentar un paradigma sin memorización mecánica
+
+Un paradigma se entiende mejor si se agrupa por patrones que el estudiante puede reconocer. Este procedimiento funciona bien en la mayoría de los niveles:
+
+1. **Elige una forma frecuente** y pide al estudiante que la use en una frase real.
+2. **Muestra el patrón completo**, no solo la forma aislada.
+3. **Señala qué cambia y qué no cambia.** En los verbos de cambio vocálico, la raíz cambia en las formas tónicas y no en *nosotros*.
+4. **Asocia cada forma con un uso o un contexto** (quién habla y con quién).
+5. **Practica en texto**, no solo en listas.
+
+Por ejemplo, el presente de *poder* (*puedo, puedes, puede, podemos, podéis, pueden*) se explica así: la vocal de la raíz cambia (o → ue) en las formas en que el acento cae en la raíz; en *podemos* y *podéis* el acento cae en la terminación y la raíz vuelve a *pod-*. El estudiante descubre el patrón con tres o cuatro ejemplos y lo comprueba con una frase propia.
+
+### Ejemplo trabajado: un verbo con primera persona irregular
+
+Tomemos *tener* y *salir*. Ambos tienen una primera persona irregular (*tengo, salgo*), pero se comportan de forma distinta en el resto del presente: *tener* cambia la raíz en otras formas (*tienes, tiene, tienen*), mientras que *salir* solo es irregular en *salgo*. Una tabla útil para el estudiante tiene tres columnas: la forma, una frase modelo y una nota de significado. Para *tengo*: «Tengo dos hermanos» (posesión). Para *salgo*: «Salgo a las ocho» (acción habitual).
+
+El tutor pide después que el estudiante complete la tabla sin mirar y compare con el original. El objetivo no es memorizar la tabla, sino ver que la irregularidad aparece en una sola forma y que cada frase modelo es la que sostiene la forma. Si el estudiante puede decir «tengo dos hermanos» y «salgo a las ocho» sin pensar en la conjugación, la tabla ha cumplido su función.
+
+### Errores frecuentes y cómo corregirlos
+
+- **Memorizar el paradigma sin uso.** El estudiante recita *tengo, tienes, tiene* y no sabe completar una frase con *tener*. Corrección: después de cada tabla, pide una frase real con esa forma.
+- **Explicar todas las excepciones a la vez.** Una lista de diez irregularidades satura y no distingue lo frecuente de lo raro. Corrección: empieza por las irregularidades de uso diario y deja las del registro culto para más adelante.
+- **Usar el metalenguaje como fin.** Decir «presente irregular de primera persona» no sirve de nada si el estudiante no sabe usar la forma. Corrección: el término sirve para localizar la forma en una gramática, no para evaluarla.
+- **Confundir sistematicidad con completitud.** Una regla general puede explicar la mayoría de los casos y aun así tener excepciones. Corrección: presenta la regla como punto de partida y trata las excepciones como bloques que se aprenden aparte.
+
+### Adaptaciones por edad y nivel
+
+- **A1:** tablas de tres o cuatro formas, con color para la raíz y la terminación. Evita términos como «verbo de cambio vocálico».
+- **A2–B1:** paradigmas completos de los verbos más frecuentes, con cambios vocálicos y primeras personas irregulares.
+- **Adolescentes:** convierte los paradigmas en tarjetas, juegos de emparejamiento o retos cronometrados. Mantén las sesiones de paradigma breves, porque la repetición mecánica cansa pronto.
+- **Adultos:** aprovecha su experiencia con gramáticas formales. Compara el paradigma con su lengua materna o con otra lengua que conozcan; eso reduce la inseguridad que muchos sienten al empezar.
+
 ### Plan de 60 minutos
 
 | Min. | Bloque | Qué hacer |
@@ -95,6 +133,41 @@ En la didáctica del español, autores como José Plácido Ruiz Campillo, Alejan
 > - **Abusar del metalenguaje cognitivo** («perfectividad», «perfil», «trayector») con estudiantes que no lo necesitan. La idea debe transmitirse con ejemplos y preguntas.
 > - **Olvidar la práctica.** Comprender el significado no automatiza la forma (ver Módulo 2).
 
+### Cómo formular preguntas de significado
+
+Una pregunta de significado pide al estudiante que compare dos enunciados o dos escenas y que diga qué cambia en lo que se comunica. No pide la regla, sino una interpretación. Para que funcione, conviene seguir cuatro criterios:
+
+- **Compara un par mínimo:** dos frases casi iguales que solo difieren en la forma que quieres enseñar.
+- **Pregunta por la información, no por la gramática:** «¿Qué cambia en la escena?» es mejor que «¿Por qué se usa este modo?».
+- **Usa palabras del estudiante:** evita términos como «perfectividad» o «figura y fondo» en esta fase.
+- **Prevé un caso que rompa la intuición:** así sabes si el estudiante ha entendido el valor o solo ha memorizado el ejemplo.
+
+### Un ejemplo trabajado: *hay* frente a *está(n)*
+
+Muestra al estudiante dos escenas: una plaza con varios bancos y nadie sentado, y una plaza en la que buscas un banco concreto que alguien te ha descrito. Después, pregunta:
+
+1. Si digo «Hay tres bancos en la plaza», ¿estoy señalando un banco que ya conocemos?
+2. Si digo «El banco azul está junto a la fuente», ¿hablo de algo que tú ya identificas?
+
+Las respuestas llevan a una distinción: *hay* presenta la existencia de algo que el oyente todavía no identifica, mientras que *estar* sitúa una entidad que ya está identificada en el contexto. Esta explicación no requiere ninguna regla formal y prepara el paso a la forma. Aun así, conviene tratar la relación con el artículo como una tendencia y no como una norma, porque hay ejemplos como «Hay un problema» que se refieren a algo conocido por el contexto.
+
+### Cómo comprobar que la explicación funciona
+
+Antes de avanzar, pide al estudiante que:
+
+- explique la diferencia con sus propias palabras;
+- aplique la idea a un caso nuevo que no hayas usado antes;
+- decida si una frase inventada por ti es adecuada y justifique la respuesta.
+
+Si el estudiante acierta con los ejemplos de clase y falla con el caso nuevo, la explicación se ha quedado en la memoria de los ejemplos. Vuelve a la escena y cambia el contexto antes de dar más explicación.
+
+### Adaptaciones por edad y nivel
+
+- **A1:** sin preguntas abstractas. Usa dos imágenes y una respuesta de sí o no, por ejemplo: «¿Esta persona ya está en la foto?».
+- **A2–B1:** preguntas de comparación con dos frases escritas; el estudiante puede dibujar la escena para justificar su respuesta.
+- **Adolescentes:** escenas tomadas de cómics, vídeos cortos o historias relacionadas con sus intereses. El humor de una escena facilita la atención.
+- **Adultos:** puedes introducir un poco de metalenguaje si el estudiante lo pide, siempre después de que haya comprendido la idea con ejemplos.
+
 ### Plan de 60 minutos
 
 | Min. | Bloque | Qué hacer |
@@ -131,6 +204,59 @@ El enfoque comunicativo, desarrollado desde los años setenta (con aportaciones 
 - **No es** renunciar a la precisión: la adecuación incluye la corrección.
 - **No es** improvisar: una buena tarea comunicativa se planifica con un objetivo lingüístico y un criterio de logro.
 
+### Diseñar una tarea comunicativa paso a paso
+
+Una tarea comunicativa no se improvisa, pero tampoco necesita ser compleja. Este procedimiento sirve para cualquier nivel:
+
+1. **Define la intención:** qué quiere conseguir el estudiante (pedir un favor, reservar, negociar, convencer).
+2. **Define el destinatario y el contexto:** quién escucha, dónde y con qué relación (un compañero de trabajo, un vecino, un profesor).
+3. **Elige la forma objetivo** que hace falta para cumplir la intención. Si la tarea no la necesita, no sirve para practicarla.
+4. **Define un resultado observable:** algo que exista al final, como un mensaje enviado, una decisión tomada o un plan acordado.
+5. **Crea una razón para hablar:** un vacío de información o una diferencia de opiniones que obligue a preguntar y a responder.
+6. **Escribe el criterio de logro** con un umbral medible.
+7. **Reserva un tiempo para reflexionar sobre la forma** después de la tarea.
+
+### Ejemplo trabajado: pedir un favor en la oficina
+
+Nivel A2. La intención es pedir a un compañero que cambie el turno de la semana siguiente. El contexto es una oficina pequeña en la que los dos trabajan con horarios rotativos. La forma objetivo son las peticiones corteses con *poder* (*¿Podrías cambiarme el turno del jueves?*) y la justificación con *porque*. El resultado es un acuerdo: el compañero acepta, propone una alternativa o rechaza la petición con una razón.
+
+El criterio de logro: el estudiante consigue un acuerdo en menos de tres minutos, usa al menos una fórmula de petición con *poder* y explica su razón. Después de la tarea, el tutor reproduce la conversación con dos formulaciones («¿Puedes cambiarme el turno?» y «¿Podrías cambiarme el turno del jueves, por favor?») y pregunta cuál suena más cortés y por qué. Esa reflexión es la que conecta la forma con la intención.
+
+### Focus on form dentro de la tarea
+
+La atención a la forma no tiene que romper la tarea. Hay tres maneras de hacerla compatible con la comunicación:
+
+- **Realce del input:** antes de la tarea, el tutor destaca en un texto o en un audio la forma objetivo, para que el estudiante la note sin una explicación larga.
+- **Reformulación correctiva (recast):** durante la tarea, el tutor repite la frase del estudiante con la forma correcta, sin interrumpir el mensaje. Funciona bien cuando el error no impide la comprensión.
+- **Reflexión posterior:** al final, el tutor muestra tres frases reales del estudiante y pregunta qué significa cada una, para que el estudiante compare y decida cuál es la adecuada.
+
+La clave es no corregir todo. Escoge uno o dos objetivos por tarea y deja los demás errores para otra ocasión.
+
+### Señales de que la tarea es comunicativa
+
+Puedes comprobar si una actividad es realmente comunicativa con unas preguntas sencillas:
+
+- ¿Hay una información que solo uno de los participantes tiene?
+- ¿El estudiante necesita negociar, preguntar o reaccionar para resolver algo?
+- ¿Termina con un resultado distinto de «hemos hablado»?
+- ¿Podría el estudiante hacer la misma tarea fuera de clase, con una persona real?
+
+Si la respuesta es no a casi todas, la actividad se parece más a una conversación libre que a una tarea.
+
+### Errores frecuentes en la práctica comunicativa
+
+- **Tareas sin vacío de información.** Ambos participantes saben todo y la conversación no tiene motivo. Corrección: reparte la información entre los dos.
+- **Interrumpir cada error.** Corrección: anota los errores durante la tarea y devuélvelos al final con ejemplos del propio estudiante.
+- **Evaluar solo la fluidez.** Un estudiante puede hablar mucho y no usar la forma objetivo. Corrección: el criterio de logro debe incluir la forma en contexto.
+- **Dejar la intención sin concretar.** «Habla sobre tus vacaciones» no tiene resultado. Corrección: «Convence a tu compañero de elegir tu destino».
+
+### Adaptaciones por edad y nivel
+
+- **Adolescentes:** tareas con un producto visible, como una encuesta de clase, un vídeo de un minuto o la planificación de un evento. Evita temas que los expongan.
+- **Adultos:** tareas con propósito profesional o administrativo, como preparar una reunión, reclamar un servicio o presentar un proyecto.
+- **A1–A2:** tareas más cortas y con apoyo visual; el objetivo es que el estudiante cumpla la intención con frases simples.
+- **B2–C1:** tareas con negociación, argumentación y registro; el criterio incluye la adecuación al destinatario.
+
 ### Plan de 60 minutos
 
 | Min. | Bloque | Qué hacer |
@@ -164,6 +290,44 @@ El enfoque comunicativo, desarrollado desde los años setenta (con aportaciones 
 > [!CONSEJO] La pregunta clave para cada estructura
 > Antes de diseñar una secuencia, completa esta frase: «Mi estudiante necesita usar [forma] para [intención] en [situación], y la dificultad principal es [forma / significado / uso]». Si la dificultad es formal (conjugar *tuve, estuve, pude*), prioriza la sistematización. Si es de significado (elegir entre indefinido e imperfecto), prioriza el contraste cognitivo. Si es de uso (sabe pero no lo usa), prioriza la práctica comunicativa.
 
+### Cómo leer la tabla en un caso concreto
+
+Imagina que un estudiante dice: «Está nervioso antes del examen». Las tres perspectivas responden de forma distinta a la misma frase:
+
+- La **gramática tradicional** identifica la forma (*estar* + adjetivo), la clasifica como estado y la sistematiza en una tabla.
+- La **gramática cognitiva** pregunta qué presenta el hablante. Si dijera «Es nervioso», hablaría del carácter de la persona y no de su estado en este momento.
+- El **enfoque comunicativo** pregunta cuándo y para qué se dice la frase: para explicar a un amigo por qué no quiere salir o para pedir comprensión antes de una prueba.
+
+Ninguna perspectiva basta por sí sola para enseñar la estructura, pero cada una aporta una pregunta distinta, y las tres juntas permiten diseñar una secuencia completa.
+
+### Un caso trabajado: el subjuntivo tras *quiero que*
+
+Un estudiante de nivel B1 escribe: «Quiero que tú vienes a la fiesta». Cada perspectiva ayuda a corregir el error de forma distinta:
+
+- **Tradicional:** *querer* + *que* exige subjuntivo (*vengas*). Es una regla clara, pero el estudiante no sabe por qué existe.
+- **Cognitiva:** el hablante no declara que la otra persona viene; desea que venga. El subjuntivo marca esa no declaración.
+- **Comunicativa:** el estudiante debe pedir algo a alguien en una situación real. La corrección se afianza cuando la frase se usa para invitar y no solo en un ejercicio.
+
+La secuencia más eficaz combina las tres: primero entiende la idea de deseo, después sistematiza la forma y finalmente la usa en una invitación real.
+
+### Errores al combinar las tres perspectivas
+
+- **Tratarlas como jerarquía.** Pensar que la comunicativa es «la buena» y la tradicional «la mala» lleva a eliminar la forma. Las tres aportan.
+- **Aplicarlas todas a la vez en cada frase.** Si el estudiante tiene que pensar en el paradigma, en la imagen y en la situación al mismo tiempo, se bloquea. Conviene separar las fases.
+- **Usar la perspectiva que el tutor domina, no la que el estudiante necesita.** Un tutor cómodo con los paradigmas tiende a explicarlo todo con tablas, aunque el estudiante necesite contexto.
+- **Olvidar el criterio de decisión.** Sin una pregunta previa, la elección se hace por costumbre. Usa la pregunta clave del apartado anterior.
+
+### Cuándo priorizar cada perspectiva según el perfil
+
+- **Principiante adulto con experiencia escolar en otra lengua:** puede empezar con una tabla y después pasar al significado; la tabla le da seguridad.
+- **Adolescente principiante:** prioriza la situación y el juego; la tabla va después, en pocas líneas.
+- **Estudiante intermedio con errores persistentes** (por ejemplo, con *por* y *para* o con *ser* y *estar* en la escritura): prioriza el significado y la práctica con retroalimentación, porque conocer la forma no basta.
+- **Estudiante avanzado con dudas de matiz:** prioriza el contraste de significado y el análisis de textos reales.
+
+### Qué responder cuando el estudiante pregunta «¿por qué?»
+
+Antes de dar una regla, devuelve la pregunta con un ejemplo: «¿Qué crees que cambia si digo "llovió" o "llovía"?». Si el estudiante no lo sabe, muestra dos escenas. Solo después de esa primera respuesta conviene ofrecer el paradigma o la regla formal, porque entonces la regla tiene un significado al que asociarse.
+
 ### Plan de 60 minutos
 
 | Min. | Bloque | Qué hacer |
@@ -192,6 +356,43 @@ Cada secuencia del módulo sigue estos ocho pasos. Los tiempos son orientativos 
 | 8. Adaptaciones por nivel | Cómo ajustar la secuencia | — | — |
 
 La [guía para integrar las tres gramáticas](/recursos/guia-integrar-gramaticas/) incluye una plantilla en blanco con estos pasos.
+
+### Por qué ocho pasos y no cuatro
+
+El modelo tiene ocho pasos porque cada uno responde a una pregunta que el estudiante necesita resolver. La situación comunicativa da el motivo (paso 1); el objetivo fija el resultado (paso 2); el significado orienta la atención (paso 3); la forma organiza lo descubierto (paso 4); la práctica controlada asegura un primer uso con apoyo (paso 5); la producción comprueba que el uso se transfiere (paso 6); la retroalimentación cierra el ciclo (paso 7), y la adaptación permite reutilizar la secuencia con otros grupos (paso 8). Si se eliminan pasos, suele desaparecer la pregunta que respondían. Un modelo de cuatro pasos (explicar, practicar, producir, corregir) es más corto, pero no resuelve por qué se usa la forma ni cómo se sabe que el estudiante la domina.
+
+### Un recorrido por la secuencia: *gustar* en A2
+
+Para ver el modelo en acción, imagina una secuencia breve sobre *gustar* en un nivel A2:
+
+1. **Situación:** el estudiante quiere hablar de sus gustos con una compañera de clase que acaba de mudarse a su barrio.
+2. **Objetivo:** expresar gustos y preferencias con *me gusta* y *me gustan*, con al menos 8 de 10 frases correctas.
+3. **Significado:** dos escenas (un plato de comida y un concierto) y la pregunta «¿quién siente el gusto y qué es lo que gusta?».
+4. **Forma:** el estudiante observa *me gusta el café* y *me gustan las películas* y descubre que el verbo concuerda con lo que gusta, no con quien lo siente.
+5. **Práctica:** transforma frases con *encantar* e *interesar* para comprobar que el patrón se mantiene.
+6. **Producción:** planifican juntos un fin de semana según sus gustos.
+7. **Retroalimentación:** el tutor marca el error «a mí gusta» y pregunta qué elemento de la frase concuerda con el verbo.
+8. **Adaptación:** para A1 se reduce a *me gusta / no me gusta*; para B1 se añaden *me sorprende* y *me preocupa*.
+
+### Ajustar la secuencia al tiempo disponible
+
+La tabla de tiempos es orientativa. Si solo tienes 50 minutos, reduce primero los pasos 1 y 2, que pueden hacerse en uno o dos minutos, y deja el paso 8 para después de la clase. No reduzcas el paso 6: sin producción no sabes si la forma se usa. Si el paso 3 se alarga, pasa a la práctica algunas preguntas de significado. Si el paso 4 se convierte en una explicación larga, vuelve a preguntar al estudiante.
+
+### Errores frecuentes al aplicar el modelo
+
+- **Saltar al paso 4.** Explicar la regla antes de presentar el significado produce memorización. Corrección: vuelve a las escenas.
+- **Hacer el paso 6 sin el paso 5.** El estudiante no ha tenido ocasión de usar la forma con control. Corrección: añade dos ítems de práctica guiada.
+- **Tratar el paso 8 como ejercicios extra.** Las adaptaciones deben cambiar la complejidad de la tarea o del apoyo, no solo el número de frases.
+- **Evaluar solo el paso 5.** Un buen resultado en huecos no garantiza el uso espontáneo.
+
+### Lista de comprobación antes de usar una secuencia
+
+- ¿La situación necesita la forma para resolverse?
+- ¿El objetivo tiene un criterio medible?
+- ¿Las preguntas de significado se pueden responder sin tecnicismos?
+- ¿La práctica controlada exige atender al significado?
+- ¿La tarea tiene un resultado observable?
+- ¿Hay al menos dos adaptaciones, una inferior y una superior?
 
 ### Plan de 60 minutos
 
@@ -667,6 +868,46 @@ Evitar repeticiones en una conversación de organización usando pronombres de o
 
 **Evaluación de la sesión:** la secuencia tiene las tres perspectivas (forma, significado y uso) y termina en una tarea evaluable.
 
+### Elegir la estructura para la sesión
+
+Para la sesión de 60 minutos conviene elegir una estructura con una dificultad clara y que puedas practicar con un estudiante real o simulado. Tres criterios ayudan a decidir:
+
+- **Frecuencia:** una forma que el estudiante va a usar a menudo en su vida real, como los pronombres de objeto en una conversación.
+- **Dificultad identificable:** sabes si el error es de forma, de significado o de uso, tal como se pedía en los criterios para combinar las perspectivas.
+- **Disponibilidad de materiales:** puedes preparar dos escenas o un texto breve sin tardar más de una hora.
+
+Evita elegir una estructura que domines tanto que no te obligue a pensar. La sesión es más útil cuando la secuencia te incomoda un poco, porque ahí se ven las decisiones que normalmente tomas sin darte cuenta.
+
+### Ejemplo de ensayo del paso 3
+
+Supón que has elegido los comparativos (*más… que, menos… que, tan… como*) para un estudiante de nivel B1. Las dos escenas podrían ser dos ciudades con temperaturas y precios distintos, y dos restaurantes con la misma comida pero distinto tiempo de espera. Las preguntas de significado serían:
+
+1. ¿Qué se compara en cada escena: dos cosas entre sí o algo con lo que se esperaba?
+2. Si digo «Este piso es tan caro como el otro», ¿los dos pisos cuestan lo mismo?
+3. Si digo «Esta ciudad es más grande que la otra», ¿qué tengo que saber para entender la frase?
+
+Este bloque se prepara en unos doce minutos y permite comprobar si el estudiante distingue entre comparar una cualidad y comparar cantidades, que es la confusión más frecuente en esta estructura.
+
+### Errores frecuentes en la sesión
+
+- **Planificar demasiado.** Cinco ítems de práctica son suficientes; con más de diez, el bloque 5 se alarga.
+- **No cronometrar.** Si el paso 3 ocupa veinte minutos, el paso 6 desaparece. Usa un temporizador visible.
+- **Cerrar sin evaluar.** Sin criterio de logro, la sesión termina en impresiones. Escribe el criterio antes de empezar.
+- **Hacer la sesión solo para ti.** Si el estudiante no interviene, el ensayo no mide nada. Pide su opinión sobre cada paso.
+
+### Pautas para revisar el ensayo
+
+Si el ensayo lo haces con un colega, una pauta sencilla es esta: dos minutos de observación sin interrumpir; después, tres preguntas (¿qué bloque fue más claro?, ¿qué pregunta no se entendió?, ¿en qué momento perdió el estudiante el hilo?) y una propuesta concreta de cambio. Anota las respuestas del estudiante y no solo tu impresión, porque la impresión suele favorecer la explicación que más te gusta.
+
+### Adaptar la sesión a una clase online
+
+En una sesión por videollamada, el material se comparte en pantalla o en un documento colaborativo. Algunas adaptaciones útiles:
+
+- Muestra las escenas con la pantalla compartida, pero comprueba antes que el estudiante las ve con buena calidad.
+- Para la práctica controlada, un documento con huecos funciona bien y permite guardar las respuestas para revisarlas después.
+- Si la tarea de producción es un audio, pide al estudiante que lo envíe después de la sesión y solo con su consentimiento.
+- Ten preparado un plan alternativo si la conexión falla: un texto impreso o una escena descrita de viva voz.
+
 ## Evaluación y tarea del módulo {#evaluacion}
 
 ```quiz
@@ -710,6 +951,55 @@ Evitar repeticiones en una conversación de organización usando pronombres de o
 | Producción | Conversación libre sin objetivo | Tarea con objetivo poco claro | Tarea con propósito, resultado y criterio |
 | Evaluación | Ausente | Criterio vago | Criterio medible y autoevaluación |
 | Adaptaciones | Ausentes | Para un nivel | Para al menos tres niveles |
+
+### Evaluar forma, significado y uso
+
+Una evaluación completa de la gramática integrada revisa tres dimensiones:
+
+- **Forma:** ¿el estudiante produce la estructura de manera correcta (conjugación, orden, concordancia)?
+- **Significado:** ¿elige la forma adecuada para lo que quiere decir y puede justificarlo?
+- **Uso:** ¿la emplea con adecuación en una situación real, con el destinatario y el registro correctos?
+
+Las tres dimensiones no siempre avanzan a la vez. Un estudiante puede tener la forma bien y elegir mal el significado, o al revés. Por eso conviene registrarlas por separado y no dar una única nota.
+
+### Escribir criterios de logro medibles
+
+Un criterio de logro útil combina cuatro elementos: quién actúa, qué hace, en qué condiciones y con qué umbral. Una fórmula sencilla es:
+
+> El estudiante [acción] en [situación], con al menos [umbral] de elecciones adecuadas.
+
+Por ejemplo: «El estudiante describe a una persona en una conversación de tres minutos, con 8 de 10 elecciones adecuadas de *ser* y *estar*». Compáralo con «el estudiante entiende ser y estar», que no dice qué observarás ni cuánto basta para considerar lograda la tarea.
+
+### Ejemplo trabajado: rúbrica mini para una tarea de producción
+
+Para la tarea «Te presento a mi gente», una rúbrica de tres criterios podría ser:
+
+| Criterio | En desarrollo | Logrado |
+|---|---|---|
+| Uso de *ser* para identidad y carácter | Confunde identidad y estado en la mitad de las frases | Usa *ser* para identidad y carácter en casi todas las frases |
+| Uso de *estar* para estado y localización | Usa *ser* donde corresponde *estar* | Usa *estar* para estados y localización con naturalidad |
+| Intención comunicativa | Describe sin reaccionar a lo que escucha | Reacciona, pregunta y mantiene la conversación |
+
+Este tipo de rúbrica tiene dos ventajas: el tutor sabe qué observar mientras escucha, y el estudiante sabe qué puede mejorar.
+
+### Evaluación formativa y sumativa
+
+La evaluación formativa ocurre durante el proceso y sirve para ajustar la enseñanza y la sesión siguiente. La sumativa certifica un resultado en un momento concreto. En una secuencia integrada, la mayor parte de la evaluación debe ser formativa: las notas de la tarea, las autocorrecciones del estudiante y las preguntas del tutor. Si hay una evaluación sumativa, debe basarse en una tarea comunicativa y no solo en huecos.
+
+### Autoevaluación y coevaluación
+
+La autoevaluación funciona cuando el estudiante tiene frases concretas que puede comprobar, no preguntas generales. «Puedo decir cómo es mi compañero de piso y cómo está hoy» es más útil que «sé usar ser y estar». En la coevaluación, dos estudiantes intercambian una grabación y marcan una cosa que han entendido bien y otra que no. Esto obliga a fijarse en el significado y no solo en la corrección.
+
+### Errores frecuentes en la evaluación
+
+- **Contar huecos correctos como prueba de dominio.** Un estudiante puede completar veinte huecos y no usar la forma al hablar.
+- **Evaluar solo la forma.** El tutor corrige la conjugación y olvida si la frase cumple la intención.
+- **Dar la nota sin retroalimentación.** Sin una observación concreta, el estudiante no sabe qué cambiar.
+- **Cambiar los criterios a mitad de la tarea.** Escribe el criterio antes de la tarea y compártelo con el estudiante.
+
+### Evaluar en línea
+
+En las clases online, la evaluación de la producción oral puede hacerse a partir de una grabación. Pide permiso al estudiante antes de grabar, guarda el archivo en un lugar que ambos controlen y evalúa con la rúbrica en una escucha separada. La grabación permite revisar la pronunciación, el orden de palabras y la elección de la forma sin depender de la memoria del tutor, algo especialmente útil cuando la sesión tiene varios bloques.
 
 ### Plan de 60 minutos
 
