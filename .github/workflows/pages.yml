@@ -21,6 +21,8 @@ jobs:
   build:
     name: Construir y comprobar
     runs-on: ubuntu-latest
+    outputs:
+      pages_ready: ${{ steps.pages.outcome == 'success' }}
     env:
       PUBLISH: ${{ github.event_name != 'pull_request' && github.ref_name == github.event.repository.default_branch }}
     steps:
@@ -39,7 +41,12 @@ jobs:
       - name: Obtener la URL de GitHub Pages
         id: pages
         if: env.PUBLISH == 'true'
+        continue-on-error: true
         uses: actions/configure-pages@v5
+
+      - name: Avisar si GitHub Pages no está activado
+        if: env.PUBLISH == 'true' && steps.pages.outcome != 'success'
+        run: echo "::warning title=GitHub Pages no está activado::Activa Settings → Pages → Source «GitHub Actions» y vuelve a ejecutar este flujo para publicar el sitio."
 
       - name: Construir el sitio
         run: npm run build
@@ -50,7 +57,7 @@ jobs:
         run: npm run check
 
       - name: Subir el sitio para GitHub Pages
-        if: env.PUBLISH == 'true'
+        if: env.PUBLISH == 'true' && steps.pages.outcome == 'success'
         uses: actions/upload-pages-artifact@v4
         with:
           path: dist
@@ -58,7 +65,7 @@ jobs:
   deploy:
     name: Publicar en GitHub Pages
     needs: build
-    if: github.event_name != 'pull_request' && github.ref_name == github.event.repository.default_branch
+    if: github.event_name != 'pull_request' && github.ref_name == github.event.repository.default_branch && needs.build.outputs.pages_ready == 'true'
     runs-on: ubuntu-latest
     permissions:
       pages: write
