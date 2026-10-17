@@ -34,11 +34,34 @@ for (const r of required) if (!fs.existsSync(path.join(DIST, r))) errors.push(`F
 
 // 2. Mínimos de contenido
 if (info.modulos < 17) errors.push(`Se esperaban 17 módulos y hay ${info.modulos}`);
-if (info.clases < 22) errors.push(`Se esperaban al menos 22 clases modelo y hay ${info.clases}`);
+if (info.clases < 37) errors.push(`Se esperaban al menos 37 clases modelo y hay ${info.clases}`);
 if (info.recursos < 18) errors.push(`Se esperaban al menos 18 recursos y hay ${info.recursos}`);
 
 const textOf = (html) => html.replace(/<script[\s\S]*?<\/script>/g, '').replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ');
 const mainText = (html) => textOf((html.match(/<main[\s\S]*<\/main>/) || [''])[0]);
+
+// 2b. Cobertura: cada combinación de nivel y edad debe tener al menos una clase modelo
+const NIVELES = ['Pre-A1', 'A1', 'A2', 'B1', 'B2', 'C1', 'C2'];
+const EDADES = ['Niños 4-6', 'Niños 7-10', 'Adolescentes', 'Adultos'];
+const cubiertas = new Set();
+for (const f of fs.readdirSync(path.join(ROOT, 'content/clases'))) {
+  const fm = fs.readFileSync(path.join(ROOT, 'content/clases', f), 'utf8').match(/^---\n([\s\S]*?)\n---/);
+  if (!fm) continue;
+  const lista = (clave) => (fm[1].match(new RegExp(`^${clave}: \\[(.*)\\]`, 'm'))?.[1] || '').split(',').map((v) => v.trim());
+  for (const n of lista('levels')) for (const e of lista('ages')) cubiertas.add(`${n}|${e}`);
+}
+for (const n of NIVELES) for (const e of EDADES) {
+  if (!cubiertas.has(`${n}|${e}`)) errors.push(`Sin clase modelo para nivel ${n} y edad ${e}`);
+}
+
+// Duración de cada clase modelo (para el mínimo de contenido)
+const duracionClase = {};
+for (const f of fs.readdirSync(path.join(ROOT, 'content/clases'))) {
+  const txt = fs.readFileSync(path.join(ROOT, 'content/clases', f), 'utf8');
+  const slug = txt.match(/^slug: (.+)$/m)?.[1]?.trim();
+  const dur = txt.match(/^duration: (\d+)/m)?.[1];
+  if (slug && dur) duracionClase[slug] = Number(dur);
+}
 
 // 3. Revisión página a página
 let linkCount = 0;
@@ -55,7 +78,13 @@ for (const file of htmlFiles) {
   // Contenido mínimo en lecciones, clases y recursos
   const words = mainText(html).split(' ').filter(Boolean).length;
   if (/^modulos\/[^/]+\/[^/]+\/index\.html$/.test(rel.split(path.sep).join('/')) && words < 250) errors.push(`${rel}: lección con poco contenido (${words} palabras)`);
-  if (/^clases\/[^/]+\/index\.html$/.test(rel.split(path.sep).join('/')) && words < 800) errors.push(`${rel}: clase modelo con poco contenido (${words} palabras)`);
+  const claseMatch = rel.split(path.sep).join('/').match(/^clases\/([^/]+)\/index\.html$/);
+  if (claseMatch) {
+    // Mínimo proporcional a la duración de la clase (13 palabras por minuto).
+    const minutos = duracionClase[claseMatch[1]] || 60;
+    const minimo = Math.round(minutos * 13);
+    if (words < minimo) errors.push(`${rel}: clase modelo con poco contenido (${words} palabras; mínimo ${minimo} para ${minutos} min)`);
+  }
 
   // Enlaces internos
   if (rel === '404.html') continue; // usa rutas absolutas con la ruta base de producción
