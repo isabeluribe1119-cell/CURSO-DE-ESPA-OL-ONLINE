@@ -34,7 +34,7 @@ for (const r of required) if (!fs.existsSync(path.join(DIST, r))) errors.push(`F
 
 // 2. Mínimos de contenido
 if (info.modulos < 17) errors.push(`Se esperaban 17 módulos y hay ${info.modulos}`);
-if (info.clases < 37) errors.push(`Se esperaban al menos 37 clases modelo y hay ${info.clases}`);
+if (info.clases < 57) errors.push(`Se esperaban al menos 57 clases modelo y hay ${info.clases}`);
 if (info.recursos < 18) errors.push(`Se esperaban al menos 18 recursos y hay ${info.recursos}`);
 
 const textOf = (html) => html.replace(/<script[\s\S]*?<\/script>/g, '').replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ');
@@ -62,6 +62,16 @@ for (const f of fs.readdirSync(path.join(ROOT, 'content/clases'))) {
   const dur = txt.match(/^duration: (\d+)/m)?.[1];
   if (slug && dur) duracionClase[slug] = Number(dur);
 }
+
+// 2c. Cobertura de metodologías: cada una de las del Módulo 10 debe aparecer en al menos dos clases
+const METODOLOGIAS = ['Enfoque comunicativo', 'Enseñanza basada en tareas', 'TPRS', 'Aprendizaje basado en problemas', 'Práctica de recuperación', 'Repetición espaciada', 'Gamificación', 'Andamiaje', 'Enseñanza inductiva', 'Enseñanza deductiva'];
+const porMetodo = Object.fromEntries(METODOLOGIAS.map((m) => [m, 0]));
+for (const f of fs.readdirSync(path.join(ROOT, 'content/clases'))) {
+  const fm = fs.readFileSync(path.join(ROOT, 'content/clases', f), 'utf8').match(/^methods: \[(.*)\]/m);
+  if (!fm) continue;
+  for (const m of fm[1].split(',').map((v) => v.trim())) if (m in porMetodo) porMetodo[m]++;
+}
+for (const m of METODOLOGIAS) if (porMetodo[m] < 2) errors.push(`La metodología «${m}» tiene ${porMetodo[m]} clase(s); se esperan al menos 2`);
 
 // 3. Revisión página a página
 let linkCount = 0;
