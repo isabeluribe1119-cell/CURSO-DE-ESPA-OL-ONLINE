@@ -14,6 +14,8 @@ const config = JSON.parse(fs.readFileSync(path.join(ROOT, 'site.config.json'), '
 const SITE_URL = (process.env.SITE_URL || config.siteUrl).replace(/\/+$/, '');
 const BASE_PATH = new URL(SITE_URL + '/').pathname; // p. ej. /CURSO-DE-ESPA-OL-ONLINE/
 const BUILD_DATE = new Date().toISOString().slice(0, 10);
+// En GitHub Actions se usa la rama por defecto real del repositorio para los enlaces de edición.
+const EDIT_BRANCH = process.env.EDIT_BRANCH || config.branch;
 
 // ---------------------------------------------------------------------------
 // Utilidades
@@ -440,7 +442,7 @@ function addPage(p) {
 }
 
 const editLink = (source) =>
-  `<p class="edit-link small">${icon('pencil')} <a href="${config.repository}/edit/${config.branch}/${source}" rel="noopener" target="_blank">Proponer una mejora a esta página en GitHub<span class="sr-only"> (se abre en una pestaña nueva)</span></a></p>`;
+  `<p class="edit-link small">${icon('pencil')} <a href="${config.repository}/edit/${EDIT_BRANCH}/${source}" rel="noopener" target="_blank">Proponer una mejora a esta página en GitHub<span class="sr-only"> (se abre en una pestaña nueva)</span></a></p>`;
 
 const tagList = (items = [], cls = '') => items.map((t) => `<span class="tag ${cls}">${esc(t)}</span>`).join(' ');
 

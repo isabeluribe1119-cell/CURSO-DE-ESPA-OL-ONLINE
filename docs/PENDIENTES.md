@@ -5,7 +5,7 @@ Estado a 17 de octubre de 2026 (versión 1.0.0).
 ## Pasos manuales pendientes (requieren a la titular del repositorio)
 
 - [ ] **Activar GitHub Pages:** Settings → Pages → Source: «GitHub Actions» ([guía](PUBLICACION.md)).
-- [ ] **Fusionar el trabajo en la rama por defecto** (o fijar como rama por defecto la rama que contiene el curso) para que se publique y para que funcionen los enlaces «Proponer una mejora», que apuntan a `main`.
+- [ ] (Opcional) Si prefieres trabajar con una rama `main`, créala desde la rama actual y fíjala como rama por defecto en Settings → General. Los enlaces «Proponer una mejora» usan automáticamente la rama por defecto en cada publicación.
 - [ ] **Confirmar que el repositorio es público** (Settings → General → Danger Zone).
 - [ ] **Verificar el enlace de PayPal** o crear un botón alojado y pegar su `hosted_button_id` en `site.config.json` ([guía](DONACIONES.md)).
 - [ ] **Completar la página «Sobre la autora»** (`content/paginas/autora.md`) con la trayectoria que se quiera hacer pública.
@@ -16,7 +16,7 @@ Estado a 17 de octubre de 2026 (versión 1.0.0).
 ## Revisión académica pendiente
 
 - [ ] Verificar los enlaces marcados con 🔎 en la bibliografía.
-- [ ] Confirmar la edición de referencia de *Fluency through TPR Storytelling* y la editorial actual de la *Gramática comunicativa del español* (Matte Bon).
+- [x] Edición de referencia de *Fluency through TPR Storytelling* (1998, 2.ª ed.) y de la *Gramática comunicativa del español* (Edelsa, 1995) confirmadas en catálogos.
 - [ ] Revisar periódicamente el Módulo 13 (plataformas): comisiones y requisitos cambian.
 - [ ] Revisión externa por especialistas en ELE de los Módulos 2 y 3.
 

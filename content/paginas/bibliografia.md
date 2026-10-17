@@ -22,7 +22,7 @@ lead: Referencias organizadas por temas, con indicación del tipo de fuente y de
 
 ## Formación docente {#formacion-docente}
 
-- Instituto Cervantes (2012). *Las competencias clave del profesorado de lenguas segundas y extranjeras*. Madrid: Instituto Cervantes, Dirección Académica. 🔎 [Centro Virtual Cervantes — Competencias del profesorado](https://cvc.cervantes.es/ensenanza/biblioteca_ele/competencias/)
+- Instituto Cervantes (2012). *Las competencias clave del profesorado de lenguas segundas y extranjeras*. Madrid: Instituto Cervantes, Dirección Académica. 🔎 [Documento en PDF (Centro Virtual Cervantes)](https://cvc.cervantes.es/ensenanza/biblioteca_ele/competencias/competencias_profesorado.pdf)
 - Kumaravadivelu, B. (2006). *Understanding language teaching: From method to postmethod*. Mahwah, NJ: Lawrence Erlbaum. *Obra de síntesis.*
 - Richards, J. C. y Rodgers, T. S. (2014). *Approaches and methods in language teaching* (3.ª ed.). Cambridge: Cambridge University Press. *Manual.*
 
@@ -81,7 +81,7 @@ lead: Referencias organizadas por temas, con indicación del tipo de fuente y de
 - Llopis-García, R., Real Espinosa, J. M. y Ruiz Campillo, J. P. (2012). *Qué gramática enseñar, qué gramática aprender*. Madrid: Edinumen.
 - Castañeda Castro, A. (coord.) (2014). *Enseñanza de gramática avanzada de ELE: criterios y recursos*. Madrid: SGEL.
 - Ruiz Campillo, J. P. (2008). El valor central del subjuntivo: ¿informatividad o declaratividad? *marcoELE. Revista de Didáctica Español Lengua Extranjera*, 7, 1–44. 🔎 [marcoELE](https://marcoele.com/)
-- Matte Bon, F. (1992). *Gramática comunicativa del español*. Madrid: Difusión. 🔎 *Edición y editorial actuales pendientes de revisión.*
+- Matte Bon, F. (1995). *Gramática comunicativa del español* (ed. revisada; tomo I: *De la lengua a la idea*; tomo II: *De la idea a la lengua*). Madrid: Edelsa.
 
 ## Variación lingüística y perspectiva panhispánica {#variacion}
 
@@ -98,7 +98,7 @@ lead: Referencias organizadas por temas, con indicación del tipo de fuente y de
 - Long, M. H. (1991). Focus on form: A design feature in language teaching methodology. En K. de Bot, R. B. Ginsberg y C. Kramsch (Eds.), *Foreign language research in cross-cultural perspective* (pp. 39–52). Ámsterdam: John Benjamins.
 - Long, M. H. (2015). *Second language acquisition and task-based language teaching*. Malden, MA: Wiley-Blackwell.
 - Asher, J. J. (1969). The total physical response approach to second language learning. *The Modern Language Journal*, 53(1), 3–17.
-- Ray, B. y Seely, C. *Fluency through TPR Storytelling*. Berkeley: Command Performance Language Institute. 🔎 *Varias ediciones; año de la edición de referencia pendiente de revisión.*
+- Ray, B. y Seely, C. (1998). *Fluency through TPR Storytelling: Achieving real language acquisition in school* (2.ª ed.). Berkeley, CA: Command Performance Language Institute. *Hay reimpresiones y ediciones posteriores ampliadas.*
 
 ## Evaluación y retroalimentación {#evaluacion}
 

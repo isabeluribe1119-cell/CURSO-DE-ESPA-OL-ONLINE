@@ -61,7 +61,7 @@ npm ci
 | Campo | Uso |
 |---|---|
 | `siteUrl` | URL pública por defecto (el flujo de GitHub Actions la sustituye por la real mediante `SITE_URL`) |
-| `repository`, `branch` | Enlaces «Proponer una mejora» al pie de cada página |
+| `repository`, `branch` | Enlaces «Proponer una mejora» al pie de cada página (en GitHub Actions, `branch` se sustituye por la rama por defecto real) |
 | `paypal` | Configuración del botón de donación (ver [DONACIONES.md](DONACIONES.md)) |
 | `contact` | Enlaces públicos opcionales (Instagram, YouTube, LinkedIn, web); vacíos = ocultos |
 | `lastReview` | Fecha de la última revisión del contenido que aparece en el pie |
