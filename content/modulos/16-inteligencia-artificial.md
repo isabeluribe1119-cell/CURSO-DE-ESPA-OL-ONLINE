@@ -292,6 +292,25 @@ Indica qué hace el adulto acompañante en cada juego, si es necesario.
 
 Descarga el [banco completo de prompts](/recursos/banco-prompts/).
 
+## Sesión de 60 minutos: crear y evaluar material con IA {#sesion-60}
+
+> **Objetivo de la sesión:** usar tres prompts de la biblioteca para producir material, evaluarlo con la tabla de criterios y mejorar el prompt.
+
+**Antes de empezar:** reserva la hora completa, ten a mano los materiales de la tabla y, si practicas con un estudiante real o simulado, avisa de que la sesión tiene un objetivo de trabajo. Cronometra cada bloque; si uno se alarga, reduce el siguiente en lugar de saltarte el cierre.
+
+| Min. | Bloque | Qué hacer | Producto |
+|---|---|---|---|
+| 0–8 | Anonimizar | Preparar un perfil de estudiante sin datos personales (lección 16.9) | Perfil anonimizado |
+| 8–22 | Generar | Ejecutar el prompt de plan de clase y el de diálogo por nivel (lección 16.3 y 16.2) | Dos resultados |
+| 22–34 | Evaluar | Resolver tú la actividad y leer el diálogo en voz alta (lección 16.7) | Errores anotados |
+| 34–46 | Verificar | Comprobar datos, fuentes y variedad con diccionarios y referencias | Datos verificados |
+| 46–54 | Mejorar | Reescribir el prompt añadiendo restricciones para corregir los errores | Prompt mejorado |
+| 54–60 | Registro | Guardar el prompt en tu biblioteca con variables y criterios | Entrada en la biblioteca |
+
+**Preguntas para cerrar la sesión:** ¿qué bloque se alargó más de lo previsto? ¿Qué parte te resultó más útil para tu práctica? ¿Qué harás de forma distinta la próxima vez?
+
+**Evaluación de la sesión:** el material final tiene errores corregidos por ti, y el prompt mejorado evita al menos uno de los errores encontrados.
+
 ## Evaluación y tarea del módulo {#evaluacion}
 
 ```quiz

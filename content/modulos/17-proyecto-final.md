@@ -100,6 +100,25 @@ Al menos un material completo creado por ti (ficha, presentación, juego, lectur
 - Registro de fuentes y licencias de cualquier elemento de terceros.
 - Si usaste IA: indicación de cómo la usaste y qué revisaste.
 
+## Sesión de 60 minutos: esquema del proyecto final {#sesion-60}
+
+> **Objetivo de la sesión:** tener el esquema completo del proyecto final, con cada componente asignado a un bloque de trabajo.
+
+**Antes de empezar:** reserva la hora completa, ten a mano los materiales de la tabla y, si practicas con un estudiante real o simulado, avisa de que la sesión tiene un objetivo de trabajo. Cronometra cada bloque; si uno se alarga, reduce el siguiente en lugar de saltarte el cierre.
+
+| Min. | Bloque | Qué hacer | Producto |
+|---|---|---|---|
+| 0–8 | Perfil | Elegir estudiante real (con consentimiento) o simulado y redactar su perfil | Perfil |
+| 8–18 | Diagnóstico y objetivos | Resultados del diagnóstico y objetivo general con tres de unidad | Diagnóstico y objetivos |
+| 18–30 | Secuencia | Esquema de tres clases con su objetivo y la tarea final | Esquema de clases |
+| 30–40 | Material y evaluación | Elegir el material original y la tarea de evaluación con su rúbrica | Lista de entregables |
+| 40–50 | Reflexión y seguimiento | Preguntas de la reflexión y fechas del plan de seguimiento | Esquema de reflexión |
+| 50–60 | Autoevaluación | Pasar la lista de comprobación final del módulo | Lista marcada y próximos pasos |
+
+**Preguntas para cerrar la sesión:** ¿qué bloque se alargó más de lo previsto? ¿Qué parte te resultó más útil para tu práctica? ¿Qué harás de forma distinta la próxima vez?
+
+**Evaluación de la sesión:** el esquema tiene los nueve componentes obligatorios y cada uno tiene una fecha de entrega.
+
 ## Evaluación, rúbrica y seguimiento
 
 > **Objetivo de la lección:** completar los componentes de evaluación y continuidad.

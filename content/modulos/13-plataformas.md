@@ -171,6 +171,24 @@ Muchos tutores combinan ambos modelos. Una progresión frecuente:
 > [!ACTIVIDAD] Tu mapa de riesgos
 > Calcula qué porcentaje de tus ingresos de los últimos tres meses procede de cada fuente. Si una sola supera el 70–80 %, define una acción concreta para el próximo trimestre que reduzca esa dependencia sin incumplir las normas de ninguna plataforma.
 
+## Sesión de 60 minutos: comparar dos plataformas con fuentes verificadas {#sesion-60}
+
+> **Objetivo de la sesión:** completar la matriz de evaluación para dos plataformas, con cada dato vinculado a su fuente y a su fecha.
+
+**Antes de empezar:** reserva la hora completa, ten a mano los materiales de la tabla y, si practicas con un estudiante real o simulado, avisa de que la sesión tiene un objetivo de trabajo. Cronometra cada bloque; si uno se alarga, reduce el siguiente en lugar de saltarte el cierre.
+
+| Min. | Bloque | Qué hacer | Producto |
+|---|---|---|---|
+| 0–8 | Criterios | Repasar la matriz de la lección 13.1 | Criterios elegidos |
+| 8–24 | Plataforma A | Buscar los términos oficiales para tutores y anotar comisión, requisitos y políticas (lección 13.2 a 13.4) | Ficha A con fuentes |
+| 24–40 | Plataforma B | Repetir con la segunda plataforma | Ficha B con fuentes |
+| 40–50 | Comparación | Cruzar ambas fichas en autonomía, visibilidad y dependencia (lección 13.6) | Tabla comparativa |
+| 50–60 | Decisión | Escribir tu decisión, sus riesgos y la acción para reducir la dependencia | Párrafo de decisión |
+
+**Preguntas para cerrar la sesión:** ¿qué bloque se alargó más de lo previsto? ¿Qué parte te resultó más útil para tu práctica? ¿Qué harás de forma distinta la próxima vez?
+
+**Evaluación de la sesión:** cada dato tiene fuente oficial y fecha; los rumores quedan fuera de la tabla.
+
 ## Evaluación y tarea del módulo {#evaluacion}
 
 ```quiz

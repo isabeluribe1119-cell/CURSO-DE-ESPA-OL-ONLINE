@@ -230,6 +230,25 @@ Los intervalos exactos no son una regla fija: las aplicaciones de repetición es
 | Producción | Tarea: contar una anécdota con un «antes» relevante | Uso comunicativo |
 | Cierre | Tarjetas para repetición espaciada con 6 expresiones | Retención a largo plazo |
 
+## Sesión de 60 minutos: diseñar una clase con tres metodologías combinadas {#sesion-60}
+
+> **Objetivo de la sesión:** combinar de forma fundamentada tres técnicas para un objetivo, con su justificación y sus límites.
+
+**Antes de empezar:** reserva la hora completa, ten a mano los materiales de la tabla y, si practicas con un estudiante real o simulado, avisa de que la sesión tiene un objetivo de trabajo. Cronometra cada bloque; si uno se alarga, reduce el siguiente en lugar de saltarte el cierre.
+
+| Min. | Bloque | Qué hacer | Producto |
+|---|---|---|---|
+| 0–8 | Objetivo y estudiante | Elegir objetivo y perfil | Ficha del caso |
+| 8–20 | Técnica 1 | Elegir una técnica de input (TPRS, tarea o TPR) y escribir su fase (lecciones 10.2 y 10.3) | Fase 1 |
+| 20–32 | Técnica 2 | Elegir una técnica de forma (inductiva o deductiva) con andamiaje (lecciones 10.8 y 10.9) | Fase 2 |
+| 32–44 | Técnica 3 | Elegir una técnica de retención (recuperación o repetición espaciada) (lecciones 10.4 y 10.5) | Fase 3 |
+| 44–52 | Justificación | Escribir por qué cada técnica responde al objetivo y cuál es su límite | Tres justificaciones |
+| 52–60 | Revisión | Comprobar que no es eclecticismo arbitrario: cada fase conduce a la siguiente | Visto bueno del esquema |
+
+**Preguntas para cerrar la sesión:** ¿qué bloque se alargó más de lo previsto? ¿Qué parte te resultó más útil para tu práctica? ¿Qué harás de forma distinta la próxima vez?
+
+**Evaluación de la sesión:** cada técnica tiene una razón, un límite y una forma de compensarlo.
+
 ## Evaluación y tarea del módulo {#evaluacion}
 
 ```quiz

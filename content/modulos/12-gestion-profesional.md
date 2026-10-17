@@ -181,6 +181,25 @@ La enseñanza online puede llevar a jornadas largas, horarios nocturnos por las 
 > [!CONSEJO] Calcula tus horas reales
 > Una hora de clase implica tiempo de preparación, mensajes, administración y formación. Si das 30 horas de clase y dedicas 15 más a todo lo demás, tu semana es de 45 horas. Ten en cuenta este dato al fijar precios ([Módulo 15](/modulos/15-precios-ingresos/)).
 
+## Sesión de 60 minutos: montar tu kit profesional {#sesion-60}
+
+> **Objetivo de la sesión:** redactar las políticas básicas con las que trabajarás: cancelación, datos, menores y horario.
+
+**Antes de empezar:** reserva la hora completa, ten a mano los materiales de la tabla y, si practicas con un estudiante real o simulado, avisa de que la sesión tiene un objetivo de trabajo. Cronometra cada bloque; si uno se alarga, reduce el siguiente en lugar de saltarte el cierre.
+
+| Min. | Bloque | Qué hacer | Producto |
+|---|---|---|---|
+| 0–10 | Espacio y técnica | Revisar audio, cámara, luz y conexión con la lista de comprobación (lección 12.1 y 12.2) | Lista técnica |
+| 10–22 | Cancelación | Redactar una política de cancelación y reprogramación (lección 12.7) | Política escrita |
+| 22–34 | Datos | Escribir qué datos pides, para qué y cuánto los guardas (lección 12.5) | Texto de privacidad |
+| 34–46 | Menores | Definir el canal con la familia y el protocolo de preocupación (lección 12.6) | Protocolo |
+| 46–54 | Horario | Fijar tu límite de horas de clase y tus bloques de preparación (lección 12.11) | Calendario tipo |
+| 54–60 | Mensajes | Escribir tres plantillas: bienvenida, recordatorio y seguimiento (lección 12.8) | Plantillas |
+
+**Preguntas para cerrar la sesión:** ¿qué bloque se alargó más de lo previsto? ¿Qué parte te resultó más útil para tu práctica? ¿Qué harás de forma distinta la próxima vez?
+
+**Evaluación de la sesión:** tienes una política por escrito para cada punto, y ninguna pide datos que no necesitas.
+
 ## Evaluación y tarea del módulo {#evaluacion}
 
 ```quiz

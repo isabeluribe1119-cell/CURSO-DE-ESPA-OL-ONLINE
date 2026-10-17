@@ -254,6 +254,25 @@ El SEO (*search engine optimization*) busca que tu perfil, web o vídeos aparezc
 > [!CONSEJO] No midas tu valor por los seguidores
 > Muchos tutores con pocos seguidores tienen agendas completas gracias a las recomendaciones y a la retención. Mide **conversión y retención** antes que visualizaciones.
 
+## Sesión de 60 minutos: tu propuesta de valor y tu primer calendario de contenido {#sesion-60}
+
+> **Objetivo de la sesión:** definir nicho, propuesta de valor y cuatro semanas de publicaciones éticas.
+
+**Antes de empezar:** reserva la hora completa, ten a mano los materiales de la tabla y, si practicas con un estudiante real o simulado, avisa de que la sesión tiene un objetivo de trabajo. Cronometra cada bloque; si uno se alarga, reduce el siguiente en lugar de saltarte el cierre.
+
+| Min. | Bloque | Qué hacer | Producto |
+|---|---|---|---|
+| 0–10 | Nicho | Cruzar tu experiencia, necesidades y viabilidad (lección 14.1) | Nicho elegido |
+| 10–22 | Propuesta | Escribir la propuesta de valor con la fórmula de la lección 14.2 | Frase de valor |
+| 22–34 | Perfil | Redactar biografía de 150 caracteres y el primer párrafo del perfil (lección 14.3) | Dos textos |
+| 34–48 | Calendario | Elegir 3 pilares y 8 publicaciones para cuatro semanas (lección 14.6) | Calendario |
+| 48–56 | Ética | Revisar cada pieza con la comprobación ética de la plantilla de propuesta de valor | Lista marcada |
+| 56–60 | Seguimiento | Escribir dos mensajes de seguimiento sin presión (lección 14.9) | Plantillas |
+
+**Preguntas para cerrar la sesión:** ¿qué bloque se alargó más de lo previsto? ¿Qué parte te resultó más útil para tu práctica? ¿Qué harás de forma distinta la próxima vez?
+
+**Evaluación de la sesión:** ninguna pieza promete resultados garantizados y las credenciales son verificables.
+
 ## Evaluación y tarea del módulo {#evaluacion}
 
 ```quiz

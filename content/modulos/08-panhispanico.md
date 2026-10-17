@@ -226,6 +226,25 @@ Una propuesta razonable:
 
 Consulta los enlaces en la [bibliografía](/bibliografia/#variacion) y la [clase modelo de español colombiano y variación](/clases/espanol-colombiano-variacion/).
 
+## Sesión de 60 minutos: una actividad sobre variación sin jerarquías {#sesion-60}
+
+> **Objetivo de la sesión:** preparar una actividad de 20 minutos que compare dos variedades del español sin presentar ninguna como inferior.
+
+**Antes de empezar:** reserva la hora completa, ten a mano los materiales de la tabla y, si practicas con un estudiante real o simulado, avisa de que la sesión tiene un objetivo de trabajo. Cronometra cada bloque; si uno se alarga, reduce el siguiente en lugar de saltarte el cierre.
+
+| Min. | Bloque | Qué hacer | Producto |
+|---|---|---|---|
+| 0–10 | Mapa | Repasar las áreas dialectales y los rasgos de lección 8.1 y 8.2 | Mapa personal |
+| 10–22 | Material auténtico | Seleccionar un audio o vídeo de acceso público (enlazado, no descargado) y verificar su procedencia (lección 8.7) | Enlace y ficha |
+| 22–34 | Actividad | Diseñar comprensión global, tres rasgos a identificar y una reflexión (lección 8.6) | Actividad de 20 min |
+| 34–46 | Léxico y registro | Preparar una tabla de equivalencias y dos coloquialismos con su registro (lección 8.4) | Tabla |
+| 46–54 | Discurso | Redactar la explicación del tutor evitando juicios de valor (lección 8.3) | Dos frases modelo |
+| 54–60 | Comprobación | Pasar la lista del módulo: variedad coherente, fuentes, sin jerarquías | Lista marcada |
+
+**Preguntas para cerrar la sesión:** ¿qué bloque se alargó más de lo previsto? ¿Qué parte te resultó más útil para tu práctica? ¿Qué harás de forma distinta la próxima vez?
+
+**Evaluación de la sesión:** los rasgos señalados están comprobados en fuentes fiables y el discurso no califica ninguna variedad.
+
 ## Evaluación y tarea del módulo {#evaluacion}
 
 ```quiz

@@ -264,6 +264,27 @@ Que **conocer** la regla (conocimiento explícito) y **usarla** en tiempo real (
 > [!CONSEJO] Desconfía de los «estilos de aprendizaje»
 > La idea de que cada persona aprende mejor si se le enseña según su «estilo» (visual, auditivo, kinestésico) es muy popular, pero las revisiones de la evidencia (Pashler y otros, 2008) **no encontraron apoyo** a la hipótesis de que adaptar la enseñanza al estilo preferido mejore el aprendizaje. Sí tiene sentido usar **varias modalidades** (imagen, texto, audio, gesto) para todos los estudiantes y tener en cuenta preferencias para la motivación.
 
+## Sesión de 60 minutos: diagnosticar errores como evidencia de interlengua {#sesion-60}
+
+> **Objetivo de la sesión:** analizar una muestra real de producción oral o escrita, clasificar sus errores y decidir qué trabajar en la siguiente clase.
+
+**Antes de empezar:** reserva la hora completa, ten a mano los materiales de la tabla y, si practicas con un estudiante real o simulado, avisa de que la sesión tiene un objetivo de trabajo. Cronometra cada bloque; si uno se alarga, reduce el siguiente en lugar de saltarte el cierre.
+
+| Min. | Bloque | Qué hacer | Producto |
+|---|---|---|---|
+| 0–5 | Activación | ¿Qué error de un estudiante te ha costado más entender? | Lista de dos casos |
+| 5–15 | Conceptos | Repasar error/falta, interlengua y transferencia (lecciones 2.1 a 2.4) | Definiciones propias |
+| 15–30 | Análisis | Clasificar 10 errores de una muestra de 5 minutos (con permiso): sobregeneralización, transferencia, simplificación, registro | Tabla de clasificación |
+| 30–40 | Decisión | Para cada error: ¿es error o falta? ¿Lo corregirías ahora o después? ¿Por qué? | Tres decisiones justificadas |
+| 40–52 | Práctica de recuperación | Diseñar una tarea de recuperación espaciada para 6 elementos del análisis (lección 2.6) | Tarjetas o calendario |
+| 52–60 | Reflexión | ¿Qué concepto de ASL cambió tu forma de corregir? | Párrafo de 5 líneas |
+
+**Materiales:** una muestra de 5 minutos de producción de un estudiante (grabada con consentimiento o transcrita por el propio estudiante).
+
+**Preguntas para cerrar la sesión:** ¿qué bloque se alargó más de lo previsto? ¿Qué parte te resultó más útil para tu práctica? ¿Qué harás de forma distinta la próxima vez?
+
+**Evaluación de la sesión:** las decisiones se basan en lo que el estudiante produce, no en suposiciones sobre su lengua materna.
+
 ## Evaluación y tarea del módulo {#evaluacion}
 
 ```quiz

@@ -23,6 +23,25 @@ objectives:
 
 Evaluar no es poner notas. En una clase de idiomas, evaluar es **recoger información para tomar decisiones**: qué enseñar, cómo ayudar al estudiante y cómo mostrarle su progreso. En la enseñanza online individual, la evaluación es además una de las mejores herramientas para **retener estudiantes**: quien ve su progreso, continúa.
 
+## Sesión de 60 minutos: evaluar una tarea oral con rúbrica y dar retroalimentación {#sesion-60}
+
+> **Objetivo de la sesión:** evaluar una grabación de 3 minutos con la rúbrica, registrar errores y redactar un informe breve.
+
+**Antes de empezar:** reserva la hora completa, ten a mano los materiales de la tabla y, si practicas con un estudiante real o simulado, avisa de que la sesión tiene un objetivo de trabajo. Cronometra cada bloque; si uno se alarga, reduce el siguiente en lugar de saltarte el cierre.
+
+| Min. | Bloque | Qué hacer | Producto |
+|---|---|---|---|
+| 0–5 | Preparación | Leer los descriptores y ajustarlos al nivel del estudiante (lección 11.2) | Rúbrica ajustada |
+| 5–20 | Escucha | Escuchar la grabación una vez sin puntuar y una segunda con la rúbrica | Notas por criterio |
+| 20–32 | Puntuación | Asignar nivel por criterio con un ejemplo textual de cada uno | Tabla de puntuación |
+| 32–42 | Errores | Completar cinco entradas del registro de errores y marcar los recurrentes (lección 11.5) | Registro |
+| 42–54 | Informe | Redactar 150–200 palabras con lo que puede hacer, prioridades y recomendaciones (lección 11.8) | Informe |
+| 54–60 | Control | Comprobar que el informe aclara que no es una certificación | Lista marcada |
+
+**Preguntas para cerrar la sesión:** ¿qué bloque se alargó más de lo previsto? ¿Qué parte te resultó más útil para tu práctica? ¿Qué harás de forma distinta la próxima vez?
+
+**Evaluación de la sesión:** cada puntuación tiene un ejemplo de la grabación, y el informe no presenta el resultado como certificación.
+
 ## Evaluación diagnóstica, formativa y sumativa
 
 > **Objetivo de la lección:** distinguir los propósitos de la evaluación y planificarlos en un curso.

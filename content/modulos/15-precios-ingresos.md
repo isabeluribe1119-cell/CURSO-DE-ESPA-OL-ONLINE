@@ -251,6 +251,25 @@ Muchos tutores observan variaciones a lo largo del año (vacaciones, inicio de c
 
 *Ejemplo ficticio con fines didácticos.*
 
+## Sesión de 60 minutos: calcular tu precio mínimo y tu oferta {#sesion-60}
+
+> **Objetivo de la sesión:** calcular tu precio mínimo por hora a partir de tus costes reales y diseñar una oferta coherente con ese número.
+
+**Antes de empezar:** reserva la hora completa, ten a mano los materiales de la tabla y, si practicas con un estudiante real o simulado, avisa de que la sesión tiene un objetivo de trabajo. Cronometra cada bloque; si uno se alarga, reduce el siguiente en lugar de saltarte el cierre.
+
+| Min. | Bloque | Qué hacer | Producto |
+|---|---|---|---|
+| 0–10 | Costes | Anotar gastos profesionales y comisiones de los últimos tres meses (lección 15.3) | Lista de costes |
+| 10–22 | Horas vendibles | Estimar horas de clase reales, no horas trabajadas (lección 15.1) | Horas vendibles al mes |
+| 22–34 | Precio mínimo | Usar la [hoja de cálculo de ingresos y gastos](/recursos/ingresos-gastos/) con tus datos | Precio mínimo por hora |
+| 34–46 | Oferta | Diseñar clase suelta, paquete y un programa con objetivo (lección 15.4) | Tres formatos con precio |
+| 46–54 | Política | Escribir la política de caducidad y reembolso de los paquetes | Texto de política |
+| 54–60 | Revisión | Comprobar que ningún paquete baja de tu precio mínimo | Visto bueno |
+
+**Preguntas para cerrar la sesión:** ¿qué bloque se alargó más de lo previsto? ¿Qué parte te resultó más útil para tu práctica? ¿Qué harás de forma distinta la próxima vez?
+
+**Evaluación de la sesión:** el precio mínimo incluye comisiones, gastos e impuestos estimados, y la oferta respeta ese mínimo.
+
 ## Evaluación y tarea del módulo {#evaluacion}
 
 ```quiz

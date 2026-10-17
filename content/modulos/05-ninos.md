@@ -261,6 +261,25 @@ Descarga la [lista de comprobación para clases infantiles](/recursos/lista-clas
 
 **Evaluación:** el niño describe su animal con al menos 5 frases comprensibles y responde a 3 preguntas del tutor.
 
+## Sesión de 60 minutos: diseñar un bloque de tres clases para un niño de 6 años {#sesion-60}
+
+> **Objetivo de la sesión:** preparar una secuencia infantil de tres clases de 30 minutos, con rutinas, vocabulario y comunicación con la familia.
+
+**Antes de empezar:** reserva la hora completa, ten a mano los materiales de la tabla y, si practicas con un estudiante real o simulado, avisa de que la sesión tiene un objetivo de trabajo. Cronometra cada bloque; si uno se alarga, reduce el siguiente en lugar de saltarte el cierre.
+
+| Min. | Bloque | Qué hacer | Producto |
+|---|---|---|---|
+| 0–6 | Perfil | Describir edad, lectura, intereses y papel de la familia (lección 5.1 y 5.10) | Perfil del niño |
+| 6–16 | Rutinas | Diseñar la bienvenida y la despedida (canción con gestos, marioneta) | Guion de rutinas |
+| 16–30 | Vocabulario | Elegir 6 palabras y 3 juegos de movimiento y calma (lección 5.5) | Lista y juegos |
+| 30–42 | Clases 2 y 3 | Ajustar los juegos para que la exigencia de producción suba (escalera de respuesta) | Tres guiones de 30 min |
+| 42–52 | Familia | Redactar el mensaje previo y el informe breve de la primera semana (lección 5.11) | Dos textos |
+| 52–60 | Seguridad | Revisar la [lista de comprobación infantil](/recursos/lista-clases-infantiles/) | Lista marcada |
+
+**Preguntas para cerrar la sesión:** ¿qué bloque se alargó más de lo previsto? ¿Qué parte te resultó más útil para tu práctica? ¿Qué harás de forma distinta la próxima vez?
+
+**Evaluación de la sesión:** cada juego tiene una forma de participar sin hablar, y el mensaje a la familia no contiene diagnósticos.
+
 ## Evaluación y tarea del módulo {#evaluacion}
 
 ```quiz

@@ -283,6 +283,25 @@ Los **objetivos**, las **actividades** y la **evaluación** deben apuntar a lo m
 
 Un informe útil (ver [Módulo 11](/modulos/11-evaluacion/)) indica lo que el estudiante **puede hacer ahora**, con ejemplos, y los objetivos siguientes. Evita afirmar que el estudiante «ya es B2» si no ha realizado una evaluación con criterios explícitos; prefiere formulaciones como «su expresión oral muestra rasgos propios de un B1 alto según los descriptores del MCER».
 
+## Sesión de 60 minutos: diseñar una unidad didáctica completa {#sesion-60}
+
+> **Objetivo de la sesión:** redactar una unidad de tres clases con título comunicativo, objetivos, contenidos por componentes y evaluación alineada.
+
+**Antes de empezar:** reserva la hora completa, ten a mano los materiales de la tabla y, si practicas con un estudiante real o simulado, avisa de que la sesión tiene un objetivo de trabajo. Cronometra cada bloque; si uno se alarga, reduce el siguiente en lugar de saltarte el cierre.
+
+| Min. | Bloque | Qué hacer | Producto |
+|---|---|---|---|
+| 0–8 | Nivel y necesidad | Elegir nivel y necesidad concreta; ubicar la unidad en el mapa curricular (lección 7.9) | Ficha del nivel |
+| 8–20 | Título y tarea final | Escribir un título comunicativo y una tarea de salida (lección 7.4) | Tarea final |
+| 20–32 | Objetivos y componentes | Redactar 3 objetivos «podrá…» y completar funciones, gramática, léxico, pronunciación y cultura | Tabla de componentes |
+| 32–44 | Secuencia | Repartir los contenidos en tres clases con reciclaje (lección 7.5) | Esquema de clases |
+| 44–54 | Evaluación | Definir criterios y el instrumento (rúbrica o lista «puedo…») | Criterios |
+| 54–60 | Comprobación | Verificar que el descriptor del MCER citado está parafraseado y con fuente | Descriptor citado |
+
+**Preguntas para cerrar la sesión:** ¿qué bloque se alargó más de lo previsto? ¿Qué parte te resultó más útil para tu práctica? ¿Qué harás de forma distinta la próxima vez?
+
+**Evaluación de la sesión:** la tarea final está alineada con los objetivos y la evaluación mide lo que la tarea exige.
+
 ## Evaluación y tarea del módulo {#evaluacion}
 
 ```quiz

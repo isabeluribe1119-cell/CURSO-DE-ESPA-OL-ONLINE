@@ -112,6 +112,27 @@ Actividades en las que el estudiante usa lo aprendido para un propósito:
 > [!CONSEJO] Repetir la tarea
 > Repetir una misma tarea con un cambio (otro interlocutor, menos tiempo, sin notas) mejora la fluidez y la precisión. En una clase individual puedes cambiar tú de papel o de actitud: «Ahora soy un camarero muy ocupado que habla rápido».
 
+## Sesión de 60 minutos: planificar y cronometrar una clase real {#sesion-60}
+
+> **Objetivo de la sesión:** escribir un plan de clase completo y comprobar sus tiempos con un ensayo cronometrado.
+
+**Antes de empezar:** reserva la hora completa, ten a mano los materiales de la tabla y, si practicas con un estudiante real o simulado, avisa de que la sesión tiene un objetivo de trabajo. Cronometra cada bloque; si uno se alarga, reduce el siguiente en lugar de saltarte el cierre.
+
+| Min. | Bloque | Qué hacer | Producto |
+|---|---|---|---|
+| 0–8 | Objetivo | Redactar un objetivo «podrá…» con criterio (lección 4.2) | Objetivo de clase |
+| 8–18 | Estructura | Escoger las seis fases y repartir tiempos (lección 4.1 y 4.5) | Tabla de tiempos |
+| 18–34 | Desarrollo | Escribir las instrucciones de cada fase con respuestas esperadas | Plan completo |
+| 34–44 | Ensayo | Recorrer la clase en voz alta con cronómetro y anotar dónde se va el tiempo | Hoja de tiempos reales |
+| 44–52 | Plan B | Definir qué sacrificas si faltan 10 minutos y qué haces si el estudiante no entiende (lección 4.7) | Dos alternativas |
+| 52–60 | Evaluación | Definir evidencia y criterio del objetivo; escribir la tarea final | Criterio medible |
+
+**Materiales:** [plantilla de planificación de clase](/recursos/plan-clase/) y [plantilla de clase de prueba](/recursos/clase-prueba/).
+
+**Preguntas para cerrar la sesión:** ¿qué bloque se alargó más de lo previsto? ¿Qué parte te resultó más útil para tu práctica? ¿Qué harás de forma distinta la próxima vez?
+
+**Evaluación de la sesión:** el ensayo cronometrado termina en ±3 minutos del tiempo previsto.
+
 ## Evaluación formativa y cierre
 
 > **Objetivo de la lección:** cerrar la clase comprobando qué se ha aprendido y conectando con el trabajo autónomo.

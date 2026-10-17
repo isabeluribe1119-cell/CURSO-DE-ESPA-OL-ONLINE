@@ -252,6 +252,25 @@ Muchos estudiantes sienten que «no avanzan» al llegar a B1–B2. Es normal: el
 - **Textos complejos:** ensayo, literatura, prensa de opinión, humor.
 - **Mediación avanzada:** resumir debates, interpretar de forma informal, adaptar textos técnicos.
 
+## Sesión de 60 minutos: conversación estructurada con corrección diferida {#sesion-60}
+
+> **Objetivo de la sesión:** preparar y ensayar una conversación de 50 minutos para un adulto B1 o B2, con objetivo, preguntas graduadas y corrección acordada.
+
+**Antes de empezar:** reserva la hora completa, ten a mano los materiales de la tabla y, si practicas con un estudiante real o simulado, avisa de que la sesión tiene un objetivo de trabajo. Cronometra cada bloque; si uno se alarga, reduce el siguiente en lugar de saltarte el cierre.
+
+| Min. | Bloque | Qué hacer | Producto |
+|---|---|---|---|
+| 0–8 | Objetivo y tema | Elegir un tema de interés del estudiante y un objetivo comunicativo (lección 6.3) | Objetivo y tema |
+| 8–20 | Preguntas graduadas | Escribir 6 preguntas de lo personal a lo abstracto | Lista de preguntas |
+| 20–30 | Banco de expresiones | Reunir 6 expresiones y un giro o dilema | Tarjetas |
+| 30–40 | Corrección | Decidir el tipo de corrección y pactarla por escrito (lección 6.5) | Acuerdo de corrección |
+| 40–52 | Ensayo | Simular 10 minutos con un colega que hace de estudiante | Notas de la simulación |
+| 52–60 | Revisión | Comprobar el tiempo de habla del estudiante y añadir una tarea de cierre | Tarea escrita |
+
+**Preguntas para cerrar la sesión:** ¿qué bloque se alargó más de lo previsto? ¿Qué parte te resultó más útil para tu práctica? ¿Qué harás de forma distinta la próxima vez?
+
+**Evaluación de la sesión:** el tutor habla menos del 40 % del tiempo en la simulación y hay un criterio de corrección escrito.
+
 ## Evaluación y tarea del módulo {#evaluacion}
 
 ```quiz

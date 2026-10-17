@@ -546,6 +546,27 @@ Evitar repeticiones en una conversación de organización usando pronombres de o
 - **B1:** combinaciones (*se lo*), imperativo con pronombres, duplicación.
 - **B2–C1:** *se* de involuntariedad (*se me olvidó*), dativo de interés, leísmo y variación, pronombres en registro formal y estilo periodístico.
 
+## Sesión de 60 minutos: una secuencia completa de ocho pasos {#sesion-60}
+
+> **Objetivo de la sesión:** diseñar y ensayar una secuencia integrada para una estructura elegida, con los ocho pasos del módulo.
+
+**Antes de empezar:** reserva la hora completa, ten a mano los materiales de la tabla y, si practicas con un estudiante real o simulado, avisa de que la sesión tiene un objetivo de trabajo. Cronometra cada bloque; si uno se alarga, reduce el siguiente en lugar de saltarte el cierre.
+
+| Min. | Bloque | Qué hacer | Producto |
+|---|---|---|---|
+| 0–5 | Elección | Escoger una estructura (ser/estar, por/para, subjuntivo, pronombres, perífrasis) y un perfil de estudiante | Ficha del caso |
+| 5–12 | Pasos 1 y 2 | Situación comunicativa realista y objetivo medible | Objetivo escrito |
+| 12–24 | Paso 3 | Presentación del significado: dos escenas y tres preguntas de significado | Escenas y preguntas |
+| 24–34 | Paso 4 | Descubrimiento de la forma y sistematización breve | Tabla de la forma |
+| 34–42 | Paso 5 | Práctica controlada que obligue a atender al significado (cinco ítems) | Ejercicios con clave |
+| 42–50 | Pasos 6 y 7 | Tarea comunicativa y criterio de logro | Tarea y rúbrica corta |
+| 50–57 | Paso 8 | Adaptar la secuencia a un nivel inferior y otro superior | Dos adaptaciones |
+| 57–60 | Revisión | Pasar la [guía para integrar gramáticas](/recursos/guia-integrar-gramaticas/) | Lista marcada |
+
+**Preguntas para cerrar la sesión:** ¿qué bloque se alargó más de lo previsto? ¿Qué parte te resultó más útil para tu práctica? ¿Qué harás de forma distinta la próxima vez?
+
+**Evaluación de la sesión:** la secuencia tiene las tres perspectivas (forma, significado y uso) y termina en una tarea evaluable.
+
 ## Evaluación y tarea del módulo {#evaluacion}
 
 ```quiz

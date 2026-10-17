@@ -300,6 +300,28 @@ Descarga la [plantilla de plan individual](/recursos/plan-individual/).
 > [!ACTIVIDAD] Analiza una clase propia
 > Graba (con permiso explícito del estudiante) o recuerda con detalle una clase reciente. Estima qué porcentaje del tiempo hablaste tú. Identifica en la tabla anterior un error que cometiste y escribe qué harás diferente en la próxima clase.
 
+## Sesión de 60 minutos: primera clase con un estudiante nuevo {#sesion-60}
+
+> **Objetivo de la sesión:** que el tutor practique, en una hora, el proceso completo de entrevista, diagnóstico, objetivos y plan para un estudiante real o simulado.
+
+**Antes de empezar:** reserva la hora completa, ten a mano los materiales de la tabla y, si practicas con un estudiante real o simulado, avisa de que la sesión tiene un objetivo de trabajo. Cronometra cada bloque; si uno se alarga, reduce el siguiente en lugar de saltarte el cierre.
+
+| Min. | Bloque | Qué hacer | Producto |
+|---|---|---|---|
+| 0–5 | Bienvenida | Presentarte, explicar la estructura de la sesión y pedir permiso para tomar notas | — |
+| 5–15 | Entrevista de necesidades | Las tres preguntas (objetivas, deseos, motivación) de la lección 1.4 | Notas en la plantilla de análisis |
+| 15–27 | Diagnóstico breve | Conversación graduada hasta encontrar el «techo» (lección 1.5) | Estimación por destreza |
+| 27–37 | Objetivos | Redactar un objetivo general y dos de unidad en formato SMART (lección 1.6) | Tres objetivos escritos |
+| 37–50 | Plan individual | Esbozar las 4 primeras semanas con contenidos, tareas y fecha de revisión (lección 1.7) | Esquema del plan |
+| 50–57 | Errores y ajustes | Revisar en voz alta dos errores frecuentes de tu práctica (lección 1.8) | Un compromiso concreto |
+| 57–60 | Cierre | Resumen de lo acordado y tarea para la siguiente sesión | Tarea escrita |
+
+**Materiales:** [ficha de diagnóstico](/recursos/ficha-diagnostico/), [plantilla de objetivos SMART](/recursos/objetivos-smart/), [plantilla de plan individual](/recursos/plan-individual/).
+
+**Preguntas para cerrar la sesión:** ¿qué bloque se alargó más de lo previsto? ¿Qué parte te resultó más útil para tu práctica? ¿Qué harás de forma distinta la próxima vez?
+
+**Evaluación de la sesión:** el plan tiene objetivos medibles, un diagnóstico por destrezas y una fecha de revisión. Si falta alguno, repite la sesión con el mismo perfil.
+
 ## Evaluación y tarea del módulo {#evaluacion}
 
 ```quiz

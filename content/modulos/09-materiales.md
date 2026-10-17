@@ -323,6 +323,25 @@ Biblioteca ELE/
 > [!CONSEJO] Registra las fuentes desde el primer día
 > Anota de dónde viene cada imagen o texto de terceros y su licencia. Si un día quieres vender o publicar tus materiales, tendrás que saberlo, y reconstruirlo después es casi imposible.
 
+## Sesión de 60 minutos: crear y revisar una ficha original {#sesion-60}
+
+> **Objetivo de la sesión:** elaborar una ficha completa para un objetivo concreto y revisarla con las dos listas de comprobación.
+
+**Antes de empezar:** reserva la hora completa, ten a mano los materiales de la tabla y, si practicas con un estudiante real o simulado, avisa de que la sesión tiene un objetivo de trabajo. Cronometra cada bloque; si uno se alarga, reduce el siguiente en lugar de saltarte el cierre.
+
+| Min. | Bloque | Qué hacer | Producto |
+|---|---|---|---|
+| 0–8 | Objetivo | Definir objetivo, nivel y perfil (lección 9.1) | Ficha de planificación |
+| 8–22 | Input | Escribir un diálogo o una lectura graduada original (lecciones 9.5 y 9.6) | Texto original |
+| 22–34 | Actividades | Diseñar dos actividades de práctica y una tarea final (lección 9.7) | Actividades con clave |
+| 34–44 | Diseño | Aplicar principios visuales: jerarquía, espacio, contraste (lección 9.2) | Maqueta en Canva u otra herramienta |
+| 44–54 | Revisión | Pasar las listas de revisión lingüística y didáctica (lección 9.9) | Correcciones |
+| 54–60 | Fuentes | Registrar cada elemento de terceros con su licencia (lección 9.10) | Registro de fuentes |
+
+**Preguntas para cerrar la sesión:** ¿qué bloque se alargó más de lo previsto? ¿Qué parte te resultó más útil para tu práctica? ¿Qué harás de forma distinta la próxima vez?
+
+**Evaluación de la sesión:** el material tiene objetivo, clave de respuestas y registro de licencias; no contiene errores lingüísticos sin corregir.
+
 ## Evaluación y tarea del módulo {#evaluacion}
 
 ```quiz
