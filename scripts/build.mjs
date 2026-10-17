@@ -749,7 +749,7 @@ modules.forEach((m, mi) => {
   <div class="grid grid--3" data-filter-list>${clases.map((c) => claseCard(c, 2)).join('\n')}</div>
   <p class="empty-state" data-filter-empty hidden>No hay clases con esa combinación de filtros.</p>
 </div>`;
-  addPage({ route: 'clases/', title: 'Clases modelo', description: 'Diez clases modelo completas para tutores de español online, de A1 a C1, para niños y adultos.', body, breadcrumbs: [{ label: 'Clases modelo' }], section: 'Clases modelo', text: clases.map((c) => c.title).join('. ') });
+  addPage({ route: 'clases/', title: 'Clases modelo', description: `${clases.length} clases modelo completas para tutores de español online, de Pre-A1 a C2, para niños, adolescentes y adultos.`, body, breadcrumbs: [{ label: 'Clases modelo' }], section: 'Clases modelo', text: clases.map((c) => c.title).join('. ') });
 }
 clases.forEach((c, i) => {
   const prev = clases[i - 1];

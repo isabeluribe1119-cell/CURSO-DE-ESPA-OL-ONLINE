@@ -17,7 +17,7 @@ Autora y creadora: **Isabel Uribe** · *Spanish for your life*
 | | |
 |---|---|
 | **17 módulos** con **163 lecciones** | Fundamentos · Adquisición de segundas lenguas · Gramática tradicional, cognitiva y comunicativa · Planificación · Niños de 4 a 10 años · Adolescentes y adultos · Currículo A1–C2 · Perspectiva panhispánica · Materiales · Metodologías · Evaluación · Gestión profesional · Plataformas · Marca personal · Precios e ingresos · Inteligencia artificial · Proyecto final |
-| **10 clases modelo completas** | Clases de prueba (adulto y niño no lector), narración comprensible, ser y estar, indefinido e imperfecto, subjuntivo, conversación B1, español profesional B2, comprensión lectora C1, español colombiano y variación |
+| **22 clases modelo completas** | De Pre-A1 a C2 y de 4 a adultos: clases de prueba, canciones, números y compras, rutinas, proyectos infantiles, intercambio escolar, ser y estar, indefinido e imperfecto, pretérito perfecto, subjuntivo, redes sociales, conversación B1, debate B2, pronunciación B2, español profesional B2, cita médica A2, ensayo C1, comprensión lectora C1, mediación C2 y variación del español colombiano |
 | **19 recursos descargables** | Plantillas, rúbricas, fichas, listas de comprobación, hojas de cálculo (CSV con fórmulas), banco de prompts y plantilla de proyecto final |
 | **Cinco secuencias didácticas integradas** | Ser/estar, indefinido/imperfecto, indicativo/subjuntivo, por/para, pronombres de objeto |
 | **Herramientas web** | Buscador, filtros por nivel, edad, metodología y tipo de recurso, progreso guardado en el navegador (sin cuentas), cuestionarios interactivos, modo oscuro, impresión |

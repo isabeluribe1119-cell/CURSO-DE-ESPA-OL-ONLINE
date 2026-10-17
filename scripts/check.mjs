@@ -34,7 +34,7 @@ for (const r of required) if (!fs.existsSync(path.join(DIST, r))) errors.push(`F
 
 // 2. Mínimos de contenido
 if (info.modulos < 17) errors.push(`Se esperaban 17 módulos y hay ${info.modulos}`);
-if (info.clases < 10) errors.push(`Se esperaban al menos 10 clases modelo y hay ${info.clases}`);
+if (info.clases < 22) errors.push(`Se esperaban al menos 22 clases modelo y hay ${info.clases}`);
 if (info.recursos < 18) errors.push(`Se esperaban al menos 18 recursos y hay ${info.recursos}`);
 
 const textOf = (html) => html.replace(/<script[\s\S]*?<\/script>/g, '').replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ');
