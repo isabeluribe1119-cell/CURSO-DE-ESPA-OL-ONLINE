@@ -1,0 +1,27 @@
+Concepto,Valor,Notas
+PARÁMETROS (cambia los valores de la columna B),,
+Precio medio por clase de 60 minutos,25,Valor ilustrativo; usa tu moneda
+Clases de 60 minutos impartidas en el mes,50,
+Comisión media de plataformas (%),25,Consulta las condiciones vigentes de cada plataforma
+Comisiones de pago y cambio de divisa (importe del mes),25,
+Gastos: herramientas y software,30,
+Gastos: internet y teléfono (parte profesional),25,
+Gastos: formación,15,
+Gastos: equipo (amortización mensual),10,Ejemplo: ordenador de 600 en 5 años = 10 al mes
+Impuestos y cotizaciones estimados (%),20,Valor ilustrativo: consulta tu caso con un profesional
+Horas trabajadas en total en el mes (clases + preparación + gestión),75,
+RESULTADOS (no modificar),,
+Facturación bruta,=B3*B4,
+Comisiones de plataformas,=B14*B5/100,
+Ingresos recibidos,=B14-B15-B6,
+Gastos profesionales,=B7+B8+B9+B10,
+Beneficio antes de impuestos,=B16-B17,
+Impuestos estimados,=B18*B11/100,
+Ingreso neto,=B18-B19,
+Ingreso neto por hora de clase,=B20/B4,
+Ingreso neto por hora trabajada,=B20/B12,
+CÁLCULO DEL PRECIO MÍNIMO,,
+Ingreso neto mensual que necesitas,1000,"Vivienda, alimentación, salud, ahorro…"
+Horas de clase realmente vendibles al mes,80,
+Facturación necesaria,=(B24+B17)/(1-B11/100)/(1-B5/100),
+Precio mínimo por hora de clase,=B26/B25,

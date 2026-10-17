@@ -1,0 +1,49 @@
+name: 🐞 Reporte de error
+description: Señala un error lingüístico, de contenido, un enlace roto o un problema de la web.
+title: "[Error] "
+labels: ["error"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ¡Gracias por ayudar a mejorar Aula Abierta ELE! No incluyas datos personales de estudiantes.
+        Si se trata de un problema de seguridad, no lo publiques aquí: consulta SECURITY.md.
+  - type: dropdown
+    id: tipo
+    attributes:
+      label: Tipo de error
+      options:
+        - Error lingüístico (ortografía, gramática, uso)
+        - Error de contenido o dato incorrecto
+        - Fuente o referencia incorrecta
+        - Enlace roto o descarga que no funciona
+        - Problema de visualización o accesibilidad
+        - Enlace de donación
+        - Otro
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: Página afectada
+      description: Copia la dirección de la página donde está el error.
+      placeholder: https://isabeluribe1119-cell.github.io/CURSO-DE-ESPA-OL-ONLINE/...
+    validations:
+      required: true
+  - type: textarea
+    id: descripcion
+    attributes:
+      label: ¿Qué está mal?
+      description: Copia el fragmento y explica el problema.
+    validations:
+      required: true
+  - type: textarea
+    id: propuesta
+    attributes:
+      label: Propuesta de corrección (opcional)
+      description: Si puedes, indica la versión correcta y una fuente que la respalde.
+  - type: input
+    id: navegador
+    attributes:
+      label: Navegador y dispositivo (solo para problemas de la web)
+      placeholder: Ej. Chrome en Android, Safari en iPhone

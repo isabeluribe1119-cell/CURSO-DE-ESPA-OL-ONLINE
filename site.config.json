@@ -1,0 +1,30 @@
+{
+  "title": "Aula Abierta ELE",
+  "tagline": "Recursos para enseñar español online",
+  "subtitle": "Aprende a planificar, enseñar, evaluar y desarrollar tu negocio como tutor de español online.",
+  "description": "Curso gratuito y colaborativo para tutores de español online: metodología, gramática, planificación, materiales, evaluación y desarrollo profesional.",
+  "author": "Isabel Uribe",
+  "brand": "Spanish for your life",
+  "lang": "es",
+  "siteUrl": "https://isabeluribe1119-cell.github.io/CURSO-DE-ESPA-OL-ONLINE",
+  "repository": "https://github.com/isabeluribe1119-cell/CURSO-DE-ESPA-OL-ONLINE",
+  "branch": "main",
+  "lastReview": "2026-10-17",
+  "paypal": {
+    "_comentario": "Si generas un botón de donación en https://www.paypal.com/donate/buttons, pega aquí su hosted_button_id: tiene prioridad sobre el correo. Ver docs/DONACIONES.md.",
+    "hostedButtonId": "",
+    "businessEmail": "isabeluribe1119@gmail.com",
+    "currency": "USD",
+    "itemName": "Apoyo voluntario a Aula Abierta ELE"
+  },
+  "contact": {
+    "_comentario": "Enlaces públicos opcionales. Deja una cadena vacía para ocultar un enlace.",
+    "issues": "https://github.com/isabeluribe1119-cell/CURSO-DE-ESPA-OL-ONLINE/issues",
+    "newContent": "https://github.com/isabeluribe1119-cell/CURSO-DE-ESPA-OL-ONLINE/issues/new?template=propuesta-contenido.yml",
+    "newBug": "https://github.com/isabeluribe1119-cell/CURSO-DE-ESPA-OL-ONLINE/issues/new?template=reporte-error.yml",
+    "instagram": "",
+    "youtube": "",
+    "linkedin": "",
+    "website": ""
+  }
+}

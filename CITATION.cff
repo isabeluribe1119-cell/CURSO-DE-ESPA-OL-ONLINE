@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "Si utilizas o adaptas este curso, cítalo con estos datos."
+title: "Aula Abierta ELE: recursos para enseñar español online"
+type: dataset
+authors:
+  - family-names: Uribe
+    given-names: Isabel
+abstract: "Curso gratuito y colaborativo para tutores de español online: metodología, gramática, planificación, materiales, evaluación y desarrollo profesional."
+keywords:
+  - ELE
+  - español como lengua extranjera
+  - formación docente
+  - recursos educativos abiertos
+license: CC-BY-SA-4.0
+url: "https://isabeluribe1119-cell.github.io/CURSO-DE-ESPA-OL-ONLINE/"
+repository-code: "https://github.com/isabeluribe1119-cell/CURSO-DE-ESPA-OL-ONLINE"
+date-released: "2026-10-17"
+version: "1.0.0"

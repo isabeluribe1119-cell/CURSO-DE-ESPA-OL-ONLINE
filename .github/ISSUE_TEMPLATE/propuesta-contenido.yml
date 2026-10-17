@@ -1,0 +1,51 @@
+name: 💡 Propuesta de contenido
+description: Propón una lección, actividad, clase modelo, recurso o mejora de contenido.
+title: "[Propuesta] "
+labels: ["propuesta de contenido"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ¡Gracias por proponer contenido! Revisa antes la guía de contribución (CONTRIBUTING.md).
+        Todo contenido aceptado se publica con licencia CC BY-SA 4.0 y con tu atribución, si lo deseas.
+  - type: dropdown
+    id: tipo
+    attributes:
+      label: Tipo de propuesta
+      options:
+        - Nueva lección o ampliación de un módulo
+        - Nueva clase modelo
+        - Nuevo recurso descargable
+        - Entrada del glosario
+        - Referencia bibliográfica
+        - Traducción o adaptación
+        - Otra
+    validations:
+      required: true
+  - type: input
+    id: modulo
+    attributes:
+      label: Módulo o sección relacionada
+  - type: textarea
+    id: descripcion
+    attributes:
+      label: Descripción de la propuesta
+      description: Objetivo, público (nivel, edad), contenido y por qué es útil.
+    validations:
+      required: true
+  - type: textarea
+    id: fuentes
+    attributes:
+      label: Fuentes
+      description: Referencias verificables que respaldan el contenido (si aplica).
+  - type: checkboxes
+    id: compromisos
+    attributes:
+      label: Compromisos
+      options:
+        - label: El contenido es original o tengo derecho a publicarlo con licencia CC BY-SA 4.0.
+          required: true
+        - label: No incluye datos personales de estudiantes.
+          required: true
+        - label: Si usé herramientas de IA, he revisado todo el contenido y me responsabilizo de su exactitud.
+          required: true

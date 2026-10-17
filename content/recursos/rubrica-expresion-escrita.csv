@@ -1,0 +1,8 @@
+Criterio,1 Inicial,2 En desarrollo,3 Adecuado,4 Destacado,Puntuación (1-4),Comentario
+Cumplimiento de la tarea,No responde a la consigna,Responde parcialmente; falta información o extensión,Responde a todos los puntos de la consigna,Responde con detalle y aporta ideas relevantes,,
+Adecuación (registro y género),Registro inadecuado; no respeta el género,Registro irregular; algunos rasgos del género,Registro y convenciones del género adecuados,Registro y estilo muy adecuados al destinatario,,
+Organización y cohesión,Sin estructura; ideas sueltas,Estructura básica; conectores simples o repetidos,Párrafos claros; conectores variados,Estructura excelente; progresión de la información fluida,,
+Corrección gramatical,Errores frecuentes que impiden la comprensión,Errores frecuentes en estructuras básicas,Buen control de las estructuras del nivel,Alto grado de corrección,,
+Léxico,Muy limitado o impreciso,Suficiente con repeticiones,Variado y adecuado,Rico y preciso,,
+Ortografía y puntuación,Errores que dificultan la lectura,"Errores frecuentes (tildes, ¿?, ¡!, puntuación)",Errores ocasionales,Prácticamente sin errores,,
+TOTAL (máx. 24),,,,,=F2+F3+F4+F5+F6+F7,

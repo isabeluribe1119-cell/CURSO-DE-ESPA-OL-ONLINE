@@ -1,0 +1,72 @@
+# Construye el sitio, ejecuta las comprobaciones de calidad y lo publica en GitHub Pages.
+# - En cualquier rama y en pull requests: construcción + comprobaciones.
+# - En la rama por defecto del repositorio: además, publicación en GitHub Pages.
+# Requisito único (manual): Settings → Pages → Build and deployment → Source: «GitHub Actions».
+name: Construir, comprobar y publicar
+
+on:
+  push:
+    branches: ['**']
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: pages-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build:
+    name: Construir y comprobar
+    runs-on: ubuntu-latest
+    env:
+      PUBLISH: ${{ github.event_name != 'pull_request' && github.ref_name == github.event.repository.default_branch }}
+    steps:
+      - name: Descargar el repositorio
+        uses: actions/checkout@v4
+
+      - name: Preparar Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Instalar dependencias
+        run: npm ci
+
+      - name: Obtener la URL de GitHub Pages
+        id: pages
+        if: env.PUBLISH == 'true'
+        uses: actions/configure-pages@v5
+
+      - name: Construir el sitio
+        run: npm run build
+        env:
+          SITE_URL: ${{ steps.pages.outputs.base_url }}
+
+      - name: Comprobar enlaces, contenido y secretos
+        run: npm run check
+
+      - name: Subir el sitio para GitHub Pages
+        if: env.PUBLISH == 'true'
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: dist
+
+  deploy:
+    name: Publicar en GitHub Pages
+    needs: build
+    if: github.event_name != 'pull_request' && github.ref_name == github.event.repository.default_branch
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Publicar
+        id: deployment
+        uses: actions/deploy-pages@v4
